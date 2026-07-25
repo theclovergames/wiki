@@ -10,7 +10,7 @@ Toutes les commandes de cette page sont accessibles à **tous les joueurs**, sau
 Perdu ? `/help` en jeu donne l'aide contextuelle, et `/rules` rappelle le [Règlement](reglement.md).
 {% endhint %}
 
-## Essentiel
+## ⭐ Essentiel
 
 | Commande | Effet |
 | --- | --- |
@@ -28,7 +28,7 @@ Perdu ? `/help` en jeu donne l'aide contextuelle, et `/rules` rappelle le [Règl
 Le temps passé en **AFK ne rapporte aucun crédit**. Voir [Crédits](credits-economie.md#gagner-des-credits).
 {% endhint %}
 
-## Téléportation entre joueurs
+## 🌀 Téléportation entre joueurs
 
 | Commande | Effet |
 | --- | --- |
@@ -38,7 +38,7 @@ Le temps passé en **AFK ne rapporte aucun crédit**. Voir [Crédits](credits-ec
 | `/tpdeny` | Refuse une demande reçue |
 | `/tptoggle` | Bloque ou débloque les demandes entrantes |
 
-## Communication
+## 💬 Communication
 
 | Commande | Effet |
 | --- | --- |
@@ -47,7 +47,7 @@ Le temps passé en **AFK ne rapporte aucun crédit**. Voir [Crédits](credits-ec
 | `/ignore <joueur>` | Ignore un joueur |
 | `/party` | Gestion de votre groupe |
 
-## Économie
+## 💰 Économie
 
 | Commande | Effet |
 | --- | --- |
@@ -59,7 +59,7 @@ Le temps passé en **AFK ne rapporte aucun crédit**. Voir [Crédits](credits-ec
 `/pay` est immédiat et définitif. Vérifiez le pseudo et le montant.
 {% endhint %}
 
-## Progression
+## 📈 Progression
 
 | Commande | Effet |
 | --- | --- |
@@ -70,7 +70,7 @@ Le temps passé en **AFK ne rapporte aucun crédit**. Voir [Crédits](credits-ec
 | `/vote rewards` | Réclame vos paliers de vote |
 | `/vote top [alltime]` | Classement mensuel ou général |
 
-## PvPSoup
+## 🍲 PvPSoup
 
 | Commande | Effet |
 | --- | --- |
@@ -83,7 +83,7 @@ Le temps passé en **AFK ne rapporte aucun crédit**. Voir [Crédits](credits-ec
 
 Tous les détails sont sur [PvPSoup](pvpsoup.md).
 
-## Practice
+## ⚔️ Practice
 
 | Commande | Effet |
 | --- | --- |
@@ -105,7 +105,7 @@ Tous les détails sont sur [PvPSoup](pvpsoup.md).
 
 Tous les détails sont sur [Practice](practice.md).
 
-## Utilitaires
+## 🧰 Utilitaires
 
 | Commande | Effet |
 | --- | --- |
@@ -117,7 +117,7 @@ Tous les détails sont sur [Practice](practice.md).
 | `/ping` | Affiche votre latence |
 | `/scoreboard toggle` | Affiche ou masque le tableau latéral |
 
-## Commandes liées à un grade
+## 👑 Commandes liées à un grade
 
 | Commande | Grade requis | Effet |
 | --- | --- | --- |
@@ -131,7 +131,7 @@ Détail des grades sur [Rangs et grades](rangs-et-grades.md).
 `/fly` n'est pas disponible dans les modes compétitifs : ce serait un avantage de jeu.
 {% endhint %}
 
-## Sans commande
+## 🖱️ Sans commande
 
 Certaines fonctions passent par les menus en jeu plutôt que par une commande :
 

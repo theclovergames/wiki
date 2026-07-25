@@ -8,7 +8,7 @@ description: FFA Soup persistant — kits, safezone, primes, contrats et saisons
 
 Le combat utilise le profil **1.8** : enchaînements, timing de frappe et gestion des soupes.
 
-## Les deux zones
+## 🗺️ Les deux zones
 
 | Zone | Ce qui s'y passe |
 | --- | --- |
@@ -32,7 +32,7 @@ Pendant ce tag, vous ne pouvez ni rentrer en safezone, ni quitter le monde. Une 
 
 La canalisation de `/pvpsoup spawn` est annulée par un mouvement, des dégâts, une téléportation ou un portail.
 
-## Les kits
+## 🎒 Les kits
 
 Huit kits, débloqués par votre niveau. Ce sont des **sidegrades** : aucun n'est plus puissant qu'un autre, et aucun ne s'achète.
 
@@ -65,7 +65,7 @@ Dans l'éditeur, deux clics **permutent** deux emplacements. Vous ne pouvez rien
 
 Votre disposition est liée à la version du kit. Si le kit est mis à jour, l'ancienne disposition est simplement ignorée.
 
-## Combat
+## ⚔️ Combat
 
 ### Les soupes
 
@@ -94,7 +94,7 @@ Sont bloqués pour les joueurs : les conteneurs, le craft, la réparation et la 
 
 Sa valeur : `20 + 5 × (série − 5)` XP, **plafonnée à 75 XP**. Elle revient au joueur qui met fin à votre série.
 
-## Contrats
+## 📋 Contrats
 
 Cinq contrats sont disponibles : **trois quotidiens et deux hebdomadaires**. Ils récompensent directement en **crédits** — voir [Crédits](credits-economie.md).
 
@@ -104,7 +104,7 @@ Cinq contrats sont disponibles : **trois quotidiens et deux hebdomadaires**. Ils
 Il n'existe **aucune monnaie propre à PvPSoup**. Tout passe par les crédits du réseau.
 {% endhint %}
 
-## Événements automatiques
+## 🎉 Événements automatiques
 
 Trois événements tournent d'eux-mêmes, sans annonce préalable :
 
@@ -114,7 +114,7 @@ Trois événements tournent d'eux-mêmes, sans annonce préalable :
 | **Ruée sur les primes** | Double l'XP versée par une prime |
 | **Tempête de soupes** | Ajoute 5 soupes au remplissage d'une élimination |
 
-## Saisons
+## 🗓️ Saisons
 
 Une saison dure **30 jours**. La **saison 1 a commencé le 22 juillet 2026**.
 
@@ -131,7 +131,7 @@ Chaque saison a son propre classement de kills. Vos statistiques all-time ne son
 Les crédits de saison ne sont jamais versés deux fois, même si le serveur redémarre au mauvais moment.
 {% endhint %}
 
-## Classements
+## 🏆 Classements
 
 Trois statues forment le **podium** du top kills all-time, avec les éliminations et la meilleure série de chaque joueur.
 
@@ -139,7 +139,7 @@ Un clic sur une statue ouvre le top 10, avec cinq onglets : **Kills**, **K/D**, 
 
 Un panneau `Top 10` est également affiché en jeu. Les classements se rafraîchissent toutes les cinq minutes.
 
-## Commandes
+## ⌨️ Commandes
 
 | Commande | Effet |
 | --- | --- |
@@ -150,7 +150,7 @@ Un panneau `Top 10` est également affiché en jeu. Les classements se rafraîch
 | `/pvpsoup contracts` | Vos contrats quotidiens et hebdomadaires |
 | `/pvpsoup season [claim]` | Saison en cours et réclamation des récompenses |
 
-## Bon à savoir
+## 💡 Bon à savoir
 
 - **Les groupes ne protègent pas** : le mode est FFA, deux membres d'un même groupe peuvent se combattre.
 - La zone affichée sur votre tableau latéral reflète toujours votre position réelle : ni une téléportation ni une permission ne peut la désynchroniser.

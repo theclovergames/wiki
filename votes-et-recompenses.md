@@ -6,7 +6,7 @@ description: Voter pour Clover Games, réclamer vos paliers et suivre le classem
 
 Voter est **gratuit**, prend quelques secondes et aide le serveur à être visible. C'est aussi la source de crédits la plus rentable pour un joueur régulier.
 
-## Comment voter
+## 🗳️ Comment voter
 
 1. En jeu, tapez `/vote`.
 2. Cliquez sur un site : son lien s'affiche dans le chat.
@@ -30,7 +30,7 @@ Les deux sites sont accessibles depuis `/vote`. Chacun est comptabilisé sépar�
 Votez avec votre **pseudo exact**, majuscules comprises. Un pseudo mal orthographié envoie le vote dans le vide et la récompense est perdue.
 {% endhint %}
 
-## Paliers de récompenses
+## 🎁 Paliers de récompenses
 
 Vos votes s'accumulent définitivement et débloquent **21 paliers**, de 1 à 500 votes.
 
@@ -46,7 +46,7 @@ Les paliers ne contiennent ni objet physique ni avantage de jeu : uniquement des
 Les paliers ne sont **pas automatiques** : ils doivent être réclamés dans `/vote rewards`. Un palier atteint reste réclamable indéfiniment, vous ne perdez rien en tardant.
 {% endhint %}
 
-## Vote party
+## 🎉 Vote party
 
 Les votes de **tous les joueurs** alimentent un compteur collectif.
 
@@ -55,7 +55,7 @@ Les votes de **tous les joueurs** alimentent un compteur collectif.
 
 La progression est visible dans `/vote`. Il n'est pas nécessaire d'avoir voté soi-même pour en profiter, mais il faut être en ligne.
 
-## Classement mensuel
+## 🏆 Classement mensuel
 
 Un classement des voteurs est tenu chaque mois et remis à zéro au changement de mois.
 
@@ -69,7 +69,7 @@ Les récompenses sont versées dès le changement de mois, ou à votre prochaine
 
 Votre total de votes depuis toujours n'est jamais réinitialisé : seul le compteur du mois repart de zéro.
 
-## Commandes
+## ⌨️ Commandes
 
 | Commande | Effet |
 | --- | --- |
@@ -78,7 +78,7 @@ Votre total de votes depuis toujours n'est jamais réinitialisé : seul le compt
 | `/vote top` | Classement du mois en cours |
 | `/vote top alltime` | Classement de tous les temps |
 
-## Problèmes fréquents
+## ❓ Problèmes fréquents
 
 | Situation | Cause probable |
 | --- | --- |

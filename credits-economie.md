@@ -19,7 +19,7 @@ Votre solde est **commun à tout le réseau** : les crédits gagnés dans un mod
 **Référence de tarification : 100 crédits = 1,00 €.** Cette équivalence sert uniquement à fixer et comparer les prix de la boutique. Elle ne constitue **pas** une promesse de conversion ni de remboursement en argent réel : les crédits ne peuvent pas être échangés contre de l'argent.
 {% endhint %}
 
-## Gagner des crédits
+## 📥 Gagner des crédits
 
 ### En jouant
 
@@ -46,7 +46,7 @@ Des crédits peuvent être achetés sur la [boutique](https://store.clovergames.
 
 Si vous possédez un grade, vous recevez une allocation mensuelle automatique : 25 crédits (VIP), 65 (Prestige), 100 (Légende), 175 (Divin). Voir [Rangs et grades](rangs-et-grades.md).
 
-## Dépenser des crédits
+## 🛒 Dépenser des crédits
 
 | Dépense | Où |
 | --- | --- |
@@ -60,7 +60,7 @@ Si vous possédez un grade, vous recevez une allocation mensuelle automatique : 
 **Rien de ce qui s'achète ne donne d'avantage en combat.** C'est une règle de conception : les crédits achètent de l'apparence et du confort, jamais de la puissance.
 {% endhint %}
 
-## Consulter et transférer
+## 🔎 Consulter et transférer
 
 | Commande | Effet |
 | --- | --- |
@@ -72,7 +72,7 @@ Si vous possédez un grade, vous recevez une allocation mensuelle automatique : 
 Un transfert avec `/pay` est **immédiat et définitif**. Vérifiez le pseudo et le montant avant de valider : le staff ne rembourse pas une erreur de saisie, et « prêter » des crédits à un inconnu revient à les perdre.
 {% endhint %}
 
-## Traçabilité
+## 🧾 Traçabilité
 
 Chaque mouvement de crédits est enregistré dans un journal permanent avec son origine, sa référence et sa date.
 

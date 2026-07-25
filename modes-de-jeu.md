@@ -4,7 +4,7 @@ description: Ce qui est jouable aujourd'hui sur Clover Games, et ce qui arrive.
 
 # Les modes de jeu
 
-## Disponibles maintenant
+## 🟢 Disponibles maintenant
 
 | Mode | Ce que c'est |
 | --- | --- |
@@ -17,13 +17,13 @@ description: Ce qui est jouable aujourd'hui sur Clover Games, et ce qui arrive.
 Tout est accessible dès votre première connexion. Aucun mode ne demande d'achat pour être joué — voir [Crédits](credits-economie.md).
 {% endhint %}
 
-## En développement
+## 🔧 En développement
 
 | Mode | État |
 | --- | --- |
 | **SkyPvP** | Progression et saisons en cours de définition |
 
-## Prévus
+## 🗓️ Prévus
 
 Ces modes sont au programme, sans date annoncée.
 
@@ -39,7 +39,7 @@ Ces modes sont au programme, sans date annoncée.
 Nous préférons annoncer un mode comme *prévu* plutôt que publier des règles pour un mode qui n'existe pas encore. Les dates sont communiquées sur le [Discord](https://dsc.clovergames.fr) quand elles sont tenables.
 {% endhint %}
 
-## Événements
+## 🎉 Événements
 
 Les événements sont des animations ponctuelles, annoncées à l'avance sur le [Discord](https://dsc.clovergames.fr).
 
@@ -56,7 +56,7 @@ Chacun recevra sa page dès que son déroulé et ses récompenses seront arrêt�
 PvPSoup dispose de ses **propres** événements automatiques, indépendants de ceux du réseau — voir [PvPSoup](pvpsoup.md#evenements-automatiques).
 {% endhint %}
 
-## Ce qui fonctionne partout
+## 🌐 Ce qui fonctionne partout
 
 Ces systèmes vous suivent d'un mode à l'autre :
 
@@ -71,7 +71,7 @@ Ces systèmes vous suivent d'un mode à l'autre :
 | **Familiers et gadgets** | Cosmétiques, sans effet en combat |
 | **Nick** | Pseudo et skin personnalisés selon le grade |
 
-## Suivre l'avancement
+## 📣 Suivre l'avancement
 
 - **Discord** — [dsc.clovergames.fr](https://dsc.clovergames.fr) : annonces, nouveautés, événements.
 - **Site** — [clovergames.fr](https://clovergames.fr) : actualités, statut du serveur et classements.

@@ -8,7 +8,7 @@ description: Duels 1v1 et 2v2, kits, classement ELO, bots d'entraînement et rep
 
 Tapez `/practice` depuis le lobby pour commencer.
 
-## Démarrer un duel
+## ⚔️ Démarrer un duel
 
 Tapez `/practice` pour ouvrir le menu. Vous choisissez d'affronter **un joueur** ou **un bot**.
 
@@ -26,7 +26,7 @@ En file classée, la fenêtre de recherche d'adversaire s'élargit progressiveme
 Un groupe de deux rejoint le 2v2 comme équipe déjà formée. Un groupe de quatre qui choisit le 2v2 non classé est réparti automatiquement en deux équipes de deux, sans passer par la file publique. Dans un groupe de 2 à 8 joueurs, le chef peut lancer `/team split <kit>` pour créer deux camps équilibrés.
 {% endhint %}
 
-## Les kits
+## 🎒 Les kits
 
 Onze kits sont disponibles :
 
@@ -54,7 +54,7 @@ Onze kits sont disponibles :
 - **En BuildUHC**, l'arène est restaurée à l'identique après chaque match.
 - **Pendant le compte à rebours** (3, 2, 1, GO), vous ne pouvez ni bouger ni utiliser d'objet : interactions, nourriture, potions, projectiles et perles de l'End sont bloqués jusqu'au départ.
 
-## File d'attente et inventaire
+## ⏳ File d'attente et inventaire
 
 Quand vous rejoignez une file, votre inventaire est **mis de côté** et remplacé par une barre vide contenant une poudre de redstone **« Quitter la file »**.
 
@@ -70,7 +70,7 @@ Vous ne pouvez pas perdre votre inventaire en jouant à Practice. Un instantané
 
 Si aucune arène compatible n'est configurée pour le kit demandé, la file est refusée immédiatement avec un message clair.
 
-## Classement ELO
+## 🏆 Classement ELO
 
 Chaque combinaison **kit + format** possède son propre ELO.
 
@@ -103,7 +103,7 @@ Les **duels privés, les matchs entre groupes et les combats contre bots ne sont
 
 Les montants vont de 0 à 100 crédits selon le palier. La récompense n'est versée qu'une fois, même en cas de coupure du serveur au mauvais moment.
 
-## Bots d'entraînement
+## 🤖 Bots d'entraînement
 
 `/botfight <kit> [easy|normal|hard|expert]`
 
@@ -117,7 +117,7 @@ Les combats contre bots sont **enregistrés en replay** mais **n'alimentent jama
 
 Une arène accueille au maximum quatre combattants par camp. Selon le nombre de joueurs humains présents, les camps sont complétés par des bots pour atteindre l'équilibre.
 
-## Replays
+## 🎬 Replays
 
 Chaque match peut être revu. Le replay rejoue positions, équipements, animations et flèches, dans l'arène exacte du combat d'origine.
 
@@ -136,14 +136,14 @@ Chaque match peut être revu. Le replay rejoue positions, équipements, animatio
 
 Seuls les **participants** d'un match peuvent voir son replay.
 
-## Historique et revanche
+## 📜 Historique et revanche
 
 `/practice history` ouvre vos **63 derniers combats** avec leur résultat.
 
 - **Clic gauche** sur un combat : lance son replay, s'il existe encore.
 - **Clic droit** après un 1v1 : propose une **revanche amicale non classée** au même adversaire, avec le même kit.
 
-## Effets de victoire
+## 🎆 Effets de victoire
 
 Un effet visuel se déclenche à la fin d'un match que vous gagnez.
 
@@ -161,7 +161,7 @@ Un effet visuel se déclenche à la fin d'un match que vous gagnez.
 
 Votre choix est conservé d'une session à l'autre. Ces effets sont purement décoratifs.
 
-## Toutes les commandes Practice
+## ⌨️ Toutes les commandes Practice
 
 | Commande | Effet |
 | --- | --- |

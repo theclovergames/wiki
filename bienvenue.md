@@ -10,7 +10,7 @@ description: Ce qu'est Clover Games, ce qui est jouable et par où commencer.
 **Quatre univers vous attendent** : le **Lobby**, le **[Practice](practice.md)** pour les duels classés, le **[PvPSoup](pvpsoup.md)** en combat libre, et le **Créatif** pour construire. D'autres modes arrivent — [voir l'état de chacun](modes-de-jeu.md).
 {% endhint %}
 
-## Par où commencer
+## 🧭 Par où commencer
 
 | Vous voulez… | Allez à |
 | --- | --- |
@@ -21,7 +21,7 @@ description: Ce qu'est Clover Games, ce qui est jouable et par où commencer.
 | Trouver une commande | [Toutes les commandes](commandes.md) |
 | Signaler un joueur ou un bug | [Support et signalements](support-et-signalements.md) |
 
-## Nos adresses officielles
+## 🔗 Nos adresses officielles
 
 | Service | Adresse |
 | --- | --- |
@@ -35,7 +35,7 @@ description: Ce qu'est Clover Games, ce qui est jouable et par où commencer.
 Le Discord est notre canal principal : annonces, sessions de test, support et suivi du développement s'y passent. Si le lien court ne fonctionne pas, utilisez [discord.gg/BVVe2WqUvh](https://discord.gg/BVVe2WqUvh).
 {% endhint %}
 
-## Ce que vous trouverez sur Clover Games
+## ✨ Ce que vous trouverez sur Clover Games
 
 - **Des mini-jeux compétitifs**, en solo ou en équipe, avec classement et progression.
 - **Une économie unique au réseau** : vos crédits vous suivent d'un mode à l'autre et sont consultables sur le site.

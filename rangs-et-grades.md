@@ -4,7 +4,7 @@ description: Les grades joueur, communautaires et staff de Clover Games, et ce q
 
 # Rangs et grades
 
-## Grades joueur
+## 👑 Grades joueur
 
 Les grades joueur s'obtiennent sur la [boutique](https://store.clovergames.fr) avec des crédits. Ils sont **permanents** et cumulatifs : chaque grade conserve les avantages du précédent.
 
@@ -42,7 +42,7 @@ Les grades joueur s'obtiennent sur la [boutique](https://store.clovergames.fr) a
 - `/fly` n'est pas disponible dans les modes compétitifs : il serait un avantage.
 - En cas de problème de livraison, ouvrez un ticket — voir [Support et signalements](support-et-signalements.md#probleme-dachat-ou-de-credits).
 
-## Grades communautaires
+## 🤝 Grades communautaires
 
 Ces grades ne s'achètent pas. Ils sont attribués par le staff.
 
@@ -53,7 +53,7 @@ Ces grades ne s'achètent pas. Ils sont attribués par le staff.
 
 Vous êtes créateur de contenu, streamer ou représentez une communauté ? Ouvrez un ticket sur le [Discord](https://dsc.clovergames.fr) : les programmes créateurs et partenaires sont étudiés au cas par cas.
 
-## Grades du staff
+## 🛡️ Grades du staff
 
 Le staff n'est pas une récompense mais une responsabilité. Chaque grade a un périmètre précis et n'a accès qu'à ce dont il a besoin.
 
