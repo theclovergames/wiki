@@ -42,17 +42,17 @@ redirects:
   wiki/jeux-et-commandes/modes-de-jeu/survie/quetes: commandes.md
   wiki/jeux-et-commandes/modes-de-jeu/survie/niveaux: commandes.md
 
-  # SkyPvP
-  wiki/jeux-et-commandes/modes-de-jeu/skypvp: modes-de-jeu.md
+  # SkyPvP — mode disponible, page dédiée
+  wiki/jeux-et-commandes/modes-de-jeu/skypvp: skypvp.md
   wiki/jeux-et-commandes/modes-de-jeu/skypvp/regles: reglement.md
-  wiki/jeux-et-commandes/modes-de-jeu/skypvp/commandes: commandes.md
-  wiki/jeux-et-commandes/modes-de-jeu/skypvp/kits: modes-de-jeu.md
-  wiki/jeux-et-commandes/modes-de-jeu/skypvp/coffres: modes-de-jeu.md
+  wiki/jeux-et-commandes/modes-de-jeu/skypvp/commandes: skypvp.md
+  wiki/jeux-et-commandes/modes-de-jeu/skypvp/kits: skypvp.md
+  wiki/jeux-et-commandes/modes-de-jeu/skypvp/coffres: skypvp.md
   wiki/jeux-et-commandes/modes-de-jeu/skypvp/coins: credits-economie.md
-  wiki/jeux-et-commandes/modes-de-jeu/skypvp/trainee-de-particules: modes-de-jeu.md
-  wiki/jeux-et-commandes/modes-de-jeu/skypvp/arenes: modes-de-jeu.md
-  wiki/jeux-et-commandes/modes-de-jeu/skypvp/encheres: modes-de-jeu.md
-  wiki/jeux-et-commandes/modes-de-jeu/skypvp/niveaux: commandes.md
+  wiki/jeux-et-commandes/modes-de-jeu/skypvp/trainee-de-particules: skypvp.md
+  wiki/jeux-et-commandes/modes-de-jeu/skypvp/arenes: skypvp.md
+  wiki/jeux-et-commandes/modes-de-jeu/skypvp/encheres: skypvp.md
+  wiki/jeux-et-commandes/modes-de-jeu/skypvp/niveaux: skypvp.md
 
   # PvPSoup — mode disponible, page dédiée
   wiki/jeux-et-commandes/modes-de-jeu/pvpsoup: pvpsoup.md

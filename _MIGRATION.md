@@ -6,7 +6,7 @@ Document de travail interne — **ne pas publier sur le wiki**.
 
 | | Avant | Après |
 | --- | ---: | ---: |
-| Pages publiées | 60 | **11** |
+| Pages publiées | 60 | **12** |
 | Pages vides | 36 | **0** |
 | Profondeur maximale | 5 niveaux | **2 niveaux** |
 | Pages titrées « Règles » | 8 | 1 |
@@ -32,7 +32,8 @@ Le serveur
 Jouer
 ├── Les modes de jeu                → modes-de-jeu.md
 ├── Practice — duels et classement  → practice.md
-└── PvPSoup — FFA Soup              → pvpsoup.md
+├── PvPSoup — FFA Soup              → pvpsoup.md
+└── SkyPvP — FFA PvP                → skypvp.md
 
 Référence
 └── Toutes les commandes            → commandes.md
@@ -124,9 +125,9 @@ redirects:
 
 ## 5. Décisions qui te reviennent
 
-1. ~~**Statut du réseau.**~~ **Résolu.** Modes ouverts confirmés : **Lobby, Practice, PvPSoup, Créatif**. SkyPvP en développement ; Survie, BedWars, SkyWars, Murder et TheLab prévus. `modes-de-jeu.md`, `bienvenue.md` et `practice.md` ont été corrigés en conséquence.
+1. ~~**Statut du réseau.**~~ **Résolu.** Modes ouverts confirmés : **Lobby, Practice, PvPSoup, SkyPvP, Créatif**. Survie, BedWars, SkyWars, Murder et TheLab prévus, sans date. Plus aucun mode en « développement ».
 
-   ⚠️ **`2. Fonctionnalités.md` est désormais faux** : il classe Practice en « activation requise », PvPSoup et SkyPvP en « Envisagé » et Créatif en « Envisagé ». À mettre à jour, c'est la source que je consulte.
+   ⚠️ **`2. Fonctionnalités.md` est désormais faux** : il classe Practice en « activation requise », PvPSoup, SkyPvP et Créatif en « Envisagé ». À mettre à jour, c'est la source que je consulte.
 
    ⚠️ **Le Créatif est ouvert mais n'a aucune page.** Je n'ai trouvé aucune source exploitable : pas de config PlotSquared hors `Sauvegardes/V1.9/`, aucun module `creatif` documenté, seulement un profil d'hologrammes. Il me faut : taille et nombre de parcelles par joueur, commandes de claim et de gestion, droits d'invités, limites (redstone, entités, WorldEdit), et règles de modération des constructions.
 

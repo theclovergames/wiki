@@ -18,6 +18,7 @@
 * [Les modes de jeu](modes-de-jeu.md)
 * [Practice — duels et classement](practice.md)
 * [PvPSoup — FFA Soup](pvpsoup.md)
+* [SkyPvP — FFA PvP](skypvp.md)
 
 ## Référence
 

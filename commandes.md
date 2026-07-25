@@ -83,6 +83,19 @@ Le temps passé en **AFK ne rapporte aucun crédit**. Voir [Crédits](credits-ec
 
 Tous les détails sont sur [PvPSoup](pvpsoup.md).
 
+## ☁️ SkyPvP
+
+| Commande | Effet |
+| --- | --- |
+| `/skypvp` | Menu principal du mode — alias `/spvp` |
+| `/skypvp spawn` | Retour à la safezone (5 s de canalisation) |
+| `/skypvp stats [joueur]` | Statistiques |
+| `/skypvp top [métrique] [page]` | Classements |
+| `/skypvp contracts` | Contrats quotidiens et hebdomadaires |
+| `/skypvp season [claim]` | Saison en cours et récompenses |
+
+Tous les détails sont sur [SkyPvP](skypvp.md).
+
 ## ⚔️ Practice
 
 | Commande | Effet |
