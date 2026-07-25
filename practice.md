@@ -84,7 +84,21 @@ Chaque combinaison **kit + format** possède son propre ELO.
 
 ### Paliers
 
-Bronze · Silver · Gold · Platinum · Diamond · Master · GrandMaster
+Votre palier découle directement de votre ELO, et détermine votre récompense de fin de saison.
+
+| Palier | ELO minimum | Récompense de saison |
+| --- | ---: | ---: |
+| **Bronze** | 0 | — |
+| **Argent** | 900 | 10 crédits |
+| **Or** | 1 100 | 20 crédits |
+| **Platine** | 1 300 | 35 crédits |
+| **Diamant** | 1 500 | 50 crédits |
+| **Maître** | 1 700 | 75 crédits |
+| **Grand Maître** | 1 900 | 100 crédits |
+
+{% hint style="info" %}
+Vous démarrez à 1 000 d'ELO, donc en **Argent**. Chaque kit et chaque format ont leur palier propre : vous pouvez être Diamant en `nodebuff` 1v1 et Or en `sumo` 2v2.
+{% endhint %}
 
 ### Séries
 
@@ -96,12 +110,12 @@ Les **duels privés, les matchs entre groupes et les combats contre bots ne sont
 
 ### Récompenses de saison
 
-À la fin d'une saison, votre **meilleure cote** vous rapporte des crédits selon votre palier, à deux conditions :
+À la fin d'une saison, votre **meilleure cote** vous rapporte les crédits de votre palier — voir le tableau ci-dessus. Deux conditions :
 
 - avoir joué au moins **25 matchs** ;
 - avoir remporté au moins **10 victoires**.
 
-Les montants vont de 0 à 100 crédits selon le palier. La récompense n'est versée qu'une fois, même en cas de coupure du serveur au mauvais moment.
+La récompense n'est versée qu'une fois, même en cas de coupure du serveur au mauvais moment.
 
 ## 🤖 Bots d'entraînement
 
