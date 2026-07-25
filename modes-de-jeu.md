@@ -1,33 +1,42 @@
 ---
-description: L'état réel de chaque mode de jeu du réseau Clover Games.
+description: Ce qui est jouable aujourd'hui sur Clover Games, et ce qui arrive.
 ---
 
 # Les modes de jeu
 
-Cette page dit la vérité sur ce qui est jouable aujourd'hui. Elle est mise à jour à chaque étape du développement.
+## Disponibles maintenant
 
-{% hint style="warning" %}
-**Le réseau est en préparation.** Aucun mode n'est encore ouvert au public en permanence. Les sessions de test sont annoncées sur le [Discord](https://dsc.clovergames.fr).
+| Mode | Ce que c'est |
+| --- | --- |
+| **Lobby** | Votre point d'arrivée sur le réseau. C'est de là que vous rejoignez les modes. |
+| **[Practice](practice.md)** | Duels 1v1 et 2v2, 11 kits, classement ELO par saison, bots d'entraînement et replays. |
+| **[PvPSoup](pvpsoup.md)** | Combat libre pour tous, persistant. 8 kits débloqués par niveau, primes, contrats et saisons. |
+| **Créatif** | Construction libre sur parcelles. |
+
+{% hint style="success" %}
+Tout est accessible dès votre première connexion. Aucun mode ne demande d'achat pour être joué — voir [Crédits](credits-economie.md).
 {% endhint %}
 
-## État par mode
+## En développement
 
-| Mode | État | Détail |
-| --- | --- | --- |
-| **Practice** — duels et classement | 🟡 En test | Développé. Activation et tests de charge en cours. [Voir la page](practice.md) |
-| **Lobby** | 🟡 En test | Navigation, menus et systèmes transverses en place |
-| **SkyPvP** | 🟠 En développement | Progression et saisons à définir |
-| **PvPSoup** | 🟠 En développement | Boucle de jeu à finaliser |
-| **Survie** | 🔵 Prévu | Concept, version et économie à définir |
-| **Créatif** | 🔵 Prévu | Parcelles et modération à définir |
-| **BedWars** | 🔵 Prévu | Non planifié à court terme |
-| **SkyWars** | 🔵 Prévu | Non planifié à court terme |
-| **Murder** | 🔵 Prévu | Non planifié à court terme |
+| Mode | État |
+| --- | --- |
+| **SkyPvP** | Progression et saisons en cours de définition |
 
-**Légende** — 🟢 ouvert · 🟡 en test · 🟠 en développement · 🔵 prévu, pas de date
+## Prévus
+
+Ces modes sont au programme, sans date annoncée.
+
+| Mode |
+| --- |
+| Survie |
+| BedWars |
+| SkyWars |
+| Murder |
+| TheLab |
 
 {% hint style="info" %}
-Un mode marqué **prévu** n'a ni date ni contenu arrêté. Nous préférons l'annoncer ainsi plutôt que publier des règles pour un mode qui n'existe pas encore.
+Nous préférons annoncer un mode comme *prévu* plutôt que publier des règles pour un mode qui n'existe pas encore. Les dates sont communiquées sur le [Discord](https://dsc.clovergames.fr) quand elles sont tenables.
 {% endhint %}
 
 ## Événements
@@ -36,33 +45,33 @@ Les événements sont des animations ponctuelles, annoncées à l'avance sur le 
 
 | Événement | État |
 | --- | --- |
-| Mineral Contest | 🔵 Prévu |
-| PvPSwap | 🔵 Prévu |
-| Chasse au coffre | 🔵 Prévu |
-| Fallen Kingdom | 🔵 Prévu |
+| Mineral Contest | Prévu |
+| PvPSwap | Prévu |
+| Chasse au coffre | Prévu |
+| Fallen Kingdom | Prévu |
 
-Chaque événement recevra sa page dédiée dès que son déroulé, ses règles et ses récompenses seront arrêtés.
+Chacun recevra sa page dès que son déroulé et ses récompenses seront arrêtés.
 
-## Ce qui existe déjà sur tout le réseau
+{% hint style="info" %}
+PvPSoup dispose de ses **propres** événements automatiques, indépendants de ceux du réseau — voir [PvPSoup](pvpsoup.md#evenements-automatiques).
+{% endhint %}
 
-Ces systèmes fonctionnent indépendamment des modes de jeu :
+## Ce qui fonctionne partout
+
+Ces systèmes vous suivent d'un mode à l'autre :
 
 | Système | Ce que ça fait |
 | --- | --- |
-| **Crédits** | Monnaie unique partagée — [en savoir plus](credits-economie.md) |
-| **Niveaux** | XP et récompenses de progression |
+| **Crédits** | Monnaie unique du réseau — [en savoir plus](credits-economie.md) |
+| **Niveaux** | XP et récompenses de progression. Débloquent les kits PvPSoup. |
 | **Défis** | Objectifs quotidiens et hebdomadaires |
 | **Temps de jeu** | Paliers et récompenses d'activité |
 | **Votes** | Paliers, vote party et classements — [en savoir plus](votes-et-recompenses.md) |
-| **Amis et groupes** | Présence et groupes multiserveurs |
-| **Familiers et gadgets** | Cosmétiques sans effet en combat |
+| **Amis et groupes** | Présence et groupes entre les serveurs |
+| **Familiers et gadgets** | Cosmétiques, sans effet en combat |
 | **Nick** | Pseudo et skin personnalisés selon le grade |
 
 ## Suivre l'avancement
 
-- **Discord** — [dsc.clovergames.fr](https://dsc.clovergames.fr) : annonces, devlogs, dates de bêta.
-- **Site** — [clovergames.fr](https://clovergames.fr) : actualités et statut du serveur.
-
-{% hint style="success" %}
-Vous voulez aider ? Les sessions de bêta ont besoin de testeurs. Les inscriptions sont annoncées sur le Discord.
-{% endhint %}
+- **Discord** — [dsc.clovergames.fr](https://dsc.clovergames.fr) : annonces, nouveautés, événements.
+- **Site** — [clovergames.fr](https://clovergames.fr) : actualités, statut du serveur et classements.

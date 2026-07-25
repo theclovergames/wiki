@@ -54,12 +54,12 @@ redirects:
   wiki/jeux-et-commandes/modes-de-jeu/skypvp/encheres: modes-de-jeu.md
   wiki/jeux-et-commandes/modes-de-jeu/skypvp/niveaux: commandes.md
 
-  # PvPSoup
-  wiki/jeux-et-commandes/modes-de-jeu/pvpsoup: modes-de-jeu.md
+  # PvPSoup — mode disponible, page dédiée
+  wiki/jeux-et-commandes/modes-de-jeu/pvpsoup: pvpsoup.md
   wiki/jeux-et-commandes/modes-de-jeu/pvpsoup/regles: reglement.md
-  wiki/jeux-et-commandes/modes-de-jeu/pvpsoup/commandes: commandes.md
-  wiki/jeux-et-commandes/modes-de-jeu/pvpsoup/niveaux: commandes.md
-  wiki/jeux-et-commandes/modes-de-jeu/pvpsoup/kits: modes-de-jeu.md
+  wiki/jeux-et-commandes/modes-de-jeu/pvpsoup/commandes: pvpsoup.md
+  wiki/jeux-et-commandes/modes-de-jeu/pvpsoup/niveaux: pvpsoup.md
+  wiki/jeux-et-commandes/modes-de-jeu/pvpsoup/kits: pvpsoup.md
 
   # BedWars
   wiki/jeux-et-commandes/modes-de-jeu/bedwars: modes-de-jeu.md

@@ -1,13 +1,13 @@
 ---
-description: Ce qu'est Clover Games, où en est le projet et par où commencer.
+description: Ce qu'est Clover Games, ce qui est jouable et par où commencer.
 ---
 
 # Bienvenue sur Clover Games
 
 **Clover Games** est un réseau Minecraft français consacré aux mini-jeux emblématiques, remasterisés avec soin.
 
-{% hint style="warning" %}
-**Le réseau est en préparation.** Les modes de jeu sont en cours de développement et de test. Consultez [Les modes de jeu](modes-de-jeu.md) pour l'état exact de chacun, et le [Discord](https://dsc.clovergames.fr) pour les dates de bêta.
+{% hint style="success" %}
+**Quatre univers vous attendent** : le **Lobby**, le **[Practice](practice.md)** pour les duels classés, le **[PvPSoup](pvpsoup.md)** en combat libre, et le **Créatif** pour construire. D'autres modes arrivent — [voir l'état de chacun](modes-de-jeu.md).
 {% endhint %}
 
 ## Par où commencer

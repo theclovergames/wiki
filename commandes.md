@@ -70,6 +70,19 @@ Le temps passé en **AFK ne rapporte aucun crédit**. Voir [Crédits](credits-ec
 | `/vote rewards` | Réclame vos paliers de vote |
 | `/vote top [alltime]` | Classement mensuel ou général |
 
+## PvPSoup
+
+| Commande | Effet |
+| --- | --- |
+| `/pvpsoup` | Menu principal du mode |
+| `/pvpsoup spawn` | Retour à la safezone (5 s de canalisation) |
+| `/pvpsoup stats [joueur]` | Statistiques |
+| `/pvpsoup top [métrique] [page]` | Classements |
+| `/pvpsoup contracts` | Contrats quotidiens et hebdomadaires |
+| `/pvpsoup season [claim]` | Saison en cours et récompenses |
+
+Tous les détails sont sur [PvPSoup](pvpsoup.md).
+
 ## Practice
 
 | Commande | Effet |

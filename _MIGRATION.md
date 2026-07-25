@@ -6,7 +6,7 @@ Document de travail interne — **ne pas publier sur le wiki**.
 
 | | Avant | Après |
 | --- | ---: | ---: |
-| Pages publiées | 60 | **10** |
+| Pages publiées | 60 | **11** |
 | Pages vides | 36 | **0** |
 | Profondeur maximale | 5 niveaux | **2 niveaux** |
 | Pages titrées « Règles » | 8 | 1 |
@@ -31,7 +31,8 @@ Le serveur
 
 Jouer
 ├── Les modes de jeu                → modes-de-jeu.md
-└── Practice — duels et classement  → practice.md
+├── Practice — duels et classement  → practice.md
+└── PvPSoup — FFA Soup              → pvpsoup.md
 
 Référence
 └── Toutes les commandes            → commandes.md
@@ -123,7 +124,11 @@ redirects:
 
 ## 5. Décisions qui te reviennent
 
-1. **Statut du réseau.** J'ai écrit les pages en partant de `2. Fonctionnalités.md` : aucun mode ouvert, Practice et Lobby en test. Si le serveur est déjà ouvert, il faut ajuster `modes-de-jeu.md` et l'encadré de `bienvenue.md`.
+1. ~~**Statut du réseau.**~~ **Résolu.** Modes ouverts confirmés : **Lobby, Practice, PvPSoup, Créatif**. SkyPvP en développement ; Survie, BedWars, SkyWars, Murder et TheLab prévus. `modes-de-jeu.md`, `bienvenue.md` et `practice.md` ont été corrigés en conséquence.
+
+   ⚠️ **`2. Fonctionnalités.md` est désormais faux** : il classe Practice en « activation requise », PvPSoup et SkyPvP en « Envisagé » et Créatif en « Envisagé ». À mettre à jour, c'est la source que je consulte.
+
+   ⚠️ **Le Créatif est ouvert mais n'a aucune page.** Je n'ai trouvé aucune source exploitable : pas de config PlotSquared hors `Sauvegardes/V1.9/`, aucun module `creatif` documenté, seulement un profil d'hologrammes. Il me faut : taille et nombre de parcelles par joueur, commandes de claim et de gestion, droits d'invités, limites (redstone, entités, WorldEdit), et règles de modération des constructions.
 
 2. **Publication de `rangs-et-grades.md`.** Ta doc interne est explicite : *« Un audit offre par offre est obligatoire avant toute vente »* et *« les avantages commerciaux annoncés dépassent parfois les permissions réellement livrées »*. La page ne documente que les avantages confirmés côté plugin (identité, homes, `/feed`, `/nick`, `/fly`, allocation mensuelle). **Ne la publie qu'après l'audit**, et vérifie qu'elle ne contredit pas les fiches de la boutique — notamment `/vip`, `/abonnement`, `/privé`, les remises cosmétiques et les limites d'amis, qui n'ont aujourd'hui aucun mécanisme technique documenté.
 

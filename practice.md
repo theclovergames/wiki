@@ -6,9 +6,7 @@ description: Duels 1v1 et 2v2, kits, classement ELO, bots d'entraînement et rep
 
 **Practice** est le mode compétitif de Clover Games : des duels courts, onze kits différents, un classement ELO par saison, des bots pour s'entraîner et un système de replay pour revoir ses combats.
 
-{% hint style="warning" %}
-Practice est **en test**. Les sessions sont annoncées sur le [Discord](https://dsc.clovergames.fr). Le contenu de cette page décrit le mode tel qu'il est développé ; certains réglages peuvent encore évoluer avant l'ouverture.
-{% endhint %}
+Tapez `/practice` depuis le lobby pour commencer.
 
 ## Démarrer un duel
 
