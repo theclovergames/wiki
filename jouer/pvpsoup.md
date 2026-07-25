@@ -1,0 +1,157 @@
+---
+description: FFA Soup persistant — kits, safezone, primes, contrats et saisons.
+---
+
+# PvPSoup — FFA Soup
+
+**PvPSoup** est un mode combat libre pour tous, persistant : pas de partie à rejoindre, pas de file d'attente. Vous entrez dans la warzone, vous vous battez, vous montez en niveau et vous débloquez des kits.
+
+Le combat utilise le profil **1.8** : enchaînements, timing de frappe et gestion des soupes.
+
+## 🗺️ Les deux zones
+
+| Zone         | Ce qui s'y passe                                             |
+| ------------ | ------------------------------------------------------------ |
+| **Safezone** | Aucun combat possible. Vous choisissez et équipez votre kit. |
+| **Warzone**  | Tout le reste du monde. Combat libre.                        |
+
+Pour passer en warzone, il faut **avoir équipé un kit**. Sans kit, le passage est refusé avec la raison affichée.
+
+### Le tag de combat
+
+Infliger ou recevoir des dégâts vous place **en combat pendant 10 secondes**.
+
+Pendant ce tag, vous ne pouvez ni rentrer en safezone, ni quitter le monde. Une fois expiré, deux options :
+
+* revenir physiquement dans la safezone ;
+* utiliser `/pvpsoup spawn`, qui canalise le retour pendant **5 secondes**.
+
+{% hint style="danger" %}
+**Se déconnecter pendant le tag compte comme une mort**, et l'élimination est attribuée à votre dernier attaquant. Le _combat log_ ne sauve rien.
+{% endhint %}
+
+La canalisation de `/pvpsoup spawn` est annulée par un mouvement, des dégâts, une téléportation ou un portail.
+
+## 🎒 Les kits
+
+Huit kits, débloqués par votre niveau. Ce sont des **sidegrades** : aucun n'est plus puissant qu'un autre, et aucun ne s'achète.
+
+| Kit            | Niveau requis |
+| -------------- | :-----------: |
+| **Soldat**     |       0       |
+| **Archer**     |       0       |
+| **Éclaireur**  |       5       |
+| **Pêcheur**    |       10      |
+| **Gardien**    |       20      |
+| **Alchimiste** |       30      |
+| **Berserker**  |       40      |
+| **Ombre**      |       50      |
+
+{% hint style="success" %}
+Aucun kit ne se vend et aucun grade n'en débloque. Le seul moyen d'y accéder est de jouer.
+{% endhint %}
+
+### Choisir et arranger son kit
+
+Le **coffre au premier emplacement** de votre barre ouvre le menu des kits.
+
+| Action           | Effet                          |
+| ---------------- | ------------------------------ |
+| **Clic gauche**  | Équipe le kit                  |
+| **Clic droit**   | Affiche son contenu            |
+| **Shift + clic** | Ouvre l'éditeur de disposition |
+
+Dans l'éditeur, deux clics **permutent** deux emplacements. Vous ne pouvez rien ajouter, retirer ni changer en quantité : seul l'ordre de vos objets vous appartient.
+
+Votre disposition est liée à la version du kit. Si le kit est mis à jour, l'ancienne disposition est simplement ignorée.
+
+## ⚔️ Combat
+
+### Les soupes
+
+Un **clic droit sur une soupe soigne immédiatement 7 points de vie** (3,5 cœurs), même en plein saut. La soupe disparaît entièrement : aucun bol ne reste pour encombrer votre inventaire.
+
+### Objets de kit
+
+Les objets fournis par votre kit sont **indroppables**, impossibles à ramasser par un autre joueur et sans durabilité. Les objets ordinaires, eux, restent manipulables normalement.
+
+Sont bloqués pour les joueurs : les conteneurs, le craft, la réparation et la destruction de la carte.
+
+### Gains
+
+| Action          | Gain                                                                        |
+| --------------- | --------------------------------------------------------------------------- |
+| **Élimination** | 15 XP + remplissage de 5 emplacements vides avec des soupes                 |
+| **Assistance**  | 5 XP — nécessite au moins 4 points de dégâts dans les 10 dernières secondes |
+
+{% hint style="info" %}
+**Anti-farm** : éliminer le même joueur ne rapporte plus rien pendant **300 secondes**. Se tuer en boucle entre amis ne fonctionne pas.
+{% endhint %}
+
+### Les primes
+
+À partir de **5 éliminations d'affilée**, une prime est placée sur votre tête.
+
+Sa valeur : `20 + 5 × (série − 5)` XP, **plafonnée à 75 XP**. Elle revient au joueur qui met fin à votre série.
+
+## 📋 Contrats
+
+Cinq contrats sont disponibles : **trois quotidiens et deux hebdomadaires**. Ils récompensent directement en **crédits** — voir [Crédits](../le-serveur/credits-economie.md).
+
+`/pvpsoup contracts` pour les consulter.
+
+{% hint style="info" %}
+Il n'existe **aucune monnaie propre à PvPSoup**. Tout passe par les crédits du réseau.
+{% endhint %}
+
+## 🎉 Événements automatiques
+
+Trois événements tournent d'eux-mêmes, sans annonce préalable :
+
+| Événement               | Effet                                            |
+| ----------------------- | ------------------------------------------------ |
+| **Carnage**             | Double l'XP des éliminations et des assistances  |
+| **Ruée sur les primes** | Double l'XP versée par une prime                 |
+| **Tempête de soupes**   | Ajoute 5 soupes au remplissage d'une élimination |
+
+## 🗓️ Saisons
+
+Une saison dure **30 jours**. La **saison 1 a commencé le 22 juillet 2026**.
+
+Chaque saison a son propre classement de kills. Vos statistiques all-time ne sont **jamais** remises à zéro par un changement de saison.
+
+À la clôture, les **10 premiers** reçoivent des crédits.
+
+| Commande                | Effet                                                                |
+| ----------------------- | -------------------------------------------------------------------- |
+| `/pvpsoup season`       | Période en cours, top 10, vos statistiques et vos crédits en attente |
+| `/pvpsoup season claim` | Réclame vos crédits de fin de saison                                 |
+
+{% hint style="info" %}
+Les crédits de saison ne sont jamais versés deux fois, même si le serveur redémarre au mauvais moment.
+{% endhint %}
+
+## 🏆 Classements
+
+Trois statues forment le **podium** du top kills all-time, avec les éliminations et la meilleure série de chaque joueur.
+
+Un clic sur une statue ouvre le top 10, avec cinq onglets : **Kills**, **K/D**, **Assists**, **Meilleure série** et **Primes**.
+
+Un panneau `Top 10` est également affiché en jeu. Les classements se rafraîchissent toutes les cinq minutes.
+
+## ⌨️ Commandes
+
+| Commande                         | Effet                                          |
+| -------------------------------- | ---------------------------------------------- |
+| `/pvpsoup`                       | Menu principal                                 |
+| `/pvpsoup spawn`                 | Retour à la safezone (5 s de canalisation)     |
+| `/pvpsoup stats [joueur]`        | Vos statistiques, ou celles d'un autre joueur  |
+| `/pvpsoup top [métrique] [page]` | Classements                                    |
+| `/pvpsoup contracts`             | Vos contrats quotidiens et hebdomadaires       |
+| `/pvpsoup season [claim]`        | Saison en cours et réclamation des récompenses |
+
+## 💡 Bon à savoir
+
+* **Les groupes ne protègent pas** : le mode est FFA, deux membres d'un même groupe peuvent se combattre.
+* La zone affichée sur votre tableau latéral reflète toujours votre position réelle : ni une téléportation ni une permission ne peut la désynchroniser.
+* Mourir dans le vide compte comme une mort normale.
