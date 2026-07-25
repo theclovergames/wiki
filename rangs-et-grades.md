@@ -6,7 +6,7 @@ description: Les grades joueur, communautaires et staff de Clover Games, et ce q
 
 ## 👑 Grades joueur
 
-Les grades joueur s'obtiennent sur la [boutique](https://store.clovergames.fr) avec des crédits. Ils sont **permanents** et cumulatifs : chaque grade conserve les avantages du précédent.
+Les grades joueur s'obtiennent sur la [boutique](https://clovergames.fr/shop) avec des crédits. Ils sont **permanents** et cumulatifs : chaque grade conserve les avantages du précédent.
 
 | Grade | Prix | Valeur de référence |
 | --- | ---: | ---: |
@@ -37,7 +37,7 @@ Les grades joueur s'obtiennent sur la [boutique](https://store.clovergames.fr) a
 
 ### Avant d'acheter
 
-- Le catalogue complet et à jour de chaque offre se trouve sur [store.clovergames.fr](https://store.clovergames.fr).
+- Le catalogue complet et à jour de chaque offre se trouve sur [clovergames.fr/shop](https://clovergames.fr/shop).
 - Un grade est lié à votre compte Minecraft. Vérifiez votre pseudo avant de valider.
 - `/fly` n'est pas disponible dans les modes compétitifs : il serait un avantage.
 - En cas de problème de livraison, ouvrez un ticket — voir [Support et signalements](support-et-signalements.md#probleme-dachat-ou-de-credits).

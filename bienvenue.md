@@ -27,7 +27,7 @@ description: Ce qu'est Clover Games, ce qui est jouable et par où commencer.
 | --- | --- |
 | Serveur Minecraft | `play.clovergames.fr` |
 | Site | [clovergames.fr](https://clovergames.fr) |
-| Boutique | [store.clovergames.fr](https://store.clovergames.fr) |
+| Boutique | [clovergames.fr/shop](https://clovergames.fr/shop) |
 | Wiki | [wiki.clovergames.fr](https://wiki.clovergames.fr) |
 | Discord | [dsc.clovergames.fr](https://dsc.clovergames.fr) |
 

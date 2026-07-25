@@ -68,7 +68,7 @@ Ce qui relève du fairplay dépend du mode joué : en mode par équipes, s'allie
 
 - Aucun remboursement n'est effectué pour une perte d'objet due au jeu (mort, inattention, autre joueur).
 - En cas de perte causée par un bug avéré du serveur, ouvrez un ticket : la situation sera examinée.
-- Les achats sur la boutique sont régis par les conditions de vente publiées sur [store.clovergames.fr](https://store.clovergames.fr).
+- Les achats sur la boutique sont régis par les conditions de vente publiées sur [clovergames.fr/shop](https://clovergames.fr/shop).
 
 ## 📊 Barème de sanctions
 

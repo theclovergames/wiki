@@ -40,7 +40,7 @@ Le temps **AFK ne compte pas**. Rester connecté sans jouer ne génère aucun cr
 
 ### En achetant
 
-Des crédits peuvent être achetés sur la [boutique](https://store.clovergames.fr). C'est ce qui finance l'hébergement et le développement du réseau.
+Des crédits peuvent être achetés sur la [boutique](https://clovergames.fr/shop). C'est ce qui finance l'hébergement et le développement du réseau.
 
 ### Allocation des grades
 
@@ -50,7 +50,7 @@ Si vous possédez un grade, vous recevez une allocation mensuelle automatique : 
 
 | Dépense | Où |
 | --- | --- |
-| Grades VIP, Prestige, Légende, Divin | [Boutique](https://store.clovergames.fr) |
+| Grades VIP, Prestige, Légende, Divin | [Boutique](https://clovergames.fr/shop) |
 | Cosmétiques et effets visuels | Boutique et menus en jeu |
 | Familiers et gadgets | Menus en jeu |
 | Clefs de caisses | Récompenses de votes et de niveaux |

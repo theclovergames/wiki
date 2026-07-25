@@ -150,7 +150,7 @@ Un effet visuel se déclenche à la fin d'un match que vous gagnez.
 | Effet | Obtention |
 | --- | --- |
 | **Feux d'artifice** | Gratuit, équipé par défaut |
-| **Foudre** | [Boutique](https://store.clovergames.fr), catégorie Visuels |
+| **Foudre** | [Boutique](https://clovergames.fr/shop), catégorie Visuels |
 | **Cœurs** | Boutique, catégorie Visuels |
 | **Totem** | Boutique, catégorie Visuels |
 
