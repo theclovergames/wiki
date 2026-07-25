@@ -1,0 +1,80 @@
+root: ./
+
+structure:
+  summary: SUMMARY.md
+
+redirects:
+  wiki/bienvenue: bienvenue.md
+  wiki/table-des-matieres: bienvenue.md
+  wiki/regles: reglement.md
+  wiki/economies: credits-economie.md
+  wiki/rangs: rangs-et-grades.md
+  wiki/votes: votes-et-recompenses.md
+  wiki/jeux-et-commandes: modes-de-jeu.md
+  wiki/jeux-et-commandes/modes-de-jeu: modes-de-jeu.md
+  wiki/jeux-et-commandes/evenements: modes-de-jeu.md
+  wiki/jeux-et-commandes/evenements/donjons: modes-de-jeu.md
+  wiki/jeux-et-commandes/evenements/pvpswap: modes-de-jeu.md
+  wiki/jeux-et-commandes/evenements/mineral-contest: modes-de-jeu.md
+  wiki/jeux-et-commandes/evenements/chasse-au-coffre: modes-de-jeu.md
+  wiki/jeux-et-commandes/evenements/uhc: modes-de-jeu.md
+  wiki/jeux-et-commandes/evenements/koth: modes-de-jeu.md
+  wiki/jeux-et-commandes/modes-de-jeu/thelab: modes-de-jeu.md
+
+  # Practice — tout converge vers la page unique
+  wiki/jeux-et-commandes/modes-de-jeu/practice: practice.md
+  wiki/jeux-et-commandes/modes-de-jeu/practice/regles: reglement.md
+  wiki/jeux-et-commandes/modes-de-jeu/practice/commandes: practice.md
+  wiki/jeux-et-commandes/modes-de-jeu/practice/bots: practice.md
+  wiki/jeux-et-commandes/modes-de-jeu/practice/divisions: practice.md
+  wiki/jeux-et-commandes/modes-de-jeu/practice/classements: practice.md
+
+  # Survie — non disponible, renvoi vers l'état des modes
+  wiki/jeux-et-commandes/modes-de-jeu/survie: modes-de-jeu.md
+  wiki/jeux-et-commandes/modes-de-jeu/survie/regles: reglement.md
+  wiki/jeux-et-commandes/modes-de-jeu/survie/commandes: commandes.md
+  wiki/jeux-et-commandes/modes-de-jeu/survie/mondes: modes-de-jeu.md
+  wiki/jeux-et-commandes/modes-de-jeu/survie/donjons: modes-de-jeu.md
+  wiki/jeux-et-commandes/modes-de-jeu/survie/caisses: modes-de-jeu.md
+  wiki/jeux-et-commandes/modes-de-jeu/survie/encheres: modes-de-jeu.md
+  wiki/jeux-et-commandes/modes-de-jeu/survie/coffre-de-vente: modes-de-jeu.md
+  wiki/jeux-et-commandes/modes-de-jeu/survie/marche-noir: modes-de-jeu.md
+  wiki/jeux-et-commandes/modes-de-jeu/survie/quetes: commandes.md
+  wiki/jeux-et-commandes/modes-de-jeu/survie/niveaux: commandes.md
+
+  # SkyPvP
+  wiki/jeux-et-commandes/modes-de-jeu/skypvp: modes-de-jeu.md
+  wiki/jeux-et-commandes/modes-de-jeu/skypvp/regles: reglement.md
+  wiki/jeux-et-commandes/modes-de-jeu/skypvp/commandes: commandes.md
+  wiki/jeux-et-commandes/modes-de-jeu/skypvp/kits: modes-de-jeu.md
+  wiki/jeux-et-commandes/modes-de-jeu/skypvp/coffres: modes-de-jeu.md
+  wiki/jeux-et-commandes/modes-de-jeu/skypvp/coins: credits-economie.md
+  wiki/jeux-et-commandes/modes-de-jeu/skypvp/trainee-de-particules: modes-de-jeu.md
+  wiki/jeux-et-commandes/modes-de-jeu/skypvp/arenes: modes-de-jeu.md
+  wiki/jeux-et-commandes/modes-de-jeu/skypvp/encheres: modes-de-jeu.md
+  wiki/jeux-et-commandes/modes-de-jeu/skypvp/niveaux: commandes.md
+
+  # PvPSoup
+  wiki/jeux-et-commandes/modes-de-jeu/pvpsoup: modes-de-jeu.md
+  wiki/jeux-et-commandes/modes-de-jeu/pvpsoup/regles: reglement.md
+  wiki/jeux-et-commandes/modes-de-jeu/pvpsoup/commandes: commandes.md
+  wiki/jeux-et-commandes/modes-de-jeu/pvpsoup/niveaux: commandes.md
+  wiki/jeux-et-commandes/modes-de-jeu/pvpsoup/kits: modes-de-jeu.md
+
+  # BedWars
+  wiki/jeux-et-commandes/modes-de-jeu/bedwars: modes-de-jeu.md
+  wiki/jeux-et-commandes/modes-de-jeu/bedwars/regles: reglement.md
+  wiki/jeux-et-commandes/modes-de-jeu/bedwars/commandes: commandes.md
+  wiki/jeux-et-commandes/modes-de-jeu/bedwars/cosmetiques: modes-de-jeu.md
+  wiki/jeux-et-commandes/modes-de-jeu/bedwars/niveaux: commandes.md
+
+  # SkyWars
+  wiki/jeux-et-commandes/modes-de-jeu/skywars: modes-de-jeu.md
+  wiki/jeux-et-commandes/modes-de-jeu/skywars/regles: reglement.md
+  wiki/jeux-et-commandes/modes-de-jeu/skywars/commandes: commandes.md
+  wiki/jeux-et-commandes/modes-de-jeu/skywars/cosmetiques: modes-de-jeu.md
+
+  # Murder
+  wiki/jeux-et-commandes/modes-de-jeu/murder: modes-de-jeu.md
+  wiki/jeux-et-commandes/modes-de-jeu/murder/regles: reglement.md
+  wiki/jeux-et-commandes/modes-de-jeu/murder/cosmetiques: modes-de-jeu.md
