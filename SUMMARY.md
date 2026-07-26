@@ -12,6 +12,7 @@
 * [Rangs et grades](rangs-et-grades.md)
 * [Crédits — l'économie du réseau](credits-economie.md)
 * [Votes et récompenses](votes-et-recompenses.md)
+* [Le site web](le-site-web.md)
 
 ## Jouer
 

@@ -19,6 +19,7 @@ description: Ce qu'est Clover Games, ce qui est jouable et par où commencer.
 | Savoir ce qui est jouable | [Les modes de jeu](modes-de-jeu.md) |
 | Comprendre les crédits | [Crédits — l'économie du réseau](credits-economie.md) |
 | Trouver une commande | [Toutes les commandes](commandes.md) |
+| Gérer votre compte, voir vos stats | [Le site web](le-site-web.md) |
 | Signaler un joueur ou un bug | [Support et signalements](support-et-signalements.md) |
 
 ## 🔗 Nos adresses officielles
