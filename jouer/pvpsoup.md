@@ -10,10 +10,10 @@ Le combat utilise le profil **1.8** : enchaînements, timing de frappe et gestio
 
 ## 🗺️ Les deux zones
 
-| Zone | Ce qui s'y passe |
-| --- | --- |
+| Zone         | Ce qui s'y passe                                             |
+| ------------ | ------------------------------------------------------------ |
 | **Safezone** | Aucun combat possible. Vous choisissez et équipez votre kit. |
-| **Warzone** | Tout le reste du monde. Combat libre. |
+| **Warzone**  | Tout le reste du monde. Combat libre.                        |
 
 Pour passer en warzone, il faut **avoir équipé un kit**. Sans kit, le passage est refusé avec la raison affichée.
 
@@ -23,11 +23,11 @@ Infliger ou recevoir des dégâts vous place **en combat pendant 10 secondes**.
 
 Pendant ce tag, vous ne pouvez ni rentrer en safezone, ni quitter le monde. Une fois expiré, deux options :
 
-- revenir physiquement dans la safezone ;
-- utiliser `/pvpsoup spawn`, qui canalise le retour pendant **5 secondes**.
+* revenir physiquement dans la safezone ;
+* utiliser `/pvpsoup spawn`, qui canalise le retour pendant **5 secondes**.
 
 {% hint style="danger" %}
-**Se déconnecter pendant le tag compte comme une mort**, et l'élimination est attribuée à votre dernier attaquant. Le *combat log* ne sauve rien.
+**Se déconnecter pendant le tag compte comme une mort**, et l'élimination est attribuée à votre dernier attaquant. Le _combat log_ ne sauve rien.
 {% endhint %}
 
 La canalisation de `/pvpsoup spawn` est annulée par un mouvement, des dégâts, une téléportation ou un portail.
@@ -36,16 +36,16 @@ La canalisation de `/pvpsoup spawn` est annulée par un mouvement, des dégâts,
 
 Huit kits, débloqués par votre niveau. Ce sont des **sidegrades** : aucun n'est plus puissant qu'un autre, et aucun ne s'achète.
 
-| Kit | Niveau requis |
-| --- | :---: |
-| **Soldat** | 0 |
-| **Archer** | 0 |
-| **Éclaireur** | 5 |
-| **Pêcheur** | 10 |
-| **Gardien** | 20 |
-| **Alchimiste** | 30 |
-| **Berserker** | 40 |
-| **Ombre** | 50 |
+| Kit            | Niveau requis |
+| -------------- | :-----------: |
+| **Soldat**     |       0       |
+| **Archer**     |       0       |
+| **Éclaireur**  |       5       |
+| **Pêcheur**    |       10      |
+| **Gardien**    |       20      |
+| **Alchimiste** |       30      |
+| **Berserker**  |       40      |
+| **Ombre**      |       50      |
 
 {% hint style="success" %}
 Aucun kit ne se vend et aucun grade n'en débloque. Le seul moyen d'y accéder est de jouer.
@@ -55,10 +55,10 @@ Aucun kit ne se vend et aucun grade n'en débloque. Le seul moyen d'y accéder e
 
 Le **coffre au premier emplacement** de votre barre ouvre le menu des kits.
 
-| Action | Effet |
-| --- | --- |
-| **Clic gauche** | Équipe le kit |
-| **Clic droit** | Affiche son contenu |
+| Action           | Effet                          |
+| ---------------- | ------------------------------ |
+| **Clic gauche**  | Équipe le kit                  |
+| **Clic droit**   | Affiche son contenu            |
 | **Shift + clic** | Ouvre l'éditeur de disposition |
 
 Dans l'éditeur, deux clics **permutent** deux emplacements. Vous ne pouvez rien ajouter, retirer ni changer en quantité : seul l'ordre de vos objets vous appartient.
@@ -79,10 +79,10 @@ Sont bloqués pour les joueurs : les conteneurs, le craft, la réparation et la 
 
 ### Gains
 
-| Action | Gain |
-| --- | --- |
-| **Élimination** | 15 XP + remplissage de 5 emplacements vides avec des soupes |
-| **Assistance** | 5 XP — nécessite au moins 4 points de dégâts dans les 10 dernières secondes |
+| Action          | Gain                                                                        |
+| --------------- | --------------------------------------------------------------------------- |
+| **Élimination** | 15 XP + remplissage de 5 emplacements vides avec des soupes                 |
+| **Assistance**  | 5 XP — nécessite au moins 4 points de dégâts dans les 10 dernières secondes |
 
 {% hint style="info" %}
 **Anti-farm** : éliminer le même joueur ne rapporte plus rien pendant **300 secondes**. Se tuer en boucle entre amis ne fonctionne pas.
@@ -96,7 +96,7 @@ Sa valeur : `20 + 5 × (série − 5)` XP, **plafonnée à 75 XP**. Elle revient
 
 ## 📋 Contrats
 
-Cinq contrats sont disponibles : **trois quotidiens et deux hebdomadaires**. Ils récompensent directement en **crédits** — voir [Crédits](credits-economie.md).
+Cinq contrats sont disponibles : **trois quotidiens et deux hebdomadaires**. Ils récompensent directement en **crédits** — voir [Crédits](../le-serveur/credits-economie.md).
 
 `/pvpsoup contracts` pour les consulter.
 
@@ -108,11 +108,11 @@ Il n'existe **aucune monnaie propre à PvPSoup**. Tout passe par les crédits du
 
 Trois événements tournent d'eux-mêmes, sans annonce préalable :
 
-| Événement | Effet |
-| --- | --- |
-| **Carnage** | Double l'XP des éliminations et des assistances |
-| **Ruée sur les primes** | Double l'XP versée par une prime |
-| **Tempête de soupes** | Ajoute 5 soupes au remplissage d'une élimination |
+| Événement               | Effet                                            |
+| ----------------------- | ------------------------------------------------ |
+| **Carnage**             | Double l'XP des éliminations et des assistances  |
+| **Ruée sur les primes** | Double l'XP versée par une prime                 |
+| **Tempête de soupes**   | Ajoute 5 soupes au remplissage d'une élimination |
 
 ## 🗓️ Saisons
 
@@ -122,10 +122,10 @@ Chaque saison a son propre classement de kills. Vos statistiques all-time ne son
 
 À la clôture, les **10 premiers** reçoivent des crédits.
 
-| Commande | Effet |
-| --- | --- |
-| `/pvpsoup season` | Période en cours, top 10, vos statistiques et vos crédits en attente |
-| `/pvpsoup season claim` | Réclame vos crédits de fin de saison |
+| Commande                | Effet                                                                |
+| ----------------------- | -------------------------------------------------------------------- |
+| `/pvpsoup season`       | Période en cours, top 10, vos statistiques et vos crédits en attente |
+| `/pvpsoup season claim` | Réclame vos crédits de fin de saison                                 |
 
 {% hint style="info" %}
 Les crédits de saison ne sont jamais versés deux fois, même si le serveur redémarre au mauvais moment.
@@ -141,17 +141,17 @@ Un panneau `Top 10` est également affiché en jeu. Les classements se rafraîch
 
 ## ⌨️ Commandes
 
-| Commande | Effet |
-| --- | --- |
-| `/pvpsoup` | Menu principal |
-| `/pvpsoup spawn` | Retour à la safezone (5 s de canalisation) |
-| `/pvpsoup stats [joueur]` | Vos statistiques, ou celles d'un autre joueur |
-| `/pvpsoup top [métrique] [page]` | Classements |
-| `/pvpsoup contracts` | Vos contrats quotidiens et hebdomadaires |
-| `/pvpsoup season [claim]` | Saison en cours et réclamation des récompenses |
+| Commande                         | Effet                                          |
+| -------------------------------- | ---------------------------------------------- |
+| `/pvpsoup`                       | Menu principal                                 |
+| `/pvpsoup spawn`                 | Retour à la safezone (5 s de canalisation)     |
+| `/pvpsoup stats [joueur]`        | Vos statistiques, ou celles d'un autre joueur  |
+| `/pvpsoup top [métrique] [page]` | Classements                                    |
+| `/pvpsoup contracts`             | Vos contrats quotidiens et hebdomadaires       |
+| `/pvpsoup season [claim]`        | Saison en cours et réclamation des récompenses |
 
 ## 💡 Bon à savoir
 
-- **Les groupes ne protègent pas** : le mode est FFA, deux membres d'un même groupe peuvent se combattre.
-- La zone affichée sur votre tableau latéral reflète toujours votre position réelle : ni une téléportation ni une permission ne peut la désynchroniser.
-- Mourir dans le vide compte comme une mort normale.
+* **Les groupes ne protègent pas** : le mode est FFA, deux membres d'un même groupe peuvent se combattre.
+* La zone affichée sur votre tableau latéral reflète toujours votre position réelle : ni une téléportation ni une permission ne peut la désynchroniser.
+* Mourir dans le vide compte comme une mort normale.

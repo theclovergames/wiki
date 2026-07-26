@@ -14,10 +14,10 @@ SkyPvP et [PvPSoup](pvpsoup.md) partagent la même structure — progression, s�
 
 ## 🗺️ Les deux zones
 
-| Zone | Ce qui s'y passe |
-| --- | --- |
+| Zone         | Ce qui s'y passe                                    |
+| ------------ | --------------------------------------------------- |
 | **Safezone** | Aucun combat. Vous choisissez et équipez votre kit. |
-| **Warzone** | Tout le reste du monde. Combat libre. |
+| **Warzone**  | Tout le reste du monde. Combat libre.               |
 
 À la connexion et après chaque mort, vous revenez en safezone **vie et faim pleines, sans inventaire ni effet**. Il faut équiper un kit pour repartir en warzone.
 
@@ -27,8 +27,8 @@ Infliger ou recevoir des dégâts vous place **en combat pendant 10 secondes**. 
 
 Une fois expiré, deux options :
 
-- revenir physiquement dans la safezone ;
-- utiliser `/skypvp spawn`, qui canalise le retour pendant **5 secondes**.
+* revenir physiquement dans la safezone ;
+* utiliser `/skypvp spawn`, qui canalise le retour pendant **5 secondes**.
 
 La canalisation est annulée par un mouvement, des dégâts, une téléportation ou un portail.
 
@@ -42,16 +42,16 @@ Revenir en safezone ou quitter le monde **vide entièrement** votre inventaire, 
 
 Huit kits, débloqués par votre niveau. Aucun ne s'achète.
 
-| Kit | Niveau | Équipement |
-| --- | :---: | --- |
-| **Soldat** | 0 | Épée en fer, armure en fer Protection I |
-| **Archer** | 0 | Épée en pierre, arc Puissance I, 24 flèches, maille Protection I |
-| **Éclaireur** | 5 | Épée en fer, 2 potions de Vitesse I, maille Protection I |
-| **Pêcheur** | 10 | Épée en pierre, canne à pêche, armure en fer Protection I |
-| **Gardien** | 20 | Épée en pierre, armure en fer Protection II |
-| **Alchimiste** | 30 | Épée en pierre, 2 potions de Poison I, 2 de Lenteur I, maille Protection I |
-| **Berserker** | 40 | Épée en diamant, maille sans protection |
-| **Ombre** | 50 | Épée en pierre, 3 perles de l'End, 2 potions de Vitesse I, maille Protection I |
+| Kit            | Niveau | Équipement                                                                     |
+| -------------- | :----: | ------------------------------------------------------------------------------ |
+| **Soldat**     |    0   | Épée en fer, armure en fer Protection I                                        |
+| **Archer**     |    0   | Épée en pierre, arc Puissance I, 24 flèches, maille Protection I               |
+| **Éclaireur**  |    5   | Épée en fer, 2 potions de Vitesse I, maille Protection I                       |
+| **Pêcheur**    |   10   | Épée en pierre, canne à pêche, armure en fer Protection I                      |
+| **Gardien**    |   20   | Épée en pierre, armure en fer Protection II                                    |
+| **Alchimiste** |   30   | Épée en pierre, 2 potions de Poison I, 2 de Lenteur I, maille Protection I     |
+| **Berserker**  |   40   | Épée en diamant, maille sans protection                                        |
+| **Ombre**      |   50   | Épée en pierre, 3 perles de l'End, 2 potions de Vitesse I, maille Protection I |
 
 Tous les kits contiennent en plus **16 steaks** et **3 pommes dorées** — sauf le Gardien, qui en a 2.
 
@@ -67,11 +67,11 @@ Comme en PvPSoup, vous pouvez **permuter** les emplacements de votre kit, sans r
 
 Des coffres sont disséminés en warzone. Seuls ceux **enregistrés par le staff** sont accessibles — les autres blocs de coffre ne s'ouvrent pas.
 
-| Rareté | Objets tirés | Rechargement |
-| --- | :---: | --- |
-| **Commun** | 4 | toutes les 3 minutes |
-| **Rare** | 3 | toutes les 5 minutes |
-| **Épique** | 2 | toutes les 10 minutes |
+| Rareté     | Objets tirés | Rechargement          |
+| ---------- | :----------: | --------------------- |
+| **Commun** |       4      | toutes les 3 minutes  |
+| **Rare**   |       3      | toutes les 5 minutes  |
+| **Épique** |       2      | toutes les 10 minutes |
 
 Le délai de rechargement démarre au **premier accès** après chaque génération, et il ne peut pas être repoussé : camper un coffre ne le bloque pas.
 
@@ -95,10 +95,10 @@ Les **dégâts de chute sont actifs** et le **vide est mortel**. Dans les deux c
 
 ### Gains
 
-| Action | Gain |
-| --- | --- |
-| **Élimination** | 15 XP |
-| **Assistance** | 5 XP — au moins 4 points de dégâts dans les 10 dernières secondes |
+| Action          | Gain                                                              |
+| --------------- | ----------------------------------------------------------------- |
+| **Élimination** | 15 XP                                                             |
+| **Assistance**  | 5 XP — au moins 4 points de dégâts dans les 10 dernières secondes |
 
 {% hint style="info" %}
 **Anti-farm** : éliminer le même joueur ne rapporte plus rien pendant **300 secondes**.
@@ -116,12 +116,12 @@ Comme en PvPSoup, une série d'éliminations place une **prime** sur votre tête
 
 ## 📋 Contrats
 
-Cinq contrats, récompensés en **crédits** — voir [Crédits](credits-economie.md).
+Cinq contrats, récompensés en **crédits** — voir [Crédits](../le-serveur/credits-economie.md).
 
-| Rythme | Objectifs |
-| --- | --- |
-| **Quotidiens** (3) | Éliminations, assistances, coffres pillés |
-| **Hebdomadaires** (2) | Éliminations, primes |
+| Rythme                | Objectifs                                 |
+| --------------------- | ----------------------------------------- |
+| **Quotidiens** (3)    | Éliminations, assistances, coffres pillés |
+| **Hebdomadaires** (2) | Éliminations, primes                      |
 
 `/skypvp contracts` pour les consulter.
 
@@ -129,11 +129,11 @@ Cinq contrats, récompensés en **crédits** — voir [Crédits](credits-economi
 
 Trois événements tournent d'eux-mêmes :
 
-| Événement | Effet |
-| --- | --- |
-| **Carnage** | Double l'XP des éliminations et des assistances |
-| **Ruée sur les primes** | Double l'XP versée par une prime |
-| **Ravitaillement** | Rend tous les coffres rechargeables et ajoute un tirage à leur prochaine génération |
+| Événement               | Effet                                                                               |
+| ----------------------- | ----------------------------------------------------------------------------------- |
+| **Carnage**             | Double l'XP des éliminations et des assistances                                     |
+| **Ruée sur les primes** | Double l'XP versée par une prime                                                    |
+| **Ravitaillement**      | Rend tous les coffres rechargeables et ajoute un tirage à leur prochaine génération |
 
 ## 🗓️ Saisons
 
@@ -149,18 +149,18 @@ Trois statues forment le **podium** du top éliminations, avec la meilleure sér
 
 ## ⌨️ Commandes
 
-| Commande | Effet |
-| --- | --- |
-| `/skypvp` | Menu principal — alias `/spvp` |
-| `/skypvp spawn` | Retour à la safezone (5 s de canalisation) |
-| `/skypvp stats [joueur]` | Statistiques |
-| `/skypvp top [métrique] [page]` | Classements |
-| `/skypvp contracts` | Contrats quotidiens et hebdomadaires |
-| `/skypvp season [claim]` | Saison en cours et réclamation des récompenses |
+| Commande                        | Effet                                          |
+| ------------------------------- | ---------------------------------------------- |
+| `/skypvp`                       | Menu principal — alias `/spvp`                 |
+| `/skypvp spawn`                 | Retour à la safezone (5 s de canalisation)     |
+| `/skypvp stats [joueur]`        | Statistiques                                   |
+| `/skypvp top [métrique] [page]` | Classements                                    |
+| `/skypvp contracts`             | Contrats quotidiens et hebdomadaires           |
+| `/skypvp season [claim]`        | Saison en cours et réclamation des récompenses |
 
 ## 💡 Bon à savoir
 
-- **Les groupes ne protègent pas** : le mode est FFA, deux membres d'un même groupe peuvent se combattre.
-- La zone affichée sur votre tableau latéral reflète toujours votre position réelle.
-- Vos statistiques SkyPvP sont **indépendantes** de celles de PvPSoup et de Practice.
-- Gérez votre durabilité : une armure en fin de vie ne se répare pas en warzone.
+* **Les groupes ne protègent pas** : le mode est FFA, deux membres d'un même groupe peuvent se combattre.
+* La zone affichée sur votre tableau latéral reflète toujours votre position réelle.
+* Vos statistiques SkyPvP sont **indépendantes** de celles de PvPSoup et de Practice.
+* Gérez votre durabilité : une armure en fin de vie ne se répare pas en warzone.

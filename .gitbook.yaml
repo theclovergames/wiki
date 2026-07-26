@@ -4,77 +4,77 @@ structure:
   summary: SUMMARY.md
 
 redirects:
-  wiki/bienvenue: bienvenue.md
-  wiki/table-des-matieres: bienvenue.md
-  wiki/regles: reglement.md
-  wiki/economies: credits-economie.md
-  wiki/rangs: rangs-et-grades.md
-  wiki/votes: votes-et-recompenses.md
-  wiki/jeux-et-commandes: modes-de-jeu.md
-  wiki/jeux-et-commandes/modes-de-jeu: modes-de-jeu.md
-  wiki/jeux-et-commandes/evenements: modes-de-jeu.md
-  wiki/jeux-et-commandes/evenements/donjons: modes-de-jeu.md
-  wiki/jeux-et-commandes/evenements/pvpswap: modes-de-jeu.md
-  wiki/jeux-et-commandes/evenements/mineral-contest: modes-de-jeu.md
-  wiki/jeux-et-commandes/evenements/chasse-au-coffre: modes-de-jeu.md
-  wiki/jeux-et-commandes/evenements/uhc: modes-de-jeu.md
-  wiki/jeux-et-commandes/evenements/koth: modes-de-jeu.md
-  wiki/jeux-et-commandes/modes-de-jeu/thelab: modes-de-jeu.md
+  wiki/bienvenue: README.md
+  wiki/table-des-matieres: README.md
+  wiki/regles: le-serveur/reglement.md
+  wiki/economies: le-serveur/credits-economie.md
+  wiki/rangs: le-serveur/rangs-et-grades.md
+  wiki/votes: le-serveur/votes-et-recompenses.md
+  wiki/jeux-et-commandes: jouer/modes-de-jeu.md
+  wiki/jeux-et-commandes/modes-de-jeu: jouer/modes-de-jeu.md
+  wiki/jeux-et-commandes/evenements: jouer/modes-de-jeu.md
+  wiki/jeux-et-commandes/evenements/donjons: jouer/modes-de-jeu.md
+  wiki/jeux-et-commandes/evenements/pvpswap: jouer/modes-de-jeu.md
+  wiki/jeux-et-commandes/evenements/mineral-contest: jouer/modes-de-jeu.md
+  wiki/jeux-et-commandes/evenements/chasse-au-coffre: jouer/modes-de-jeu.md
+  wiki/jeux-et-commandes/evenements/uhc: jouer/modes-de-jeu.md
+  wiki/jeux-et-commandes/evenements/koth: jouer/modes-de-jeu.md
+  wiki/jeux-et-commandes/modes-de-jeu/thelab: jouer/modes-de-jeu.md
 
   # Practice — tout converge vers la page unique
-  wiki/jeux-et-commandes/modes-de-jeu/practice: practice.md
-  wiki/jeux-et-commandes/modes-de-jeu/practice/regles: reglement.md
-  wiki/jeux-et-commandes/modes-de-jeu/practice/commandes: practice.md
-  wiki/jeux-et-commandes/modes-de-jeu/practice/bots: practice.md
-  wiki/jeux-et-commandes/modes-de-jeu/practice/divisions: practice.md
-  wiki/jeux-et-commandes/modes-de-jeu/practice/classements: practice.md
+  wiki/jeux-et-commandes/modes-de-jeu/practice: jouer/practice.md
+  wiki/jeux-et-commandes/modes-de-jeu/practice/regles: le-serveur/reglement.md
+  wiki/jeux-et-commandes/modes-de-jeu/practice/commandes: jouer/practice.md
+  wiki/jeux-et-commandes/modes-de-jeu/practice/bots: jouer/practice.md
+  wiki/jeux-et-commandes/modes-de-jeu/practice/divisions: jouer/practice.md
+  wiki/jeux-et-commandes/modes-de-jeu/practice/classements: jouer/practice.md
 
   # Survie — non disponible, renvoi vers l'état des modes
-  wiki/jeux-et-commandes/modes-de-jeu/survie: modes-de-jeu.md
-  wiki/jeux-et-commandes/modes-de-jeu/survie/regles: reglement.md
-  wiki/jeux-et-commandes/modes-de-jeu/survie/commandes: commandes.md
-  wiki/jeux-et-commandes/modes-de-jeu/survie/mondes: modes-de-jeu.md
-  wiki/jeux-et-commandes/modes-de-jeu/survie/donjons: modes-de-jeu.md
-  wiki/jeux-et-commandes/modes-de-jeu/survie/caisses: modes-de-jeu.md
-  wiki/jeux-et-commandes/modes-de-jeu/survie/encheres: modes-de-jeu.md
-  wiki/jeux-et-commandes/modes-de-jeu/survie/coffre-de-vente: modes-de-jeu.md
-  wiki/jeux-et-commandes/modes-de-jeu/survie/marche-noir: modes-de-jeu.md
-  wiki/jeux-et-commandes/modes-de-jeu/survie/quetes: commandes.md
-  wiki/jeux-et-commandes/modes-de-jeu/survie/niveaux: commandes.md
+  wiki/jeux-et-commandes/modes-de-jeu/survie: jouer/modes-de-jeu.md
+  wiki/jeux-et-commandes/modes-de-jeu/survie/regles: le-serveur/reglement.md
+  wiki/jeux-et-commandes/modes-de-jeu/survie/commandes: reference/commandes.md
+  wiki/jeux-et-commandes/modes-de-jeu/survie/mondes: jouer/modes-de-jeu.md
+  wiki/jeux-et-commandes/modes-de-jeu/survie/donjons: jouer/modes-de-jeu.md
+  wiki/jeux-et-commandes/modes-de-jeu/survie/caisses: jouer/modes-de-jeu.md
+  wiki/jeux-et-commandes/modes-de-jeu/survie/encheres: jouer/modes-de-jeu.md
+  wiki/jeux-et-commandes/modes-de-jeu/survie/coffre-de-vente: jouer/modes-de-jeu.md
+  wiki/jeux-et-commandes/modes-de-jeu/survie/marche-noir: jouer/modes-de-jeu.md
+  wiki/jeux-et-commandes/modes-de-jeu/survie/quetes: reference/commandes.md
+  wiki/jeux-et-commandes/modes-de-jeu/survie/niveaux: reference/commandes.md
 
   # SkyPvP — mode disponible, page dédiée
-  wiki/jeux-et-commandes/modes-de-jeu/skypvp: skypvp.md
-  wiki/jeux-et-commandes/modes-de-jeu/skypvp/regles: reglement.md
-  wiki/jeux-et-commandes/modes-de-jeu/skypvp/commandes: skypvp.md
-  wiki/jeux-et-commandes/modes-de-jeu/skypvp/kits: skypvp.md
-  wiki/jeux-et-commandes/modes-de-jeu/skypvp/coffres: skypvp.md
-  wiki/jeux-et-commandes/modes-de-jeu/skypvp/coins: credits-economie.md
-  wiki/jeux-et-commandes/modes-de-jeu/skypvp/trainee-de-particules: skypvp.md
-  wiki/jeux-et-commandes/modes-de-jeu/skypvp/arenes: skypvp.md
-  wiki/jeux-et-commandes/modes-de-jeu/skypvp/encheres: skypvp.md
-  wiki/jeux-et-commandes/modes-de-jeu/skypvp/niveaux: skypvp.md
+  wiki/jeux-et-commandes/modes-de-jeu/skypvp: jouer/skypvp.md
+  wiki/jeux-et-commandes/modes-de-jeu/skypvp/regles: le-serveur/reglement.md
+  wiki/jeux-et-commandes/modes-de-jeu/skypvp/commandes: jouer/skypvp.md
+  wiki/jeux-et-commandes/modes-de-jeu/skypvp/kits: jouer/skypvp.md
+  wiki/jeux-et-commandes/modes-de-jeu/skypvp/coffres: jouer/skypvp.md
+  wiki/jeux-et-commandes/modes-de-jeu/skypvp/coins: le-serveur/credits-economie.md
+  wiki/jeux-et-commandes/modes-de-jeu/skypvp/trainee-de-particules: jouer/skypvp.md
+  wiki/jeux-et-commandes/modes-de-jeu/skypvp/arenes: jouer/skypvp.md
+  wiki/jeux-et-commandes/modes-de-jeu/skypvp/encheres: jouer/skypvp.md
+  wiki/jeux-et-commandes/modes-de-jeu/skypvp/niveaux: jouer/skypvp.md
 
   # PvPSoup — mode disponible, page dédiée
-  wiki/jeux-et-commandes/modes-de-jeu/pvpsoup: pvpsoup.md
-  wiki/jeux-et-commandes/modes-de-jeu/pvpsoup/regles: reglement.md
-  wiki/jeux-et-commandes/modes-de-jeu/pvpsoup/commandes: pvpsoup.md
-  wiki/jeux-et-commandes/modes-de-jeu/pvpsoup/niveaux: pvpsoup.md
-  wiki/jeux-et-commandes/modes-de-jeu/pvpsoup/kits: pvpsoup.md
+  wiki/jeux-et-commandes/modes-de-jeu/pvpsoup: jouer/pvpsoup.md
+  wiki/jeux-et-commandes/modes-de-jeu/pvpsoup/regles: le-serveur/reglement.md
+  wiki/jeux-et-commandes/modes-de-jeu/pvpsoup/commandes: jouer/pvpsoup.md
+  wiki/jeux-et-commandes/modes-de-jeu/pvpsoup/niveaux: jouer/pvpsoup.md
+  wiki/jeux-et-commandes/modes-de-jeu/pvpsoup/kits: jouer/pvpsoup.md
 
   # BedWars
-  wiki/jeux-et-commandes/modes-de-jeu/bedwars: modes-de-jeu.md
-  wiki/jeux-et-commandes/modes-de-jeu/bedwars/regles: reglement.md
-  wiki/jeux-et-commandes/modes-de-jeu/bedwars/commandes: commandes.md
-  wiki/jeux-et-commandes/modes-de-jeu/bedwars/cosmetiques: modes-de-jeu.md
-  wiki/jeux-et-commandes/modes-de-jeu/bedwars/niveaux: commandes.md
+  wiki/jeux-et-commandes/modes-de-jeu/bedwars: jouer/modes-de-jeu.md
+  wiki/jeux-et-commandes/modes-de-jeu/bedwars/regles: le-serveur/reglement.md
+  wiki/jeux-et-commandes/modes-de-jeu/bedwars/commandes: reference/commandes.md
+  wiki/jeux-et-commandes/modes-de-jeu/bedwars/cosmetiques: jouer/modes-de-jeu.md
+  wiki/jeux-et-commandes/modes-de-jeu/bedwars/niveaux: reference/commandes.md
 
   # SkyWars
-  wiki/jeux-et-commandes/modes-de-jeu/skywars: modes-de-jeu.md
-  wiki/jeux-et-commandes/modes-de-jeu/skywars/regles: reglement.md
-  wiki/jeux-et-commandes/modes-de-jeu/skywars/commandes: commandes.md
-  wiki/jeux-et-commandes/modes-de-jeu/skywars/cosmetiques: modes-de-jeu.md
+  wiki/jeux-et-commandes/modes-de-jeu/skywars: jouer/modes-de-jeu.md
+  wiki/jeux-et-commandes/modes-de-jeu/skywars/regles: le-serveur/reglement.md
+  wiki/jeux-et-commandes/modes-de-jeu/skywars/commandes: reference/commandes.md
+  wiki/jeux-et-commandes/modes-de-jeu/skywars/cosmetiques: jouer/modes-de-jeu.md
 
   # Murder
-  wiki/jeux-et-commandes/modes-de-jeu/murder: modes-de-jeu.md
-  wiki/jeux-et-commandes/modes-de-jeu/murder/regles: reglement.md
-  wiki/jeux-et-commandes/modes-de-jeu/murder/cosmetiques: modes-de-jeu.md
+  wiki/jeux-et-commandes/modes-de-jeu/murder: jouer/modes-de-jeu.md
+  wiki/jeux-et-commandes/modes-de-jeu/murder/regles: le-serveur/reglement.md
+  wiki/jeux-et-commandes/modes-de-jeu/murder/cosmetiques: jouer/modes-de-jeu.md
