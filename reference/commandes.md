@@ -59,6 +59,23 @@ Le temps passé en **AFK ne rapporte aucun crédit**. Voir [Crédits](../le-serv
 `/pay` est immédiat et définitif. Vérifiez le pseudo et le montant.
 {% endhint %}
 
+## 🪙 Coinflip
+
+Le Coinflip utilise des **jetons**, jamais vos crédits.
+
+| Commande | Effet |
+| --- | --- |
+| `/coinflip` | Menu des annonces |
+| `/coinflip claim` | Recharge quotidienne de 25 jetons |
+| `/coinflip create <mise> <face\|pile>` | Publie une annonce |
+| `/coinflip accept <id>` | Accepte une annonce |
+| `/coinflip cancel` | Annule votre annonce |
+| `/coinflip list` | Annonces ouvertes |
+| `/coinflip stats` | Portefeuille et statistiques |
+| `/coinflip verifier <id>` | Vérifie le tirage d'un duel passé |
+
+Tous les détails sont sur [Coinflip](../le-serveur/coinflip.md).
+
 ## 📈 Progression
 
 | Commande              | Effet                                    |
@@ -83,7 +100,27 @@ Le temps passé en **AFK ne rapporte aucun crédit**. Voir [Crédits](../le-serv
 
 Tous les détails sont sur [PvPSoup](../jouer/pvpsoup.md).
 
+## 🛏️ BedWars
+
+{% hint style="info" %}
+Mode **en cours de création**, pas encore accessible — voir [BedWars](../jouer/bedwars.md).
+{% endhint %}
+
+| Commande | Effet |
+| --- | --- |
+| `/bedwars` ou `/bw` | Hub du mode |
+| `/bw play <solo\|duo\|trio\|quad>` | Rejoint une file |
+| `/bw leave` · `/bw rejoin` | Quitte ou revient dans un match |
+| `/bw stats` · `/bw history` | Statistiques et matchs passés |
+| `/bw season` | Saison et récompenses |
+| `/bw replay` | Bibliothèque de replays |
+| `/bw cosmetics` · `/bw privacy` | Cosmétiques et visibilité du profil |
+
 ## ☁️ SkyPvP
+
+{% hint style="info" %}
+Mode **en cours de création**, pas encore accessible — voir [SkyPvP](../jouer/skypvp.md).
+{% endhint %}
 
 | Commande                        | Effet                                      |
 | ------------------------------- | ------------------------------------------ |

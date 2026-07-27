@@ -61,12 +61,12 @@ redirects:
   wiki/jeux-et-commandes/modes-de-jeu/pvpsoup/niveaux: jouer/pvpsoup.md
   wiki/jeux-et-commandes/modes-de-jeu/pvpsoup/kits: jouer/pvpsoup.md
 
-  # BedWars
-  wiki/jeux-et-commandes/modes-de-jeu/bedwars: jouer/modes-de-jeu.md
+  # BedWars — page dédiée, mode en cours de création
+  wiki/jeux-et-commandes/modes-de-jeu/bedwars: jouer/bedwars.md
   wiki/jeux-et-commandes/modes-de-jeu/bedwars/regles: le-serveur/reglement.md
-  wiki/jeux-et-commandes/modes-de-jeu/bedwars/commandes: reference/commandes.md
-  wiki/jeux-et-commandes/modes-de-jeu/bedwars/cosmetiques: jouer/modes-de-jeu.md
-  wiki/jeux-et-commandes/modes-de-jeu/bedwars/niveaux: reference/commandes.md
+  wiki/jeux-et-commandes/modes-de-jeu/bedwars/commandes: jouer/bedwars.md
+  wiki/jeux-et-commandes/modes-de-jeu/bedwars/cosmetiques: jouer/bedwars.md
+  wiki/jeux-et-commandes/modes-de-jeu/bedwars/niveaux: jouer/bedwars.md
 
   # SkyWars
   wiki/jeux-et-commandes/modes-de-jeu/skywars: jouer/modes-de-jeu.md

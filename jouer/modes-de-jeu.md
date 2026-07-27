@@ -11,16 +11,22 @@ description: Ce qui est jouable aujourd'hui sur Clover Games, et ce qui arrive.
 | **Lobby**                   | Votre point d'arrivée sur le réseau. C'est de là que vous rejoignez les modes.                              |
 | [**Practice**](practice.md) | Duels 1v1 et 2v2, 11 kits, classement ELO par saison, bots d'entraînement et replays.                       |
 | [**PvPSoup**](pvpsoup.md)   | Combat libre pour tous, persistant. Soupes pour se soigner, 8 kits débloqués par niveau, primes et saisons. |
-| [**SkyPvP**](skypvp.md)     | Combat libre pour tous en PvP classique. Durabilité vanilla, coffres partagés à piller, primes et saisons.  |
 | **Créatif**                 | Construction libre sur parcelles.                                                                           |
 
 {% hint style="success" %}
 Tout est accessible dès votre première connexion. Aucun mode ne demande d'achat pour être joué — voir [Crédits](../le-serveur/credits-economie.md).
 {% endhint %}
 
-{% hint style="info" %}
-**PvPSoup ou SkyPvP ?** Les deux sont du combat libre persistant avec la même progression. En PvPSoup vous vous soignez à la soupe et votre équipement ne s'use pas ; en SkyPvP la durabilité compte et des coffres partagés vous récompensent d'explorer la carte.
-{% endhint %}
+Le **[Coinflip](../le-serveur/coinflip.md)**, un duel à pile ou face entre joueurs, est également disponible partout sur le réseau.
+
+## 🔧 En développement
+
+Ces deux modes sont en cours de création. Leur page décrit ce qui est en préparation, et leur ouverture sera annoncée sur le [Discord](https://dsc.clovergames.fr).
+
+| Mode | Ce qui se prépare |
+| --- | --- |
+| [**SkyPvP**](skypvp.md) | Combat libre en PvP classique. Durabilité vanilla, coffres partagés à piller, primes et saisons. |
+| [**BedWars**](bedwars.md) | Quatre formats du Solo au Quad, votes de carte et de style de combat, saisons de huit semaines et replays. |
 
 ## 🗓️ Prévus
 
@@ -29,7 +35,6 @@ Ces modes sont au programme, sans date annoncée.
 | Mode    |
 | ------- |
 | Survie  |
-| BedWars |
 | SkyWars |
 | Murder  |
 | TheLab  |

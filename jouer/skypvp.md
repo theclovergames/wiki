@@ -4,6 +4,10 @@ description: FFA PvP classique — kits, coffres partagés, primes, contrats et 
 
 # SkyPvP — FFA PvP
 
+{% hint style="warning" %}
+**SkyPvP n'est pas encore ouvert.** Le mode est en cours de création, aux côtés de [BedWars](bedwars.md). Cette page décrit ce qui est en préparation ; certains réglages peuvent encore évoluer. L'ouverture sera annoncée sur le [Discord](https://dsc.clovergames.fr).
+{% endhint %}
+
 **SkyPvP** est un mode combat libre pour tous, persistant : pas de partie à rejoindre, pas de file d'attente. Vous équipez un kit, vous entrez en warzone, vous montez en niveau.
 
 C'est du **PvP classique** en profil **1.8** : pas de soupe, aucun effet passif de kit, et vos armes et armures **s'usent normalement**.

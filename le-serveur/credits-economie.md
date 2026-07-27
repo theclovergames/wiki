@@ -8,6 +8,10 @@ description: >-
 
 Clover Games utilise **une seule monnaie** : les **crédits**, symbole `⛃`.
 
+{% hint style="info" %}
+Le [Coinflip](coinflip.md) fait exception : il utilise des **jetons** qui lui sont propres. Vos crédits ne peuvent jamais être misés ni perdus au Coinflip.
+{% endhint %}
+
 Votre solde est **commun à tout le réseau** : les crédits gagnés dans un mode sont utilisables dans tous les autres, et consultables sur le [site](https://clovergames.fr) comme en jeu.
 
 | Élément         | Valeur         |
