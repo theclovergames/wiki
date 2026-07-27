@@ -13,7 +13,7 @@ description: Adresse du serveur, versions compatibles et première connexion.
 | Versions acceptées | **1.21 et supérieures** |
 
 {% hint style="info" %}
-**Minecraft Bedrock (console, mobile, Windows)** — la compatibilité est prévue mais n'est pas encore certifiée. Nous annoncerons l'adresse et le port Bedrock sur le [Discord](https://dsc.clovergames.fr) dès que les tests seront validés. N'utilisez pas d'adresse trouvée ailleurs entre-temps.
+**Minecraft Bedrock (console, mobile, Windows)** : la compatibilité est prévue mais n'est pas encore certifiée. Nous annoncerons l'adresse et le port Bedrock sur le [Discord](https://dsc.clovergames.fr) dès que les tests seront validés. N'utilisez pas d'adresse trouvée ailleurs entre-temps.
 {% endhint %}
 
 ## ➕ Ajouter le serveur
@@ -26,7 +26,7 @@ description: Adresse du serveur, versions compatibles et première connexion.
 
 ## 🧩 Mods et clients autorisés
 
-Les clients et mods **strictement esthétiques ou de confort** sont autorisés. Tout ce qui procure un avantage de jeu est interdit — voir le [Règlement](../le-serveur/reglement.md).
+Les clients et mods **strictement esthétiques ou de confort** sont autorisés. Tout ce qui procure un avantage de jeu est interdit. Voir le [Règlement](../le-serveur/reglement.md).
 
 {% tabs %}
 {% tab title="Autorisés" %}
@@ -64,5 +64,5 @@ La liste complète est sur [Toutes les commandes](../reference/commandes.md).
 
 1. Vérifiez que votre version est bien **1.21+**.
 2. Vérifiez l'adresse : `play.clovergames.fr`, sans port ni espace.
-3. Consultez le canal d'annonces du [Discord](https://dsc.clovergames.fr) — une maintenance est peut-être en cours.
+3. Consultez le canal d'annonces du [Discord](https://dsc.clovergames.fr) : une maintenance est peut-être en cours.
 4. Si le problème persiste, ouvrez un ticket : [Support et signalements](../le-serveur/support-et-signalements.md).

@@ -1,10 +1,10 @@
 ---
 description: >-
-  Les crédits, la monnaie unique de Clover Games — comment les gagner et les
+  Les crédits, la monnaie unique de Clover Games : comment les gagner et les
   dépenser.
 ---
 
-# Crédits — l'économie du réseau
+# Crédits : l'économie du réseau
 
 Clover Games utilise **une seule monnaie** : les **crédits**, symbole `⛃`.
 
@@ -34,10 +34,10 @@ Votre solde est **commun à tout le réseau** : les crédits gagnés dans un mod
 | **Temps de jeu actif**          | 1 crédit toutes les 60 minutes (temps AFK exclu)                                                        |
 | **Défis quotidiens**            | Jusqu'à 3 crédits par jour                                                                              |
 | **Défis hebdomadaires**         | Jusqu'à 14 crédits par semaine                                                                          |
-| **Votes**                       | Jusqu'à 1 465 crédits sur les 500 premiers votes — voir [Votes et récompenses](votes-et-recompenses.md) |
+| **Votes**                       | Jusqu'à 1 465 crédits sur les 500 premiers votes. Voir [Votes et récompenses](votes-et-recompenses.md) |
 | **Vote party**                  | 10 crédits pour les joueurs en ligne, tous les 20 votes collectifs                                      |
 | **Classement mensuel de votes** | 500 crédits au 1er, 250 crédits aux 2e et 3e                                                            |
-| **Fin de saison Practice**      | 0 à 100 crédits selon votre palier — voir [Practice](../jouer/practice.md#recompenses-de-saison)        |
+| **Fin de saison Practice**      | 0 à 100 crédits selon votre palier. Voir [Practice](../jouer/practice.md#recompenses-de-saison)        |
 | **Événements**                  | Variable, annoncé à chaque événement                                                                    |
 
 {% hint style="warning" %}
@@ -70,7 +70,7 @@ Si vous possédez un grade, vous recevez une allocation mensuelle automatique : 
 
 | Commande                  | Effet                                        |
 | ------------------------- | -------------------------------------------- |
-| `/balance`                | Affiche votre solde — alias `/bal`, `/money` |
+| `/balance`                | Affiche votre solde : alias `/bal`, `/money` |
 | `/balance <joueur>`       | Affiche le solde d'un autre joueur           |
 | `/pay <joueur> <montant>` | Transfère des crédits à un joueur            |
 

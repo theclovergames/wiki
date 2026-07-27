@@ -1,8 +1,8 @@
 ---
-description: FFA PvP classique — kits, coffres partagés, primes, contrats et saisons.
+description: FFA PvP classique : kits, coffres partagés, primes, contrats et saisons.
 ---
 
-# SkyPvP — FFA PvP
+# SkyPvP : FFA PvP
 
 {% hint style="warning" %}
 **SkyPvP n'est pas encore ouvert.** Le mode est en cours de création, aux côtés de [BedWars](bedwars.md). Cette page décrit ce qui est en préparation ; certains réglages peuvent encore évoluer. L'ouverture sera annoncée sur le [Discord](https://dsc.clovergames.fr).
@@ -13,7 +13,7 @@ description: FFA PvP classique — kits, coffres partagés, primes, contrats et 
 C'est du **PvP classique** en profil **1.8** : pas de soupe, aucun effet passif de kit, et vos armes et armures **s'usent normalement**.
 
 {% hint style="info" %}
-SkyPvP et [PvPSoup](pvpsoup.md) partagent la même structure — progression, séries, primes, saisons, classements — mais pas les mêmes règles de combat. Vos statistiques sont **séparées** entre les deux modes.
+SkyPvP et [PvPSoup](pvpsoup.md) partagent la même structure : progression, séries, primes, saisons, classements, mais pas les mêmes règles de combat. Vos statistiques sont **séparées** entre les deux modes.
 {% endhint %}
 
 ## 🗺️ Les deux zones
@@ -57,7 +57,7 @@ Huit kits, débloqués par votre niveau. Aucun ne s'achète.
 | **Berserker**  |   40   | Épée en diamant, maille sans protection                                        |
 | **Ombre**      |   50   | Épée en pierre, 3 perles de l'End, 2 potions de Vitesse I, maille Protection I |
 
-Tous les kits contiennent en plus **16 steaks** et **3 pommes dorées** — sauf le Gardien, qui en a 2.
+Tous les kits contiennent en plus **16 steaks** et **3 pommes dorées** : sauf le Gardien, qui en a 2.
 
 {% hint style="info" %}
 Les noms de kits sont les mêmes qu'en [PvPSoup](pvpsoup.md#les-kits), mais **l'équipement diffère** : ici pas de soupe, et la durabilité compte.
@@ -69,7 +69,7 @@ Comme en PvPSoup, vous pouvez **permuter** les emplacements de votre kit, sans r
 
 ## 📦 Coffres partagés
 
-Des coffres sont disséminés en warzone. Seuls ceux **enregistrés par le staff** sont accessibles — les autres blocs de coffre ne s'ouvrent pas.
+Des coffres sont disséminés en warzone. Seuls ceux **enregistrés par le staff** sont accessibles : les autres blocs de coffre ne s'ouvrent pas.
 
 | Rareté     | Objets tirés | Rechargement          |
 | ---------- | :----------: | --------------------- |
@@ -102,7 +102,7 @@ Les **dégâts de chute sont actifs** et le **vide est mortel**. Dans les deux c
 | Action          | Gain                                                              |
 | --------------- | ----------------------------------------------------------------- |
 | **Élimination** | 15 XP                                                             |
-| **Assistance**  | 5 XP — au moins 4 points de dégâts dans les 10 dernières secondes |
+| **Assistance**  | 5 XP : au moins 4 points de dégâts dans les 10 dernières secondes |
 
 {% hint style="info" %}
 **Anti-farm** : éliminer le même joueur ne rapporte plus rien pendant **300 secondes**.
@@ -112,7 +112,7 @@ Les **dégâts de chute sont actifs** et le **vide est mortel**. Dans les deux c
 
 Une élimination vous rend **au plus une pomme dorée** (dans la limite du stock initial de votre kit) et, pour l'Archer, **8 flèches** jusqu'à un maximum de 24.
 
-Rien d'autre n'est régénéré : ni armure, ni durabilité, ni steaks. Une longue série vous laisse de plus en plus fragile.
+Rien d'autre n'est régénéré, ni armure, ni durabilité, ni steaks. Une longue série vous laisse de plus en plus fragile.
 
 ### Primes
 
@@ -120,7 +120,7 @@ Comme en PvPSoup, une série d'éliminations place une **prime** sur votre tête
 
 ## 📋 Contrats
 
-Cinq contrats, récompensés en **crédits** — voir [Crédits](../le-serveur/credits-economie.md).
+Cinq contrats, récompensés en **crédits**. Voir [Crédits](../le-serveur/credits-economie.md).
 
 | Rythme                | Objectifs                                 |
 | --------------------- | ----------------------------------------- |
@@ -155,7 +155,7 @@ Trois statues forment le **podium** du top éliminations, avec la meilleure sér
 
 | Commande                        | Effet                                          |
 | ------------------------------- | ---------------------------------------------- |
-| `/skypvp`                       | Menu principal — alias `/spvp`                 |
+| `/skypvp`                       | Menu principal : alias `/spvp`                 |
 | `/skypvp spawn`                 | Retour à la safezone (5 s de canalisation)     |
 | `/skypvp stats [joueur]`        | Statistiques                                   |
 | `/skypvp top [métrique] [page]` | Classements                                    |

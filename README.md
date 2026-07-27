@@ -7,7 +7,7 @@ description: Ce qu'est Clover Games, ce qui est jouable et par où commencer.
 **Clover Games** est un réseau Minecraft français consacré aux mini-jeux emblématiques, remasterisés avec soin.
 
 {% hint style="success" %}
-**Quatre univers vous attendent** : le **Lobby**, le [**Practice**](jouer/practice.md) pour les duels classés, le [**PvPSoup**](jouer/pvpsoup.md) en combat libre, et le **Créatif** pour construire. [**SkyPvP**](jouer/skypvp.md) et [**BedWars**](jouer/bedwars.md) sont en cours de création — [voir l'état de chaque mode](jouer/modes-de-jeu.md).
+**Quatre univers vous attendent** : le **Lobby**, le [**Practice**](jouer/practice.md) pour les duels classés, le [**PvPSoup**](jouer/pvpsoup.md) en combat libre, et le **Créatif** pour construire. [**SkyPvP**](jouer/skypvp.md) et [**BedWars**](jouer/bedwars.md) sont en cours de création. [Voir l'état de chaque mode](jouer/modes-de-jeu.md).
 {% endhint %}
 
 ## 🧭 Par où commencer
@@ -17,7 +17,7 @@ description: Ce qu'est Clover Games, ce qui est jouable et par où commencer.
 | Rejoindre le serveur         | [Se connecter au serveur](decouvrir/se-connecter.md)             |
 | Connaître les règles         | [Règlement](le-serveur/reglement.md)                             |
 | Savoir ce qui est jouable    | [Les modes de jeu](jouer/modes-de-jeu.md)                        |
-| Comprendre les crédits       | [Crédits — l'économie du réseau](le-serveur/credits-economie.md) |
+| Comprendre les crédits       | [Crédits : l'économie du réseau](le-serveur/credits-economie.md) |
 | Trouver une commande         | [Toutes les commandes](reference/commandes.md)                   |
 | Gérer votre compte, vos stats | [Le site web](le-serveur/le-site-web.md)                        |
 | Signaler un joueur ou un bug | [Support et signalements](le-serveur/support-et-signalements.md) |

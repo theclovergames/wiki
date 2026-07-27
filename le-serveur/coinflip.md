@@ -1,5 +1,5 @@
 ---
-description: Le duel à pile ou face — jetons de jeu, mises et tirage vérifiable.
+description: Le duel à pile ou face : jetons de jeu, mises et tirage vérifiable.
 ---
 
 # Coinflip
@@ -24,7 +24,7 @@ Les jetons servent **uniquement** au Coinflip.
 `/coinflip claim` réclame votre recharge du jour.
 
 {% hint style="info" %}
-Le **plafond de 100** limite seulement la recharge : si votre portefeuille contient déjà 100 jetons ou plus, la recharge quotidienne n'est pas disponible. En revanche, vos **gains peuvent dépasser ce plafond** sans limite — c'est en gagnant que l'on constitue une réserve.
+Le **plafond de 100** limite seulement la recharge : si votre portefeuille contient déjà 100 jetons ou plus, la recharge quotidienne n'est pas disponible. En revanche, vos **gains peuvent dépasser ce plafond** sans limite, c'est en gagnant que l'on constitue une réserve.
 {% endhint %}
 
 ## 🪙 Jouer un duel
@@ -56,7 +56,7 @@ Avant qu'une annonce puisse être acceptée, le serveur enregistre l'**empreinte
 `/coinflip verifier <id>` recalcule le résultat à partir de cette graine, de l'identifiant du duel et de l'UUID de votre adversaire. Si le résultat annoncé ne correspondait pas, le calcul le montrerait.
 
 {% hint style="success" %}
-Autrement dit : ni le serveur ni votre adversaire ne peuvent influencer un tirage après coup, et vous pouvez le vérifier vous-même sans nous faire confiance.
+Autrement dit, ni le serveur ni votre adversaire ne peuvent influencer un tirage après coup, et vous pouvez le vérifier vous-même sans nous faire confiance.
 {% endhint %}
 
 ## ⌨️ Commandes

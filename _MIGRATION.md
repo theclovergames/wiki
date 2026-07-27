@@ -1,6 +1,6 @@
 # Plan de migration du wiki Clover Games
 
-Document de travail interne — **ne pas publier sur le wiki**.
+Document de travail interne : **ne pas publier sur le wiki**.
 
 ## 1. Ce qui change
 
@@ -26,14 +26,14 @@ Le serveur
 ├── Règlement                       → reglement.md
 ├── Support et signalements         → support-et-signalements.md
 ├── Rangs et grades                 → rangs-et-grades.md
-├── Crédits — l'économie du réseau  → credits-economie.md
+├── Crédits : l'économie du réseau  → credits-economie.md
 └── Votes et récompenses            → votes-et-recompenses.md
 
 Jouer
 ├── Les modes de jeu                → modes-de-jeu.md
-├── Practice — duels et classement  → practice.md
-├── PvPSoup — FFA Soup              → pvpsoup.md
-└── SkyPvP — FFA PvP                → skypvp.md
+├── Practice : duels et classement  → practice.md
+├── PvPSoup : FFA Soup              → pvpsoup.md
+└── SkyPvP : FFA PvP                → skypvp.md
 
 Référence
 └── Toutes les commandes            → commandes.md
@@ -62,7 +62,7 @@ Référence
 | `/wiki/table-des-matieres` | Duplique la navigation générée par GitBook, et était incomplète |
 | `…/survie/regles`, `…/practice/regles`, `…/pvpsoup/regles` | Vides, remplacées par le règlement unique |
 | `…/skypvp/regles`, `…/bedwars/regles`, `…/skywars/regles`, `…/murder/regles` | Copies quasi identiques créant un second barème de sanctions |
-| `…/evenements/donjons` | Doublon de `…/survie/donjons` — la navigation pointait sur le mauvais |
+| `…/evenements/donjons` | Doublon de `…/survie/donjons` : la navigation pointait sur le mauvais |
 | Les 5 autres pages `Commandes` | Fusionnées dans `commandes.md` |
 
 ### À passer en brouillon (non publiées)
@@ -70,11 +70,11 @@ Référence
 Elles reviendront quand le mode existera. Garder le contenu, retirer de la publication.
 
 - **Survie** et ses 11 sous-pages (mondes, donjons, caisses, enchères, coffre de vente, marché noir, quêtes, niveaux…)
-- **BedWars** et ses sous-pages — le contenu de la page principale est réutilisable
-- **SkyWars** et ses sous-pages — idem
-- **SkyPvP** et ses sous-pages — idem
+- **BedWars** et ses sous-pages : le contenu de la page principale est réutilisable
+- **SkyWars** et ses sous-pages : idem
+- **SkyPvP** et ses sous-pages : idem
 - **PvPSoup**, **Murder**, **TheLab**
-- **Practice** : sous-pages bots, divisions, classements — leur contenu est désormais dans `practice.md`
+- **Practice** : sous-pages bots, divisions, classements, leur contenu est désormais dans `practice.md`
 - **Événements** : donjons, pvpswap, mineral-contest, chasse-au-coffre, uhc, koth
 
 ### Redirections
@@ -131,15 +131,15 @@ redirects:
 
    ⚠️ **Le Créatif est ouvert mais n'a aucune page.** Je n'ai trouvé aucune source exploitable : pas de config PlotSquared hors `Sauvegardes/V1.9/`, aucun module `creatif` documenté, seulement un profil d'hologrammes. Il me faut : taille et nombre de parcelles par joueur, commandes de claim et de gestion, droits d'invités, limites (redstone, entités, WorldEdit), et règles de modération des constructions.
 
-2. **Publication de `rangs-et-grades.md`.** Ta doc interne est explicite : *« Un audit offre par offre est obligatoire avant toute vente »* et *« les avantages commerciaux annoncés dépassent parfois les permissions réellement livrées »*. La page ne documente que les avantages confirmés côté plugin (identité, homes, `/feed`, `/nick`, `/fly`, allocation mensuelle). **Ne la publie qu'après l'audit**, et vérifie qu'elle ne contredit pas les fiches de la boutique — notamment `/vip`, `/abonnement`, `/privé`, les remises cosmétiques et les limites d'amis, qui n'ont aujourd'hui aucun mécanisme technique documenté.
+2. **Publication de `rangs-et-grades.md`.** Ta doc interne est explicite : *« Un audit offre par offre est obligatoire avant toute vente »* et *« les avantages commerciaux annoncés dépassent parfois les permissions réellement livrées »*. La page ne documente que les avantages confirmés côté plugin (identité, homes, `/feed`, `/nick`, `/fly`, allocation mensuelle). **Ne la publie qu'après l'audit**, et vérifie qu'elle ne contredit pas les fiches de la boutique, notamment `/vip`, `/abonnement`, `/privé`, les remises cosmétiques et les limites d'amis, qui n'ont aujourd'hui aucun mécanisme technique documenté.
 
 3. **Bedrock.** J'ai retiré l'annonce du crossplay. Si les tests sont concluants, il suffit de remplacer l'encadré de `se-connecter.md` par l'adresse et le port réels.
 
 4. **Contradiction interne à trancher.** `2. Fonctionnalités.md` classe SkyPvP et PvPSoup en « Envisagé », alors que `modules/skypvp.md` et `modules/pvpsoup.md` existent et sont fournis. J'ai retenu « en développement ». À aligner dans ta doc interne.
 
 5. **Deux pages restent à créer** et je ne peux pas les rédiger sans toi :
-   - **FAQ** — ta doc de communication la liste comme prérequis au lancement.
-   - **Journal des mises à jour** — `Changelogs/📰 Mise à Jour.txt` existe déjà et le rythme éditorial prévoit un changelog par version.
+   - **FAQ** : ta doc de communication la liste comme prérequis au lancement.
+   - **Journal des mises à jour** : `Changelogs/📰 Mise à Jour.txt` existe déjà et le rythme éditorial prévoit un changelog par version.
 
 ## 6. Points à vérifier en jeu
 
@@ -157,5 +157,5 @@ Ces commandes ne sont pas nommées explicitement dans la doc technique. Elles so
 2. Passer en brouillon les pages de modes non disponibles.
 3. Supprimer les doublons et la table des matières manuelle.
 4. Vérifier les redirections de `.gitbook.yaml` (déjà rédigées).
-5. Publier — sauf `rangs-et-grades.md`, en attente de l'audit.
+5. Publier : sauf `rangs-et-grades.md`, en attente de l'audit.
 6. Mettre à jour le lien du wiki dans la navbar du site et sur le Discord.

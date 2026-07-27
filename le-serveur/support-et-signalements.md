@@ -28,13 +28,13 @@ Sans preuve, un signalement de triche ne peut généralement pas aboutir. Une co
 
 À ne pas faire :
 
-- accuser publiquement un joueur dans le chat — cela peut être sanctionné ;
+- accuser publiquement un joueur dans le chat : cela peut être sanctionné ;
 - relancer le ticket toutes les cinq minutes ;
 - signaler un joueur parce qu'il est simplement meilleur que vous.
 
 ## 🐞 Signaler un bug
 
-Un bug signalé de bonne foi n'est jamais sanctionné. **En revanche, l'exploiter l'est** — voir le [Règlement](reglement.md#7-bugs-et-failles).
+Un bug signalé de bonne foi n'est jamais sanctionné. **En revanche, l'exploiter l'est**. Voir le [Règlement](reglement.md#7-bugs-et-failles).
 
 Décrivez :
 
@@ -69,7 +69,7 @@ Chaque mouvement de crédits est enregistré dans un journal consultable par le 
 
 ## 📨 Contester une sanction
 
-1. Ouvrez un ticket sur le [Discord](https://dsc.clovergames.fr) — jamais dans un canal public.
+1. Ouvrez un ticket sur le [Discord](https://dsc.clovergames.fr), jamais dans un canal public.
 2. Indiquez votre pseudo, la date de la sanction et le motif affiché.
 3. Expliquez factuellement pourquoi vous l'estimez injustifiée.
 4. Joignez tout élément utile.

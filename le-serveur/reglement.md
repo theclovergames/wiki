@@ -37,7 +37,7 @@ En rejoignant Clover Games, vous acceptez ce règlement. L'ignorance d'une règl
 ## 5. 🚨 Tricherie
 
 * Tout client, mod ou logiciel procurant un **avantage de jeu** est interdit.
-* Seuls les mods esthétiques et de confort sont autorisés — la liste précise est sur [Se connecter au serveur](../decouvrir/se-connecter.md#mods-et-clients-autorises).
+* Seuls les mods esthétiques et de confort sont autorisés : la liste précise est sur [Se connecter au serveur](../decouvrir/se-connecter.md#mods-et-clients-autorises).
 * Les macros automatisant le combat ou la récolte sont interdites.
 
 ## 6. ⚖️ Fairplay
@@ -54,7 +54,7 @@ Ce qui relève du fairplay dépend du mode joué : en mode par équipes, s'allie
 ## 7. 🐞 Bugs et failles
 
 * **Exploiter un bug est interdit**, même sans intention de nuire : devenir invulnérable, traverser un bloc, dupliquer un objet, accéder à une zone fermée, contourner une limite.
-* Tout bug découvert doit être **signalé immédiatement** — voir [Support et signalements](support-et-signalements.md).
+* Tout bug découvert doit être **signalé immédiatement**. Voir [Support et signalements](support-et-signalements.md).
 * Signaler un bug de bonne foi n'est jamais sanctionné, même si vous l'avez déclenché sans le vouloir.
 * L'exploitation d'une faille de sécurité entraîne un bannissement définitif.
 
@@ -76,11 +76,11 @@ Ce barème est **le seul applicable sur l'ensemble du réseau**. Le staff l'adap
 
 | Niveau                         | Situation                                                                 | Sanction de référence         |
 | ------------------------------ | ------------------------------------------------------------------------- | ----------------------------- |
-| **1 — Avertissement**          | Premier écart mineur : majuscules, spam léger, langage limite             | Avertissement enregistré      |
-| **2 — Mute**                   | Récidive sur le chat, insulte isolée                                      | Mute de 1 h à 7 jours         |
-| **3 — Exclusion temporaire**   | Insulte grave, fairplay, publicité, récidive après mute                   | Bannissement de 1 h à 7 jours |
-| **4 — Exclusion longue**       | Tricherie, exploitation de bug, contournement de sanction                 | Bannissement de 7 à 30 jours  |
-| **5 — Bannissement définitif** | Haine, menaces, exploitation d'une faille de sécurité, récidive de triche | Bannissement permanent        |
+| **1, Avertissement**          | Premier écart mineur : majuscules, spam léger, langage limite             | Avertissement enregistré      |
+| **2 : Mute**                   | Récidive sur le chat, insulte isolée                                      | Mute de 1 h à 7 jours         |
+| **3 : Exclusion temporaire**   | Insulte grave, fairplay, publicité, récidive après mute                   | Bannissement de 1 h à 7 jours |
+| **4 : Exclusion longue**       | Tricherie, exploitation de bug, contournement de sanction                 | Bannissement de 7 à 30 jours  |
+| **5 : Bannissement définitif** | Haine, menaces, exploitation d'une faille de sécurité, récidive de triche | Bannissement permanent        |
 
 {% hint style="warning" %}
 Les sanctions sont **valables sur tout le réseau**, pas seulement sur le mode où l'infraction a eu lieu. Chaque sanction est enregistrée dans votre historique et consultable par le staff.

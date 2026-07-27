@@ -24,7 +24,7 @@ Sans compte, vous pouvez déjà consulter :
 | **Notre équipe** | Les membres du staff et leur rôle |
 | **Partenaires** | Les communautés partenaires de Clover Games |
 | **Recrutement** | Les postes ouverts au sein de l'équipe |
-| **Vote** | Les sites de vote — voir [Votes et récompenses](votes-et-recompenses.md) |
+| **Vote** | Les sites de vote. Voir [Votes et récompenses](votes-et-recompenses.md) |
 | **Test CPS** | Un compteur de clics par seconde, pour mesurer votre cadence |
 
 Chaque joueur dispose aussi d'une **page de profil publique**, accessible depuis les classements.
@@ -67,7 +67,7 @@ Si vous possédez des grades ou des achats, activez la 2FA. C'est la seule prote
 Modifiable depuis vos paramètres. Si vous vous êtes inscrit via Discord, Google ou Microsoft, vous pouvez définir un mot de passe pour vous connecter aussi par e-mail.
 
 {% hint style="danger" %}
-Aucun membre du staff ne vous demandera **jamais** votre mot de passe, un code de double authentification ou un code de secours. Toute demande de ce type est une tentative d'arnaque — voir [Support et signalements](support-et-signalements.md).
+Aucun membre du staff ne vous demandera **jamais** votre mot de passe, un code de double authentification ou un code de secours. Toute demande de ce type est une tentative d'arnaque. Voir [Support et signalements](support-et-signalements.md).
 {% endhint %}
 
 ## ⚙️ Vos paramètres
@@ -92,7 +92,7 @@ La boutique est organisée par catégories. Vous ajoutez au panier, puis payez d
 
 Votre **historique de commandes** est consultable à tout moment depuis votre profil : c'est là qu'il faut regarder en premier si un achat n'a pas été livré.
 
-Vos **crédits sont synchronisés** entre le site et le jeu. Un achat effectué sur le site est répercuté en jeu automatiquement, sans avoir à vous reconnecter — voir [Crédits](credits-economie.md).
+Vos **crédits sont synchronisés** entre le site et le jeu. Un achat effectué sur le site est répercuté en jeu automatiquement, sans avoir à vous reconnecter. Voir [Crédits](credits-economie.md).
 
 En cas de problème de livraison ou de solde, ouvrez un ticket : voir [Support et signalements](support-et-signalements.md#probleme-dachat-ou-de-credits).
 

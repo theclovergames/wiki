@@ -51,7 +51,7 @@ Le temps passé en **AFK ne rapporte aucun crédit**. Voir [Crédits](../le-serv
 
 | Commande                  | Effet                                           |
 | ------------------------- | ----------------------------------------------- |
-| `/balance`                | Votre solde de crédits — alias `/bal`, `/money` |
+| `/balance`                | Votre solde de crédits : alias `/bal`, `/money` |
 | `/balance <joueur>`       | Solde d'un autre joueur                         |
 | `/pay <joueur> <montant>` | Transfère des crédits                           |
 
@@ -103,7 +103,7 @@ Tous les détails sont sur [PvPSoup](../jouer/pvpsoup.md).
 ## 🛏️ BedWars
 
 {% hint style="info" %}
-Mode **en cours de création**, pas encore accessible — voir [BedWars](../jouer/bedwars.md).
+Mode **en cours de création**, pas encore accessible. Voir [BedWars](../jouer/bedwars.md).
 {% endhint %}
 
 | Commande | Effet |
@@ -119,12 +119,12 @@ Mode **en cours de création**, pas encore accessible — voir [BedWars](../joue
 ## ☁️ SkyPvP
 
 {% hint style="info" %}
-Mode **en cours de création**, pas encore accessible — voir [SkyPvP](../jouer/skypvp.md).
+Mode **en cours de création**, pas encore accessible. Voir [SkyPvP](../jouer/skypvp.md).
 {% endhint %}
 
 | Commande                        | Effet                                      |
 | ------------------------------- | ------------------------------------------ |
-| `/skypvp`                       | Menu principal du mode — alias `/spvp`     |
+| `/skypvp`                       | Menu principal du mode : alias `/spvp`     |
 | `/skypvp spawn`                 | Retour à la safezone (5 s de canalisation) |
 | `/skypvp stats [joueur]`        | Statistiques                               |
 | `/skypvp top [métrique] [page]` | Classements                                |
@@ -188,7 +188,7 @@ Certaines fonctions passent par les menus en jeu plutôt que par une commande :
 * **Familiers** et **gadgets** cosmétiques ;
 * **Visibilité** des autres joueurs (tous, amis et groupe, personne) ;
 * **Amis** et présence sur le réseau ;
-* **Homes** personnels — 1 par défaut, 3 avec VIP, 5 avec Légende ;
+* **Homes** personnels : 1 par défaut, 3 avec VIP, 5 avec Légende ;
 * **Double saut** dans le lobby ;
 * **Caisses** et clefs obtenues par les votes et les niveaux.
 

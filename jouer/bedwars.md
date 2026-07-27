@@ -1,8 +1,8 @@
 ---
-description: Protégez votre lit, détruisez ceux des autres — quatre formats, saisons et replays.
+description: Protégez votre lit, détruisez ceux des autres : quatre formats, saisons et replays.
 ---
 
-# BedWars — en cours de création
+# BedWars : en cours de création
 
 {% hint style="warning" %}
 **BedWars n'est pas encore ouvert.** Le mode est en développement, aux côtés de [SkyPvP](skypvp.md). Cette page décrit ce qui est en préparation ; certains réglages peuvent encore évoluer. L'ouverture sera annoncée sur le [Discord](https://dsc.clovergames.fr).
@@ -76,13 +76,13 @@ La **Tempête** révèle les survivants, resserre la frontière et augmente prog
 
 Les générateurs produisent du fer, du diamant et de l'émeraude à des rythmes croissants. Les améliorations **Forge I à III** accélèrent en plus le fer de votre équipe.
 
-Le partage de proximité couvre **1,5 bloc** et exclut un allié inactif depuis plus de 45 secondes — impossible de se faire porter en restant immobile près d'un générateur.
+Le partage de proximité couvre **1,5 bloc** et exclut un allié inactif depuis plus de 45 secondes, impossible de se faire porter en restant immobile près d'un générateur.
 
 La boutique s'organise en deux marchands : les **objets** et les **améliorations**. La première page du marchand d'objets est votre **achat rapide personnalisé** ; les suivantes présentent le catalogue complet. Un achat refusé indique toujours sa raison exacte.
 
-### Six créations Clover
+### Les objets exclusifs
 
-En plus du catalogue habituel, six objets spécifiques à Clover Games :
+En plus du catalogue habituel, six objets qu'on ne trouve que sur Clover Games :
 
 - la **Plateforme d'urgence**
 - la **Balise de rappel**
@@ -120,7 +120,7 @@ Un replay peut être partagé par un **code de dix caractères**, révocable à 
 
 ## 🔒 Confidentialité
 
-Votre profil BedWars est **public par défaut**. `/bw privacy` en masque les détails aux autres joueurs — jamais au staff.
+Votre profil BedWars est **public par défaut**. `/bw privacy` en masque les détails aux autres joueurs, jamais au staff.
 
 ## ⌨️ Commandes
 

@@ -23,13 +23,13 @@ Les grades joueur s'obtiennent sur la [boutique](https://clovergames.fr/shop) av
 
 | | Joueur | VIP | Prestige | Légende | Divin |
 | --- | :---: | :---: | :---: | :---: | :---: |
-| Identité et couleur dédiées | — | ✅ | ✅ | ✅ | ✅ |
-| Glyphe exclusif | — | ✅ | ✅ | ✅ | ✅ |
+| Identité et couleur dédiées | ✘ | ✅ | ✅ | ✅ | ✅ |
+| Glyphe exclusif | ✘ | ✅ | ✅ | ✅ | ✅ |
 | Nombre de *homes* | 1 | 3 | 3 | 5 | 5 |
-| `/feed` | — | ✅ | ✅ | ✅ | ✅ |
-| `/nick` aléatoire | — | — | ✅ | ✅ | ✅ |
-| `/fly` dans les zones autorisées | — | — | — | ✅ | ✅ |
-| Allocation mensuelle de crédits | — | 25 | 65 | 100 | 175 |
+| `/feed` | ✘ | ✅ | ✅ | ✅ | ✅ |
+| `/nick` aléatoire | ✘ | ✘ | ✅ | ✅ | ✅ |
+| `/fly` dans les zones autorisées | ✘ | ✘ | ✘ | ✅ | ✅ |
+| Allocation mensuelle de crédits | ✘ | 25 | 65 | 100 | 175 |
 
 {% hint style="info" %}
 **L'allocation mensuelle** est un versement automatique de crédits, chaque mois, tant que vous possédez le grade. Elle représente environ 5 % du prix d'achat : c'est un complément à votre activité, pas un remboursement du grade.
@@ -40,7 +40,7 @@ Les grades joueur s'obtiennent sur la [boutique](https://clovergames.fr/shop) av
 - Le catalogue complet et à jour de chaque offre se trouve sur [clovergames.fr/shop](https://clovergames.fr/shop).
 - Un grade est lié à votre compte Minecraft. Vérifiez votre pseudo avant de valider.
 - `/fly` n'est pas disponible dans les modes compétitifs : il serait un avantage.
-- En cas de problème de livraison, ouvrez un ticket — voir [Support et signalements](support-et-signalements.md#probleme-dachat-ou-de-credits).
+- En cas de problème de livraison, ouvrez un ticket. Voir [Support et signalements](support-et-signalements.md#probleme-dachat-ou-de-credits).
 
 ## 🤝 Grades communautaires
 

@@ -2,7 +2,7 @@
 description: Duels 1v1 et 2v2, kits, classement ELO, bots d'entraînement et replays.
 ---
 
-# Practice — duels et classement
+# Practice : duels et classement
 
 **Practice** est le mode compétitif de Clover Games : des duels courts, onze kits différents, un classement ELO par saison, des bots pour s'entraîner et un système de replay pour revoir ses combats.
 
@@ -17,7 +17,7 @@ Tapez `/practice` pour ouvrir le menu. Vous choisissez d'affronter **un joueur**
 | **1v1 classé** | Duel seul contre seul, compte pour votre ELO |
 | **2v2 classé** | En équipe de deux, ELO séparé du 1v1 |
 | **1v1 / 2v2 non classé** | Mêmes règles, sans effet sur l'ELO |
-| **Duel privé** | Vous défiez un joueur précis avec `/duel` — jusqu'à 4v4 entre groupes |
+| **Duel privé** | Vous défiez un joueur précis avec `/duel` : jusqu'à 4v4 entre groupes |
 | **Combat contre bot** | Entraînement avec `/botfight`, quatre difficultés |
 
 En file classée, la fenêtre de recherche d'adversaire s'élargit progressivement et évite de vous remettre face au même joueur en boucle.
@@ -110,7 +110,7 @@ Les **duels privés, les matchs entre groupes et les combats contre bots ne sont
 
 ### Récompenses de saison
 
-À la fin d'une saison, votre **meilleure cote** vous rapporte les crédits de votre palier — voir le tableau ci-dessus. Deux conditions :
+À la fin d'une saison, votre **meilleure cote** vous rapporte les crédits de votre palier. Voir le tableau ci-dessus. Deux conditions :
 
 - avoir joué au moins **25 matchs** ;
 - avoir remporté au moins **10 victoires**.
@@ -121,13 +121,13 @@ La récompense n'est versée qu'une fois, même en cas de coupure du serveur au 
 
 `/botfight <kit> [easy|normal|hard|expert]`
 
-Les bots servent à s'entraîner. Ils se déplacent, esquivent, se soignent, tirent à l'arc et utilisent les perles de l'End comme un joueur — avec les mêmes animations visibles.
+Les bots servent à s'entraîner. Ils se déplacent, esquivent, se soignent, tirent à l'arc et utilisent les perles de l'End comme un joueur : avec les mêmes animations visibles.
 
 {% hint style="info" %}
 Monter la difficulté rend le bot **plus adroit**, jamais plus rapide : sa vitesse de déplacement reste celle d'un joueur à toutes les difficultés. Ce qui change, c'est sa précision, sa cadence, son taux de coups ratés et sa gestion des soins.
 {% endhint %}
 
-Les combats contre bots sont **enregistrés en replay** mais **n'alimentent jamais vos statistiques** : ni victoires, ni défaites, ni kills, ni dégâts.
+Les combats contre bots sont **enregistrés en replay** mais **n'alimentent jamais vos statistiques**, ni victoires, ni défaites, ni kills, ni dégâts.
 
 Une arène accueille au maximum quatre combattants par camp. Selon le nombre de joueurs humains présents, les camps sont complétés par des bots pour atteindre l'équilibre.
 

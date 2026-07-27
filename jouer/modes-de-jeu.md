@@ -14,7 +14,7 @@ description: Ce qui est jouable aujourd'hui sur Clover Games, et ce qui arrive.
 | **Créatif**                 | Construction libre sur parcelles.                                                                           |
 
 {% hint style="success" %}
-Tout est accessible dès votre première connexion. Aucun mode ne demande d'achat pour être joué — voir [Crédits](../le-serveur/credits-economie.md).
+Tout est accessible dès votre première connexion. Aucun mode ne demande d'achat pour être joué. Voir [Crédits](../le-serveur/credits-economie.md).
 {% endhint %}
 
 Le **[Coinflip](../le-serveur/coinflip.md)**, un duel à pile ou face entre joueurs, est également disponible partout sur le réseau.
@@ -57,7 +57,7 @@ Les événements sont des animations ponctuelles, annoncées à l'avance sur le 
 Chacun recevra sa page dès que son déroulé et ses récompenses seront arrêtés.
 
 {% hint style="info" %}
-PvPSoup dispose de ses **propres** événements automatiques, indépendants de ceux du réseau — voir [PvPSoup](pvpsoup.md#evenements-automatiques).
+PvPSoup dispose de ses **propres** événements automatiques, indépendants de ceux du réseau. Voir [PvPSoup](pvpsoup.md#evenements-automatiques).
 {% endhint %}
 
 ## 🌐 Ce qui fonctionne partout
@@ -66,16 +66,16 @@ Ces systèmes vous suivent d'un mode à l'autre :
 
 | Système                  | Ce que ça fait                                                                               |
 | ------------------------ | -------------------------------------------------------------------------------------------- |
-| **Crédits**              | Monnaie unique du réseau — [en savoir plus](../le-serveur/credits-economie.md)               |
+| **Crédits**              | Monnaie unique du réseau : [en savoir plus](../le-serveur/credits-economie.md)               |
 | **Niveaux**              | XP et récompenses de progression. Débloquent les kits PvPSoup.                               |
 | **Défis**                | Objectifs quotidiens et hebdomadaires                                                        |
 | **Temps de jeu**         | Paliers et récompenses d'activité                                                            |
-| **Votes**                | Paliers, vote party et classements — [en savoir plus](../le-serveur/votes-et-recompenses.md) |
+| **Votes**                | Paliers, vote party et classements : [en savoir plus](../le-serveur/votes-et-recompenses.md) |
 | **Amis et groupes**      | Présence et groupes entre les serveurs                                                       |
 | **Familiers et gadgets** | Cosmétiques, sans effet en combat                                                            |
 | **Nick**                 | Pseudo et skin personnalisés selon le grade                                                  |
 
 ## 📣 Suivre l'avancement
 
-* **Discord** — [dsc.clovergames.fr](https://dsc.clovergames.fr) : annonces, nouveautés, événements.
-* **Site** — [clovergames.fr](https://clovergames.fr) : actualités, statut du serveur et classements.
+* **Discord**, [dsc.clovergames.fr](https://dsc.clovergames.fr) : annonces, nouveautés, événements.
+* **Site**, [clovergames.fr](https://clovergames.fr) : actualités, statut du serveur et classements.

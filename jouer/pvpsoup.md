@@ -1,8 +1,8 @@
 ---
-description: FFA Soup persistant — kits, safezone, primes, contrats et saisons.
+description: FFA Soup persistant : kits, safezone, primes, contrats et saisons.
 ---
 
-# PvPSoup — FFA Soup
+# PvPSoup : FFA Soup
 
 **PvPSoup** est un mode combat libre pour tous, persistant : pas de partie à rejoindre, pas de file d'attente. Vous entrez dans la warzone, vous vous battez, vous montez en niveau et vous débloquez des kits.
 
@@ -82,7 +82,7 @@ Sont bloqués pour les joueurs : les conteneurs, le craft, la réparation et la 
 | Action          | Gain                                                                        |
 | --------------- | --------------------------------------------------------------------------- |
 | **Élimination** | 15 XP + remplissage de 5 emplacements vides avec des soupes                 |
-| **Assistance**  | 5 XP — nécessite au moins 4 points de dégâts dans les 10 dernières secondes |
+| **Assistance**  | 5 XP : nécessite au moins 4 points de dégâts dans les 10 dernières secondes |
 
 {% hint style="info" %}
 **Anti-farm** : éliminer le même joueur ne rapporte plus rien pendant **300 secondes**. Se tuer en boucle entre amis ne fonctionne pas.
@@ -96,7 +96,7 @@ Sa valeur : `20 + 5 × (série − 5)` XP, **plafonnée à 75 XP**. Elle revient
 
 ## 📋 Contrats
 
-Cinq contrats sont disponibles : **trois quotidiens et deux hebdomadaires**. Ils récompensent directement en **crédits** — voir [Crédits](../le-serveur/credits-economie.md).
+Cinq contrats sont disponibles : **trois quotidiens et deux hebdomadaires**. Ils récompensent directement en **crédits**. Voir [Crédits](../le-serveur/credits-economie.md).
 
 `/pvpsoup contracts` pour les consulter.
 
@@ -153,5 +153,5 @@ Un panneau `Top 10` est également affiché en jeu. Les classements se rafraîch
 ## 💡 Bon à savoir
 
 * **Les groupes ne protègent pas** : le mode est FFA, deux membres d'un même groupe peuvent se combattre.
-* La zone affichée sur votre tableau latéral reflète toujours votre position réelle : ni une téléportation ni une permission ne peut la désynchroniser.
+* La zone affichée sur votre tableau latéral reflète toujours votre position réelle, ni une téléportation ni une permission ne peut la désynchroniser.
 * Mourir dans le vide compte comme une mort normale.
