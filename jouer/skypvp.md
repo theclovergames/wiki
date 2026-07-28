@@ -64,9 +64,15 @@ Le droit repart à votre réapparition. Et si vous vous déconnectez puis revene
 
 ## 🎒 Les kits
 
-Huit kits, débloqués par votre niveau. Aucun ne s'achète.
+Huit kits, débloqués par votre **niveau SkyPvP**. Aucun ne s'achète.
 
-| Kit            | Niveau | Équipement                                                                     |
+{% hint style="warning" %}
+**Ce n'est pas votre niveau réseau qui compte ici.** SkyPvP possède sa **propre progression**, alimentée uniquement par ce que vous gagnez dans ce mode. Arriver du lobby avec un gros temps de jeu ne vous donne aucun kit d'avance.
+
+En contrepartie, cette progression monte **plus vite** que le niveau réseau.
+{% endhint %}
+
+| Kit            | Niveau SkyPvP | Équipement                                                              |
 | -------------- | :----: | ------------------------------------------------------------------------------ |
 | **Soldat**     |    0   | Épée en fer, armure en fer Protection I                                        |
 | **Archer**     |    0   | Épée en pierre, arc Puissance I, 24 flèches, maille Protection I               |

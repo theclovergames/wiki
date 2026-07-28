@@ -21,6 +21,7 @@ Perdu ? `/help` en jeu donne l'aide contextuelle par catégories, et `/rules` ra
 | `/afk` | | Vous signale comme absent |
 | `/discord` | | Lien vers le Discord |
 | `/site` | | Lien vers le site |
+| `/annonces` | `/announcements`, `/ann` | Active ou coupe les annonces automatiques du chat, pour vous seul |
 | `/clovermenu` | | Ouvre les menus Clover |
 
 {% hint style="warning" %}
@@ -28,6 +29,12 @@ Le temps passé en **AFK ne rapporte aucun crédit** et suspend votre progressio
 {% endhint %}
 
 `/back` retient vos morts et vos téléportations importantes. En revanche, cet historique **ne survit pas à un redémarrage du serveur**.
+
+{% hint style="info" %}
+Le serveur diffuse régulièrement des **annonces automatiques** dans le chat : vote, Discord, cosmétiques, boutique et aide. Si elles vous dérangent, `/annonces` les coupe **pour vous seul**, et la même bascule existe dans votre menu profil.
+
+Elles ne vous sont de toute façon jamais envoyées pendant un match ni lorsque vous êtes AFK.
+{% endhint %}
 
 ## 🏠 Homes et warps
 
@@ -118,6 +125,10 @@ Tous les détails sont sur [Coinflip](../le-serveur/coinflip.md).
 | `/gadget` | Vos cosmétiques et gadgets |
 | `/doublejump` | Active ou désactive votre double saut |
 | `/scoreboard` | Affiche ou masque le tableau latéral |
+
+Vos cosmétiques s'activent **dans tous les mondes du réseau**. Deux exceptions : le Practice les suspend pendant un match, pour ne pas fausser un duel.
+
+Chaque jouet a son propre **temps de recharge**, cinq secondes en général. Pendant ce délai, l'objet affiche le balayage habituel d'une perle de l'Ender et une activation est refusée avec `Recharge : Xs` en barre d'action.
 
 ## 🍲 PvPSoup
 

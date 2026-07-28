@@ -34,9 +34,15 @@ La canalisation de `/pvpsoup spawn` est annulée par un mouvement, des dégâts,
 
 ## 🎒 Les kits
 
-Huit kits, débloqués par votre niveau. Ce sont des **sidegrades** : aucun n'est plus puissant qu'un autre, et aucun ne s'achète.
+Huit kits, débloqués par votre **niveau PvPSoup**. Ce sont des **sidegrades** : aucun n'est plus puissant qu'un autre, et aucun ne s'achète.
 
-| Kit            | Niveau requis |
+{% hint style="warning" %}
+**Ce n'est pas votre niveau réseau qui compte ici.** PvPSoup possède sa **propre progression**, alimentée uniquement par ce que vous gagnez dans ce mode. Un joueur avec beaucoup de temps de jeu ailleurs sur le réseau arrive donc en warzone avec les mêmes kits que tout le monde.
+
+La contrepartie est agréable : cette progression monte **plus vite** que le niveau réseau, puisqu'elle est plus courte.
+{% endhint %}
+
+| Kit            | Niveau PvPSoup requis |
 | -------------- | :-----------: |
 | **Soldat**     |       0       |
 | **Archer**     |       0       |
