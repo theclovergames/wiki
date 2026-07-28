@@ -132,6 +132,29 @@ Tous les détails sont sur [Coinflip](../le-serveur/coinflip.md).
 
 Tous les détails sont sur [PvPSoup](../jouer/pvpsoup.md).
 
+## 🏗️ Créatif
+
+| Commande | Effet |
+| --- | --- |
+| `/plot auto` | Vous attribue la première parcelle libre |
+| `/plot claim` | Réclame la parcelle où vous êtes |
+| `/plot home` | Retour à votre parcelle |
+| `/plot visit <joueur>` | Visite la parcelle d'un joueur |
+| `/plot info` | Informations sur la parcelle |
+| `/plot trust <joueur>` | Accès complet, même en votre absence |
+| `/plot add <joueur>` | Accès pendant que vous êtes connecté |
+| `/plot remove <joueur>` | Retire un accès |
+| `/plot deny <joueur>` | Interdit l'accès à un joueur |
+| `/plot setbiome <biome>` | Change le biome de votre parcelle |
+| `/plot delete` | Supprime votre parcelle, définitivement |
+| `/plot help` | Liste complète en jeu |
+
+{% hint style="warning" %}
+Écrivez `/plot` en entier : `/p` est le raccourci de `/party`, y compris sur le Créatif.
+{% endhint %}
+
+Tous les détails sont sur [Créatif](../jouer/creatif.md).
+
 ## ☁️ SkyPvP
 
 {% hint style="info" %}

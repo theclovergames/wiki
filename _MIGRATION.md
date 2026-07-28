@@ -129,7 +129,9 @@ redirects:
 
    ⚠️ **`2. Fonctionnalités.md` est désormais faux** : il classe Practice en « activation requise », PvPSoup, SkyPvP et Créatif en « Envisagé ». À mettre à jour, c'est la source que je consulte.
 
-   ⚠️ **Le Créatif est ouvert mais n'a aucune page.** Je n'ai trouvé aucune source exploitable : pas de config PlotSquared hors `Sauvegardes/V1.9/`, aucun module `creatif` documenté, seulement un profil d'hologrammes. Il me faut : taille et nombre de parcelles par joueur, commandes de claim et de gestion, droits d'invités, limites (redstone, entités, WorldEdit), et règles de modération des constructions.
+   ✅ **Le Créatif a désormais sa page** (`jouer/creatif.md`), rédigée depuis la configuration PlotSquared de `Sauvegardes/V1.9/`, valeurs confirmées en jeu le 28 juillet 2026. Reste à documenter : le **nombre de parcelles autorisées par joueur**, absent de la configuration.
+
+   ~~**Le Créatif est ouvert mais n'a aucune page.**~~ Je n'ai trouvé aucune source exploitable : pas de config PlotSquared hors `Sauvegardes/V1.9/`, aucun module `creatif` documenté, seulement un profil d'hologrammes. Il me faut : taille et nombre de parcelles par joueur, commandes de claim et de gestion, droits d'invités, limites (redstone, entités, WorldEdit), et règles de modération des constructions.
 
 2. **Publication de `rangs-et-grades.md`.** Ta doc interne est explicite : *« Un audit offre par offre est obligatoire avant toute vente »* et *« les avantages commerciaux annoncés dépassent parfois les permissions réellement livrées »*. La page ne documente que les avantages confirmés côté plugin (identité, homes, `/feed`, `/nick`, `/fly`, allocation mensuelle). **Ne la publie qu'après l'audit**, et vérifie qu'elle ne contredit pas les fiches de la boutique, notamment `/vip`, `/abonnement`, `/privé`, les remises cosmétiques et les limites d'amis, qui n'ont aujourd'hui aucun mécanisme technique documenté.
 
