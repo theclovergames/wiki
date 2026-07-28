@@ -19,9 +19,9 @@
 
 * [Les modes de jeu](jouer/modes-de-jeu.md)
 * [Practice : duels et classement](jouer/practice.md)
-* [PvPSoup : FFA Soup](jouer/pvpsoup.md)
+* [PvPSoup : combat libre](jouer/pvpsoup.md)
 * [Créatif](jouer/creatif.md)
-* [SkyPvP : FFA PvP](jouer/skypvp.md)
+* [SkyPvP : combat libre en PvP classique](jouer/skypvp.md)
 * [BedWars : en cours de création](jouer/bedwars.md)
 
 ## Référence

@@ -41,7 +41,7 @@ Le **plafond de 100** limite seulement la recharge : si votre portefeuille conti
 | **Expiration d'une annonce** | 30 minutes, avec remboursement automatique |
 | **Prélèvement sur le pot** | 5 % |
 
-Les deux mises sont **mises sous séquestre** avant le tirage : personne ne peut se désister une fois le duel accepté.
+Les deux mises sont **bloquées** dès que le duel est accepté : personne ne peut se désister avant le tirage.
 
 {% hint style="warning" %}
 Les 5 % prélevés sur le pot sont **détruits**, pas redistribués. Un duel ne crée donc jamais de jetons : à l'échelle du serveur, l'économie des jetons ne peut que diminuer. C'est ce qui empêche le Coinflip de devenir une source infinie de ressources.
@@ -64,7 +64,7 @@ Autrement dit, ni le serveur ni votre adversaire ne peuvent influencer un tirage
 Rejoindre un Coinflip ouvre un **écran de roulette**. La pièce défile sur sept cases, ralentit progressivement, s'immobilise sur le côté tiré, puis affiche le vainqueur, le gain et la part prélevée.
 
 {% hint style="info" %}
-**L'animation est purement décorative.** Votre mise est déjà sous séquestre et le résultat déjà scellé en base de données au moment où l'écran s'ouvre. La bande défilante est calée pour retomber exactement sur ce résultat : elle ne peut ni le choisir ni le contredire.
+**L'animation est purement décorative.** Votre mise est déjà bloquée et le résultat déjà scellé en base de données au moment où l'écran s'ouvre. La bande défilante est calée pour retomber exactement sur ce résultat : elle ne peut ni le choisir ni le contredire.
 {% endhint %}
 
 Quelques précisions :

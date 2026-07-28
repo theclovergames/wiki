@@ -1,8 +1,8 @@
 ---
-description: "FFA Soup persistant : kits, safezone, primes, contrats et saisons."
+description: "Combat libre et persistant : kits, safezone, primes, contrats et saisons."
 ---
 
-# PvPSoup : FFA Soup
+# PvPSoup : combat libre
 
 **PvPSoup** est un mode combat libre pour tous, persistant : pas de partie à rejoindre, pas de file d'attente. Vous entrez dans la warzone, vous vous battez, vous montez en niveau et vous débloquez des kits.
 
@@ -168,7 +168,7 @@ Un panneau `Top 10` est également affiché en jeu. Les classements se rafraîch
 
 ## 💡 Bon à savoir
 
-* **Les groupes ne protègent pas** : le mode est FFA, deux membres d'un même groupe peuvent se combattre.
+* **Les groupes ne protègent pas** : ici c'est chacun pour soi, et deux membres d'un même groupe peuvent parfaitement se combattre.
 * La zone affichée sur votre tableau latéral reflète toujours votre position réelle, ni une téléportation ni une permission ne peut la désynchroniser.
 * **Le vide ne pardonne pas en warzone.** Le filet de sécurité qui rattrape les chutes ailleurs sur le réseau est désactivé pendant un combat : tomber vous tue, sinon la chute serait une échappatoire gratuite. Une chute depuis la safezone, elle, vous rattrape toujours.
 * Plusieurs safezones peuvent coexister sur la carte, et le spawn peut se trouver dans n'importe laquelle.

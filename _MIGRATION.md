@@ -32,8 +32,9 @@ Le serveur
 Jouer
 ├── Les modes de jeu                → modes-de-jeu.md
 ├── Practice : duels et classement  → practice.md
-├── PvPSoup : FFA Soup              → pvpsoup.md
-└── SkyPvP : FFA PvP                → skypvp.md
+├── PvPSoup : combat libre          → pvpsoup.md
+├── Créatif                         → creatif.md
+└── SkyPvP : combat libre en PvP classique → skypvp.md
 
 Référence
 └── Toutes les commandes            → commandes.md

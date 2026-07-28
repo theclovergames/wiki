@@ -1,8 +1,8 @@
 ---
-description: "FFA PvP classique : kits, coffres partagés, primes, contrats et saisons."
+description: "Combat libre en PvP classique : kits, coffres partagés, primes, contrats et saisons."
 ---
 
-# SkyPvP : FFA PvP
+# SkyPvP : combat libre en PvP classique
 
 {% hint style="warning" %}
 **SkyPvP n'est pas encore ouvert.** Le mode est en cours de création, aux côtés de [BedWars](bedwars.md). Cette page décrit ce qui est en préparation ; certains réglages peuvent encore évoluer. L'ouverture sera annoncée sur le [Discord](https://dsc.clovergames.fr).
@@ -190,7 +190,7 @@ Trois statues forment le **podium** du top éliminations, avec la meilleure sér
 
 ## 💡 Bon à savoir
 
-* **Les groupes ne protègent pas** : le mode est FFA, deux membres d'un même groupe peuvent se combattre.
+* **Les groupes ne protègent pas** : ici c'est chacun pour soi, et deux membres d'un même groupe peuvent parfaitement se combattre.
 * La zone affichée sur votre tableau latéral reflète toujours votre position réelle.
 * Vos statistiques SkyPvP sont **indépendantes** de celles de PvPSoup et de Practice.
 * Gérez votre durabilité : une armure en fin de vie ne se répare pas en warzone.
