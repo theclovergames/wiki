@@ -25,7 +25,7 @@ Ces deux modes sont en cours de création. Leur page décrit ce qui est en prép
 
 | Mode | Ce qui se prépare |
 | --- | --- |
-| [**SkyPvP**](skypvp.md) | Combat libre en PvP classique. Durabilité vanilla, coffres partagés à piller, primes et saisons. |
+| [**SkyPvP**](skypvp.md) | Combat libre, sans soupe. Vos armes s'usent, et des coffres partagés sont à piller sur la carte. |
 | [**BedWars**](bedwars.md) | Quatre formats du Solo au Quad, votes de carte et de style de combat, saisons de huit semaines et replays. |
 
 ## 🗓️ Prévus

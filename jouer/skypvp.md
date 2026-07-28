@@ -1,5 +1,5 @@
 ---
-description: "Combat libre en PvP classique : kits, coffres partagés, primes, contrats et saisons."
+description: "Combat libre : kits, coffres partagés à piller, primes, contrats et saisons."
 ---
 
 # SkyPvP : combat libre
@@ -10,7 +10,7 @@ description: "Combat libre en PvP classique : kits, coffres partagés, primes, c
 
 **SkyPvP** est un mode combat libre pour tous, persistant : pas de partie à rejoindre, pas de file d'attente. Vous équipez un kit, vous entrez en warzone, vous montez en niveau.
 
-C'est du **PvP classique** en profil **1.8** : pas de soupe, aucun effet passif de kit, et vos armes et armures **s'usent normalement**.
+Le combat suit les règles **1.8** : pas de soupe, aucun effet passif de kit, et vos armes et armures **s'usent normalement**.
 
 {% hint style="info" %}
 SkyPvP et [PvPSoup](pvpsoup.md) partagent la même structure : progression, séries, primes, saisons, classements, mais pas les mêmes règles de combat. Vos statistiques sont **séparées** entre les deux modes.
