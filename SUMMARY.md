@@ -21,7 +21,7 @@
 * [Practice : duels et classement](jouer/practice.md)
 * [PvPSoup : combat libre](jouer/pvpsoup.md)
 * [Créatif](jouer/creatif.md)
-* [SkyPvP : combat libre en PvP classique](jouer/skypvp.md)
+* [SkyPvP : combat libre](jouer/skypvp.md)
 * [BedWars : en cours de création](jouer/bedwars.md)
 
 ## Référence

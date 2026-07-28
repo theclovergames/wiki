@@ -34,7 +34,7 @@ Jouer
 ├── Practice : duels et classement  → practice.md
 ├── PvPSoup : combat libre          → pvpsoup.md
 ├── Créatif                         → creatif.md
-└── SkyPvP : combat libre en PvP classique → skypvp.md
+└── SkyPvP : combat libre           → skypvp.md
 
 Référence
 └── Toutes les commandes            → commandes.md
