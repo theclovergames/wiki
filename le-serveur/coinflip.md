@@ -59,6 +59,20 @@ Avant qu'une annonce puisse être acceptée, le serveur enregistre l'**empreinte
 Autrement dit, ni le serveur ni votre adversaire ne peuvent influencer un tirage après coup, et vous pouvez le vérifier vous-même sans nous faire confiance.
 {% endhint %}
 
+## 🎰 L'animation de tirage
+
+Rejoindre un Coinflip ouvre un **écran de roulette**. La pièce défile sur sept cases, ralentit progressivement, s'immobilise sur le côté tiré, puis affiche le vainqueur, le gain et la part prélevée.
+
+{% hint style="info" %}
+**L'animation est purement décorative.** Votre mise est déjà sous séquestre et le résultat déjà scellé en base de données au moment où l'écran s'ouvre. La bande défilante est calée pour retomber exactement sur ce résultat : elle ne peut ni le choisir ni le contredire.
+{% endhint %}
+
+Quelques précisions :
+
+* Celui qui **rejoint** un duel voit toujours l'animation, y compris depuis `/coinflip accept <id>`.
+* Celui qui a **créé** l'annonce ne la voit que s'il a déjà un menu ouvert. On ne vous arrache jamais votre inventaire au milieu d'une partie : dans ce cas, vous recevez l'annonce du résultat dans le chat.
+* **Fermer l'écran** en cours de route n'annule rien : le résultat s'affiche immédiatement dans le chat.
+
 ## ⌨️ Commandes
 
 | Commande | Effet |

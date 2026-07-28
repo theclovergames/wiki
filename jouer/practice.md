@@ -53,6 +53,7 @@ Onze kits sont disponibles :
 - **En Boxing**, seuls les coups de mêlée directs comptent. Les balayages et les projectiles n'augmentent pas le score. Le profil livré autorise un coup toutes les 9 ticks environ.
 - **En BuildUHC**, l'arène est restaurée à l'identique après chaque match.
 - **Pendant le compte à rebours** (3, 2, 1, GO), vous ne pouvez ni bouger ni utiliser d'objet : interactions, nourriture, potions, projectiles et perles de l'End sont bloqués jusqu'au départ.
+- **Le slot que vous choisissez pendant le décompte est conservé.** Si vous vous placez sur votre épée en slot 5 avant le « GO ! », vous y êtes toujours au départ du combat. Seule la préparation initiale vous replace sur le slot 0.
 
 ## ⏳ File d'attente et inventaire
 
@@ -150,6 +151,20 @@ Chaque match peut être revu. Le replay rejoue positions, équipements, animatio
 
 Seuls les **participants** d'un match peuvent voir son replay.
 
+## 🔁 La revanche
+
+À la fin d'un duel 1v1 entre joueurs, les deux camps reçoivent une **offre de revanche cliquable** dans le chat.
+
+Le **perdant** reçoit en plus un objet **Revanche** dans sa barre : un clic droit renvoie le défi au même adversaire, avec le même kit.
+
+| | |
+| --- | --- |
+| **Durée de vie de l'objet** | 2 minutes |
+| **Disparaît** | à la déconnexion, ou dès qu'un nouveau match démarre |
+| **Non distribué** | en cas d'égalité, et après un combat contre un bot |
+
+L'objet ne remplace jamais un objet existant de votre barre.
+
 ## 📜 Historique et revanche
 
 `/practice history` ouvre vos **63 derniers combats** avec leur résultat.
@@ -186,8 +201,8 @@ Votre choix est conservé d'une session à l'autre. Ces effets sont purement dé
 | `/practice top <kit> <format>` | Classement d'un kit |
 | `/practice history` | Vos 63 derniers combats |
 | `/practice effect [set <id>]` | Gère vos effets de victoire |
-| `/duel <joueur> <kit>` | Défie un joueur |
-| `/duel accept` · `/duel deny` | Accepte ou refuse un défi |
+| `/duel <joueur> <kit>` | Défie un joueur. Il reçoit une invitation **cliquable** dans le chat et dispose de **30 secondes** |
+| `/duel accept` · `/duel deny` | Accepte ou refuse au clavier, si les clics de chat ne fonctionnent pas chez vous |
 | `/team split <kit>` | Répartit votre groupe en deux camps |
 | `/botfight <kit> [difficulté]` | Combat d'entraînement contre un bot |
 | `/replay list\|watch\|pause\|speed\|stop` | Gestion des replays |

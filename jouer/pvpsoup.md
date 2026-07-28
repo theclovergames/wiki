@@ -71,6 +71,10 @@ Votre disposition est liée à la version du kit. Si le kit est mis à jour, l'a
 
 Un **clic droit sur une soupe soigne immédiatement 7 points de vie** (3,5 cœurs), même en plein saut. La soupe disparaît entièrement : aucun bol ne reste pour encombrer votre inventaire.
 
+{% hint style="success" %}
+**Votre faim ne descend jamais** dans le monde PvPSoup. La soupe soigne, elle ne nourrit pas : vous n'avez donc aucune raison de quitter un combat pour aller manger.
+{% endhint %}
+
 ### Objets de kit
 
 Les objets fournis par votre kit sont **indroppables**, impossibles à ramasser par un autre joueur et sans durabilité. Les objets ordinaires, eux, restent manipulables normalement.
@@ -85,7 +89,7 @@ Sont bloqués pour les joueurs : les conteneurs, le craft, la réparation et la 
 | **Assistance**  | 5 XP : nécessite au moins 4 points de dégâts dans les 10 dernières secondes |
 
 {% hint style="info" %}
-**Anti-farm** : éliminer le même joueur ne rapporte plus rien pendant **300 secondes**. Se tuer en boucle entre amis ne fonctionne pas.
+**Anti-farm** : éliminer le même joueur ne rapporte plus rien pendant **300 secondes**. L'XP de kill, le remplissage en soupes et l'XP d'assistance sont coupés. Se tuer en boucle entre amis ne fonctionne pas.
 {% endhint %}
 
 ### Les primes
@@ -93,6 +97,10 @@ Sont bloqués pour les joueurs : les conteneurs, le craft, la réparation et la 
 À partir de **5 éliminations d'affilée**, une prime est placée sur votre tête.
 
 Sa valeur : `20 + 5 × (série − 5)` XP, **plafonnée à 75 XP**. Elle revient au joueur qui met fin à votre série.
+
+{% hint style="warning" %}
+**La prime échappe à l'anti-farm.** Elle est toujours versée à celui qui vous arrête, même s'il vous a déjà tué récemment. En revanche, pour qu'une nouvelle prime se forme sur votre tête, il vous faut rebâtir **cinq éliminations valides** : une prime ne peut donc pas se farmer à deux.
+{% endhint %}
 
 ## 📋 Contrats
 
@@ -113,6 +121,8 @@ Trois événements tournent d'eux-mêmes, sans annonce préalable :
 | **Carnage**             | Double l'XP des éliminations et des assistances  |
 | **Ruée sur les primes** | Double l'XP versée par une prime                 |
 | **Tempête de soupes**   | Ajoute 5 soupes au remplissage d'une élimination |
+
+L'événement en cours s'affiche dans une **barre en haut de l'écran**, dont la jauge se vide au fil du temps : rouge pour Carnage, jaune pour Ruée sur les primes, verte pour Tempête de soupes. Elle apparaît quand vous entrez dans le monde pendant un événement et disparaît quand vous en sortez. Le chat annonce aussi le lancement et la fin.
 
 ## 🗓️ Saisons
 
@@ -154,4 +164,5 @@ Un panneau `Top 10` est également affiché en jeu. Les classements se rafraîch
 
 * **Les groupes ne protègent pas** : le mode est FFA, deux membres d'un même groupe peuvent se combattre.
 * La zone affichée sur votre tableau latéral reflète toujours votre position réelle, ni une téléportation ni une permission ne peut la désynchroniser.
-* Mourir dans le vide compte comme une mort normale.
+* **Le vide ne pardonne pas en warzone.** Le filet de sécurité qui rattrape les chutes ailleurs sur le réseau est désactivé pendant un combat : tomber vous tue, sinon la chute serait une échappatoire gratuite. Une chute depuis la safezone, elle, vous rattrape toujours.
+* Plusieurs safezones peuvent coexister sur la carte, et le spawn peut se trouver dans n'importe laquelle.

@@ -20,10 +20,10 @@ SkyPvP et [PvPSoup](pvpsoup.md) partagent la même structure : progression, sér
 
 | Zone         | Ce qui s'y passe                                    |
 | ------------ | --------------------------------------------------- |
-| **Safezone** | Aucun combat. Vous choisissez et équipez votre kit. |
+| **Safezone** | Aucun combat. Vous prenez votre kit. Il peut y en avoir plusieurs sur la carte. |
 | **Warzone**  | Tout le reste du monde. Combat libre.               |
 
-À la connexion et après chaque mort, vous revenez en safezone **vie et faim pleines, sans inventaire ni effet**. Il faut équiper un kit pour repartir en warzone.
+À la connexion et après chaque mort, vous revenez en safezone **vie et faim restaurées**. Il faut prendre un kit pour repartir en warzone.
 
 ### Le tag de combat
 
@@ -40,7 +40,27 @@ La canalisation est annulée par un mouvement, des dégâts, une téléportation
 **Se déconnecter pendant le tag compte comme une mort.** L'élimination est attribuée à votre dernier attaquant et **tout votre inventaire est lâché sur place**.
 {% endhint %}
 
-Revenir en safezone ou quitter le monde **vide entièrement** votre inventaire, votre armure, votre main secondaire et vos effets.
+### Votre inventaire n'est jamais réinitialisé
+
+C'est le principe central du mode : **kits et butin se cumulent**.
+
+Le kit s'ajoute à ce que vous portez déjà. Chaque pièce rejoint sa place habituelle si l'emplacement est libre, sinon ailleurs dans l'inventaire, sinon au sol. Et l'**armure que vous portez déjà n'est jamais remplacée**, y compris celle ramassée sur un joueur que vous venez de tuer.
+
+Traverser la frontière, revenir au spawn ou vous déconnecter **ne vous coûte rien**. Seuls votre vie, votre faim et le feu sont remis à zéro.
+
+{% hint style="warning" %}
+**Deux exceptions, et seulement deux.**
+
+La **mort** lâche tout au sol pour votre tueur, et se déconnecter pendant le tag de combat compte comme une mort.
+
+**Quitter le monde** confisque votre équipement, pour qu'il n'arrive pas dans un autre mode.
+{% endhint %}
+
+### Un kit par vie
+
+Puisque le kit s'ajoute à votre butin au lieu de le remplacer, vous n'y avez droit qu'**une fois par vie**. Sinon, recliquer le comptoir suffirait à se constituer un stock gratuit.
+
+Le droit repart à votre réapparition. Et si vous vous déconnectez puis revenez, il est déduit de l'équipement que vous portez encore : se déconnecter ne redonne pas un kit gratuit.
 
 ## 🎒 Les kits
 
