@@ -12,6 +12,7 @@ Le Créatif est le seul mode de Clover Games qui ne demande aucune compétence e
 
 | | |
 | --- | --- |
+| **Parcelles par joueur** | 5 |
 | **Taille** | 150 × 150 blocs |
 | **Sol** | Herbe, à hauteur 50 |
 | **Biome** | Jungle |
@@ -32,8 +33,10 @@ Les parcelles sont séparées par des routes et bordées d'un mur. Le mur change
 | `/plot delete` | Supprime votre parcelle et tout ce qu'elle contient |
 
 {% hint style="success" %}
-**Réclamer une parcelle est gratuit.** Elle ne coûte aucun crédit.
+**Réclamer une parcelle est gratuit.** Elle ne coûte aucun crédit, et vous pouvez en posséder **jusqu'à cinq**.
 {% endhint %}
+
+Une fois vos cinq parcelles occupées, il faut en libérer une avec `/plot delete` pour en réclamer une nouvelle. Pensez-y avant de lancer un gros projet : mieux vaut réserver une parcelle à vos essais plutôt que d'effacer une construction terminée.
 
 {% hint style="danger" %}
 `/plot delete` est **définitif**. Votre construction n'est pas récupérable, et le staff ne peut pas la restaurer.
