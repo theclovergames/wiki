@@ -1,5 +1,5 @@
 ---
-description: Protégez votre lit, détruisez ceux des autres : quatre formats, saisons et replays.
+description: "Protégez votre lit, détruisez ceux des autres : quatre formats, saisons et replays."
 ---
 
 # BedWars : en cours de création

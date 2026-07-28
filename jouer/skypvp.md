@@ -1,5 +1,5 @@
 ---
-description: FFA PvP classique : kits, coffres partagés, primes, contrats et saisons.
+description: "FFA PvP classique : kits, coffres partagés, primes, contrats et saisons."
 ---
 
 # SkyPvP : FFA PvP

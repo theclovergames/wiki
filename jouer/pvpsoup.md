@@ -1,5 +1,5 @@
 ---
-description: FFA Soup persistant : kits, safezone, primes, contrats et saisons.
+description: "FFA Soup persistant : kits, safezone, primes, contrats et saisons."
 ---
 
 # PvPSoup : FFA Soup

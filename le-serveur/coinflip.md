@@ -1,5 +1,5 @@
 ---
-description: Le duel à pile ou face : jetons de jeu, mises et tirage vérifiable.
+description: "Le duel à pile ou face : jetons de jeu, mises et tirage vérifiable."
 ---
 
 # Coinflip
