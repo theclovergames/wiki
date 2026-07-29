@@ -57,16 +57,23 @@ Vous êtes créateur de contenu, streamer ou représentez une communauté ? Ouvr
 
 Le staff n'est pas une récompense mais une responsabilité. Chaque grade a un périmètre précis et n'a accès qu'à ce dont il a besoin.
 
+Neuf grades, présentés ici du plus accessible au plus élevé. Chacun hérite des responsabilités du précédent.
+
 | Grade | Mission |
 | --- | --- |
-| **Graphiste** | Identité visuelle et supports graphiques |
-| **Architecte** | Cartes, arènes et constructions |
-| **Support** | Accueil, aide aux joueurs, avertissements |
-| **Modérateur** | Sanctions courantes : mute, expulsion, bannissement temporaire |
-| **Développeur** | Diagnostic technique et sécurité |
-| **Responsable** | Supervision de la modération, sanctions permanentes |
-| **Administrateur** | Administration des modules du réseau |
-| **Gérant** | Gouvernance du projet et sécurité |
+| **Helper** | Accueil, aide aux joueurs et avertissements |
+| **Builder** | Cartes, arènes et constructions |
+| **Designer** | Identité visuelle et supports graphiques |
+| **Writer** | Rédaction des contenus et de la documentation |
+| **Mod** | Sanctions courantes : mute, expulsion, bannissement temporaire |
+| **Dev** | Diagnostic technique et sécurité |
+| **Manager** | Modération lourde, sanctions permanentes et portée réseau |
+| **Admin** | Administration des modules du réseau |
+| **Owner** | Gouvernance du projet et sécurité |
+
+{% hint style="info" %}
+**Builder, Designer et Writer sont des grades métier.** Ils reconnaissent une contribution — construction, graphisme, rédaction — et n'ajoutent aucun pouvoir de modération au-delà de celui d'un Helper.
+{% endhint %}
 
 {% hint style="info" %}
 Les recrutements sont annoncés sur le [Discord](https://dsc.clovergames.fr). Les candidatures spontanées par message privé ne sont pas examinées.
