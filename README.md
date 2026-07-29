@@ -20,6 +20,7 @@ description: Ce qu'est Clover Games, ce qui est jouable et par où commencer.
 | Comprendre les crédits       | [Crédits : l'économie du réseau](le-serveur/credits-economie.md) |
 | Trouver une commande         | [Toutes les commandes](reference/commandes.md)                   |
 | Gérer votre compte, vos stats | [Le site web](le-serveur/le-site-web.md)                        |
+| Comprendre le bot Discord    | [Le bot Discord](le-serveur/bot-discord.md)                      |
 | Signaler un joueur ou un bug | [Support et signalements](le-serveur/support-et-signalements.md) |
 
 ## 🔗 Nos adresses officielles

@@ -14,6 +14,7 @@
 * [Coinflip](le-serveur/coinflip.md)
 * [Votes et récompenses](le-serveur/votes-et-recompenses.md)
 * [Le site web](le-serveur/le-site-web.md)
+* [Le bot Discord](le-serveur/bot-discord.md)
 
 ## Jouer
 

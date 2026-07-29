@@ -99,9 +99,13 @@ Des coffres sont disséminés en warzone. Seuls ceux **enregistrés par le staff
 
 | Rareté     | Objets tirés | Rechargement          |
 | ---------- | :----------: | --------------------- |
-| **Commun** |       4      | toutes les 3 minutes  |
-| **Rare**   |       3      | toutes les 5 minutes  |
-| **Épique** |       2      | toutes les 10 minutes |
+| **Commun** |    4 à 7     | toutes les 3 minutes  |
+| **Rare**   |    3 à 5     | toutes les 5 minutes  |
+| **Épique** |    2 à 4     | toutes les 10 minutes |
+
+{% hint style="info" %}
+**Le nombre d'objets n'est pas fixe.** Chaque rechargement le tire au sort dans la fourchette de son palier, donc deux coffres du même type ne rendent pas la même chose. Les objets sont en plus dispersés au hasard dans les 27 emplacements, jamais rangés à partir du premier.
+{% endhint %}
 
 Le délai de rechargement démarre au **premier accès** après chaque génération, et il ne peut pas être repoussé : camper un coffre ne le bloque pas.
 

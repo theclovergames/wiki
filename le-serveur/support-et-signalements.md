@@ -6,6 +6,8 @@ description: Comment signaler un joueur ou un bug, contacter le staff et contest
 
 Tout passe par le [Discord Clover Games](https://dsc.clovergames.fr). C'est le canal officiel de support : le staff n'assure pas d'assistance par message privé en jeu ni sur un autre réseau.
 
+Les tickets s'ouvrent d'un clic depuis le panneau de support, qui vous crée un salon privé avec l'équipe. Voir [Le bot Discord](bot-discord.md#tickets).
+
 {% hint style="warning" %}
 Un membre du staff ne vous demandera **jamais** votre mot de passe, un code de connexion, un moyen de paiement ni l'accès à votre compte. Toute demande de ce type est une tentative d'arnaque : signalez-la.
 {% endhint %}
