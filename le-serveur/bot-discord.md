@@ -28,9 +28,25 @@ Certains niveaux débloquent des **rôles récompense**, attribués automatiquem
 
 ## 🔄 Lier votre compte Minecraft
 
-`/sync moi` synchronise votre identité : votre pseudo Discord prend votre pseudo Minecraft, et vous recevez le rôle **Synchronisé**.
+La liaison se fait par un **code généré en jeu**, sans mot de passe et sans passer par le site.
 
-La liaison s'appuie sur votre compte du site. Il faut donc d'abord y associer votre compte Minecraft, comme expliqué sur [Le site web](le-site-web.md#lier-votre-compte-minecraft).
+1. En jeu, tapez **`/lier`**. Un code de huit caractères s'affiche, valable **10 minutes**.
+2. Sur Discord, tapez **`/lier code:ABCD-EFGH`**.
+3. Votre pseudo et votre rôle sont appliqués aussitôt, et le jeu vous confirme la liaison.
+
+| Commande | Où | Effet |
+| --- | --- | --- |
+| `/lier` | En jeu | Affiche votre code, ou en génère un |
+| `/lier annuler` | En jeu | Invalide le code en cours |
+| `/lier code:XXXX` | Discord | Consomme le code et lie votre compte |
+| `/delier` | Discord | Retire la liaison |
+| `/sync moi` | Discord | Resynchronise votre pseudo et votre rôle **Synchronisé** |
+
+{% hint style="success" %}
+**Seul quelqu'un connecté en jeu sur ce compte peut voir le code.** C'est ce qui prouve que vous en êtes le propriétaire : personne ne peut lier votre compte Minecraft au sien.
+{% endhint %}
+
+Si vous avez déjà lié votre compte **sur le site**, la liaison est répercutée sur Discord en une minute environ. Voir [Le site web](le-site-web.md#lier-votre-compte-minecraft).
 
 {% hint style="warning" %}
 Le bot ne peut pas renommer le **propriétaire du serveur** Discord. C'est une limite de Discord, pas un dysfonctionnement.

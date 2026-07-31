@@ -14,7 +14,27 @@ Un membre du staff ne vous demandera **jamais** votre mot de passe, un code de c
 
 ## 🚨 Signaler un joueur
 
-Ouvrez un ticket sur le [Discord](https://dsc.clovergames.fr) en indiquant :
+### Depuis le jeu, avec `/report`
+
+Le plus rapide, et à privilégier :
+
+```
+/report <joueur> <raison>
+```
+
+L'alias `/signaler` fonctionne aussi. Le motif est **obligatoire**, et des suggestions vous sont proposées à la saisie.
+
+| Bon à savoir | |
+| --- | --- |
+| **Le joueur peut être hors ligne** | Le signalement part quand même |
+| **Un pseudo d'emprunt est résolu** | Quelqu'un sous `/nick` est identifié correctement |
+| **Un seul signalement ouvert** par joueur visé | Inutile de répéter, cela ne fait pas remonter le dossier |
+| **Un délai s'applique** entre deux signalements | Il évite les vagues de signalements abusifs |
+| **Valable sur tout le réseau** | Déposé sur un mode, traité depuis n'importe quel autre |
+
+### Sur le Discord, pour tout ce qui demande une preuve
+
+Un ticket reste préférable quand vous avez une capture ou une vidéo à joindre, ce qui est presque toujours le cas pour une accusation de triche. Indiquez :
 
 | Information | Pourquoi |
 | --- | --- |
@@ -32,6 +52,7 @@ Sans preuve, un signalement de triche ne peut généralement pas aboutir. Une co
 
 - accuser publiquement un joueur dans le chat : cela peut être sanctionné ;
 - relancer le ticket toutes les cinq minutes ;
+- répéter le même `/report` en espérant accélérer le traitement ;
 - signaler un joueur parce qu'il est simplement meilleur que vous.
 
 ## 🐞 Signaler un bug

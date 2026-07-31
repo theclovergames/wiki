@@ -46,9 +46,25 @@ C'est l'étape qui donne son intérêt au site : une fois votre compte Minecraft
 
 C'est aussi ce qui permet à la boutique de livrer vos achats sur le bon compte.
 
-{% hint style="warning" %}
-Vérifiez votre pseudo Minecraft avant de valider. Une livraison sur un mauvais compte se corrige, mais seulement sur ticket.
+La liaison se fait par un **code à usage unique**, généré en jeu :
+
+1. Connectez-vous sur `play.clovergames.fr` et tapez **`/lier`**.
+2. Le jeu vous affiche un code de huit caractères, du type `ABCD-EFGH`, **valable 10 minutes**.
+3. Sur le site, ouvrez votre profil, puis **Paramètres**, et saisissez ce code dans la carte **Compte Minecraft**.
+4. Le jeu vous confirme la liaison.
+
+{% hint style="success" %}
+**Personne ne peut lier votre compte à sa place.** Seul quelqu'un connecté en jeu sur ce compte peut voir le code, ce qui prouve que vous en êtes bien le propriétaire. Aucun mot de passe n'est échangé.
 {% endhint %}
+
+Quelques précisions utiles :
+
+* Retaper `/lier` pendant la validité **réaffiche le même code** au lieu d'en créer un autre.
+* `/lier annuler` invalide le code en cours si vous vous êtes trompé de fenêtre.
+* Les tirets et les espaces sont ignorés à la saisie.
+* Si vous étiez hors ligne au moment de la validation, la confirmation vous parvient à votre prochaine connexion.
+
+Le même code fonctionne pour lier votre **Discord** : voir [Le bot Discord](bot-discord.md#lier-votre-compte-minecraft).
 
 ## 🔒 Sécurité du compte
 

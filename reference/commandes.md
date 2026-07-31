@@ -22,6 +22,9 @@ Perdu ? `/help` en jeu donne l'aide contextuelle par catégories, et `/rules` ra
 | `/discord` | | Lien vers le Discord |
 | `/site` | | Lien vers le site |
 | `/annonces` | `/announcements`, `/ann` | Active ou coupe les annonces automatiques du chat, pour vous seul |
+| `/lier` | `/link` | Affiche un code pour lier votre compte au site et à Discord |
+| `/lier annuler` | | Invalide le code en cours |
+| `/report <joueur> <raison>` | `/signaler` | Signale un joueur au staff |
 | `/clovermenu` | | Ouvre les menus Clover |
 
 {% hint style="warning" %}
@@ -29,6 +32,10 @@ Le temps passé en **AFK ne rapporte aucun crédit** et suspend votre progressio
 {% endhint %}
 
 `/back` retient vos morts et vos téléportations importantes. En revanche, cet historique **ne survit pas à un redémarrage du serveur**.
+
+`/report` fonctionne même si le joueur visé est **hors ligne**, et il est valable sur tout le réseau. Voir [Support et signalements](../le-serveur/support-et-signalements.md#depuis-le-jeu-avec-report).
+
+`/lier` génère un code valable 10 minutes, à saisir sur le [site](../le-serveur/le-site-web.md#lier-votre-compte-minecraft) ou sur [Discord](../le-serveur/bot-discord.md#lier-votre-compte-minecraft).
 
 {% hint style="info" %}
 Le serveur diffuse régulièrement des **annonces automatiques** dans le chat : vote, Discord, cosmétiques, boutique et aide. Si elles vous dérangent, `/annonces` les coupe **pour vous seul**, et la même bascule existe dans votre menu profil.
