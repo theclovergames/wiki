@@ -72,7 +72,7 @@ Neuf grades, présentés ici du plus accessible au plus élevé. Chacun hérite 
 | **Owner** | Gouvernance du projet et sécurité |
 
 {% hint style="info" %}
-**Builder, Designer et Writer sont des grades métier.** Ils reconnaissent une contribution — construction, graphisme, rédaction — et n'ajoutent aucun pouvoir de modération au-delà de celui d'un Helper.
+**Builder, Designer et Writer sont des grades métier.** Ils reconnaissent une contribution, en construction, en graphisme ou en rédaction, et n'ajoutent aucun pouvoir de modération au-delà de celui d'un Helper.
 {% endhint %}
 
 {% hint style="info" %}

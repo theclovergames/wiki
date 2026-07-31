@@ -98,7 +98,7 @@ Le nombre de homes dépend de votre grade : **1** par défaut, **3** avec VIP, *
 
 ## 🪙 Coinflip
 
-Le Coinflip utilise des **jetons**, jamais vos crédits.
+Le Coinflip se mise en **jetons**, jamais en crédits.
 
 | Commande | Effet |
 | --- | --- |
@@ -107,9 +107,12 @@ Le Coinflip utilise des **jetons**, jamais vos crédits.
 | `/coinflip create <mise> <face\|pile>` | Publie une annonce |
 | `/coinflip accept <id>` | Accepte une annonce |
 | `/coinflip cancel` | Annule votre annonce |
+| `/coinflip echange <jetons>` | Convertit vos jetons en crédits |
 | `/coinflip list` | Annonces ouvertes |
 | `/coinflip stats` | Portefeuille et statistiques |
 | `/coinflip verifier <id>` | Vérifie le tirage d'un duel passé |
+
+`/coinflip echange` convertit à raison de **100 jetons pour 1 crédit**, par multiples de 100, à partir de 500 jetons et dans la limite de 10 crédits par jour. L'inverse est impossible : un crédit ne redevient jamais un jeton.
 
 Tous les détails sont sur [Coinflip](../le-serveur/coinflip.md).
 

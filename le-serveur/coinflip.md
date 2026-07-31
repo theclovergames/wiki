@@ -7,24 +7,51 @@ description: "Le duel à pile ou face : jetons de jeu, mises et tirage vérifiab
 Le **Coinflip** est un duel à pile ou face entre deux joueurs. Vous publiez une annonce avec une mise, quelqu'un l'accepte, et le tirage désigne le gagnant.
 
 {% hint style="success" %}
-**Le Coinflip ne touche jamais vos crédits.** Il utilise une monnaie qui lui est propre, les **jetons**, sans valeur boutique et impossible à acheter. Votre solde de crédits, vos achats et votre progression ne peuvent pas être perdus au Coinflip.
+**Vos crédits ne sont jamais misés.** Le Coinflip utilise une monnaie qui lui est propre, les **jetons**, impossible à acheter. Votre solde de crédits, vos achats et votre progression ne peuvent pas être perdus au Coinflip.
 {% endhint %}
 
 ## 🎫 Les jetons
-
-Les jetons servent **uniquement** au Coinflip.
 
 | | |
 | --- | --- |
 | **Recharge quotidienne** | 25 jetons par jour |
 | **Plafond de recharge** | 100 jetons |
 | **S'achètent** | Non, jamais |
-| **Convertibles en crédits** | Non |
+| **Se convertissent en crédits** | Oui, à 100 jetons pour 1 crédit |
+| **S'obtiennent avec des crédits** | Non, jamais |
 
 `/coinflip claim` réclame votre recharge du jour.
 
 {% hint style="info" %}
 Le **plafond de 100** limite seulement la recharge : si votre portefeuille contient déjà 100 jetons ou plus, la recharge quotidienne n'est pas disponible. En revanche, vos **gains peuvent dépasser ce plafond** sans limite, c'est en gagnant que l'on constitue une réserve.
+{% endhint %}
+
+## 💱 Convertir vos jetons en crédits
+
+Vos jetons finissent par valoir quelque chose, mais **peu**, et **dans un seul sens**.
+
+```
+/coinflip echange <jetons>
+```
+
+| Règle | Valeur |
+| --- | --- |
+| **Taux** | 100 jetons = 1 crédit |
+| **Échange minimum** | 500 jetons, soit 5 crédits |
+| **Multiples** | Le montant doit être un multiple de 100 |
+| **Plafond quotidien** | 10 crédits par jour |
+| **Sens inverse** | Impossible : un crédit ne redevient jamais un jeton |
+
+Le taux prolonge l'échelle de la boutique : **100 jetons = 1 crédit = 0,01 €**. Autrement dit, une mise maximale de 100 jetons représente **un centime** de valeur boutique.
+
+{% hint style="warning" %}
+**On ne peut pas mettre d'argent dans le Coinflip.** Les jetons ne s'achètent pas, et les crédits ne se reconvertissent pas en jetons. Le seul moyen d'obtenir des jetons est la recharge quotidienne, puis de gagner ceux des autres.
+{% endhint %}
+
+Concrètement, il faut beaucoup de duels pour peser sur la boutique : un grade VIP à 499 crédits représente **49 900 jetons**. Le Coinflip est un jeu qui finit par rapporter un peu, pas un raccourci vers la boutique. Une heure de jeu vous rapporte déjà 1 crédit, sans risque.
+
+{% hint style="info" %}
+Le **plafond de 10 crédits par jour** existe parce qu'un très bon joueur récupère les jetons de tous les autres. Il borne ce qu'un seul compte peut convertir, même après une grosse série de victoires. Vos jetons ne sont pas perdus pour autant : ils restent dans votre portefeuille et vous les convertirez les jours suivants.
 {% endhint %}
 
 ## 🪙 Jouer un duel
@@ -82,12 +109,14 @@ Quelques précisions :
 | `/coinflip create <mise> <face\|pile>` | Publie une annonce |
 | `/coinflip accept <id>` | Accepte l'annonce d'un autre joueur |
 | `/coinflip cancel` | Annule votre annonce et récupère votre mise |
+| `/coinflip echange <jetons>` | Convertit vos jetons en crédits |
 | `/coinflip list` | Liste les annonces ouvertes |
-| `/coinflip stats` | Votre portefeuille et vos statistiques |
+| `/coinflip stats` | Votre portefeuille, vos statistiques et la valeur de vos jetons |
 | `/coinflip verifier <id>` | Vérifie le tirage d'un duel passé |
 
 ## 💡 Bon à savoir
 
-- Vos jetons **ne se transforment jamais** en crédits, en XP ou en objets. Le Coinflip est un jeu à part entière, pas une source de progression.
+- Vos jetons ne se transforment **ni en XP ni en objets** : la seule sortie est la conversion en crédits, au taux ci-dessus.
 - Une annonce oubliée vous est remboursée au bout de 30 minutes : vous ne perdez rien à en créer une puis à vous déconnecter.
 - Vous ne pouvez avoir qu'une annonce ouverte à la fois, pour éviter de bloquer plusieurs mises en même temps.
+- Si une conversion échoue, vos jetons vous sont rendus et le plafond du jour n'est pas entamé.
