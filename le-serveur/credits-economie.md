@@ -9,7 +9,7 @@ description: >-
 Clover Games utilise **une seule monnaie** : les **crédits**, symbole `⛃`.
 
 {% hint style="info" %}
-Le [Coinflip](coinflip.md) fait exception : il utilise des **jetons** qui lui sont propres. Vos crédits ne peuvent jamais être misés ni perdus au Coinflip.
+Le [Coinflip](coinflip.md) fait exception : il utilise des **jetons** qui lui sont propres. Vos crédits ne peuvent jamais être misés ni perdus au Coinflip. Les jetons gagnés se convertissent en crédits, à raison de **100 jetons pour 1 crédit** et jamais dans l'autre sens.
 {% endhint %}
 
 Votre solde est **commun à tout le réseau** : les crédits gagnés dans un mode sont utilisables dans tous les autres, et consultables sur le [site](https://clovergames.fr) comme en jeu.
@@ -38,6 +38,7 @@ Votre solde est **commun à tout le réseau** : les crédits gagnés dans un mod
 | **Vote party**                  | 10 crédits pour les joueurs en ligne, tous les 20 votes collectifs                                      |
 | **Classement mensuel de votes** | 500 crédits au 1er, 250 crédits aux 2e et 3e                                                            |
 | **Fin de saison Practice**      | 0 à 100 crédits selon votre palier. Voir [Practice](../jouer/practice.md#recompenses-de-saison)        |
+| **Coinflip**                    | 100 jetons pour 1 crédit, au maximum 10 crédits par jour. Voir [Coinflip](coinflip.md#convertir-vos-jetons-en-credits) |
 | **Événements**                  | Variable, annoncé à chaque événement                                                                    |
 
 {% hint style="warning" %}
