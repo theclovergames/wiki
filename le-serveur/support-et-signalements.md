@@ -28,7 +28,7 @@ L'alias `/signaler` fonctionne aussi. Le motif est **obligatoire**, et des sugge
 | --- | --- |
 | **Le joueur peut être hors ligne** | Le signalement part quand même |
 | **Un pseudo d'emprunt est résolu** | Quelqu'un sous `/nick` est identifié correctement |
-| **Un seul signalement ouvert** par joueur visé | Inutile de répéter, cela ne fait pas remonter le dossier |
+| **Un seul signalement ouvert** par joueur que vous visez | Inutile de répéter, cela ne fait pas remonter le dossier. Un autre joueur peut en revanche déposer le sien sur la même personne |
 | **Un délai s'applique** entre deux signalements | Il évite les vagues de signalements abusifs |
 | **Valable sur tout le réseau** | Déposé sur un mode, traité depuis n'importe quel autre |
 
@@ -46,6 +46,24 @@ Un ticket reste préférable quand vous avez une capture ou une vidéo à joindr
 
 {% hint style="info" %}
 Sans preuve, un signalement de triche ne peut généralement pas aboutir. Une courte vidéo vaut mieux qu'une longue description. ReplayMod est autorisé pour l'enregistrement.
+{% endhint %}
+
+### Ce qui arrive à votre signalement
+
+Un signalement suit toujours le même parcours : **déposé**, puis **pris en charge** par un membre de l'équipe, puis **clos**.
+
+À la clôture, il reçoit l'un de ces trois verdicts :
+
+| Verdict | Ce qu'il veut dire |
+| --- | --- |
+| **Valide** | Les faits sont établis. Une sanction suit, mais elle ne vous est pas communiquée |
+| **Douteux** | Rien ne permet de trancher, faute d'éléments suffisants |
+| **Abusif** | Le signalement était infondé, ou déposé pour nuire |
+
+Vous n'êtes pas averti du verdict, ni de la sanction éventuelle : celle d'un autre joueur ne vous regarde pas, la lui communiquer reviendrait à l'exposer.
+
+{% hint style="warning" %}
+Les verdicts **abusifs** sont comptabilisés, et l'équipe dispose des statistiques par auteur. Signaler à répétition des joueurs qui n'ont rien fait finit par se retourner contre vous : c'est un manquement au [Règlement](reglement.md) comme un autre.
 {% endhint %}
 
 À ne pas faire :
