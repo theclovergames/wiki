@@ -133,8 +133,27 @@ Tous les détails sont sur [Coinflip](../le-serveur/coinflip.md).
 | --- | --- |
 | `/pets` | Vos familiers |
 | `/gadget` | Vos cosmétiques et gadgets |
+| `/gadget unequip <famille\|all>` | Retire un cosmétique, ou tous |
+| `/gadget favorite <id>` | Ajoute un cosmétique à vos favoris |
+| `/gadget loadout <list\|save\|apply\|delete> <1-3> [nom]` | Vos trois panoplies enregistrées |
 | `/doublejump` | Active ou désactive votre double saut |
 | `/scoreboard` | Affiche ou masque le tableau latéral |
+
+### Renvoyer un familier
+
+Le menu `/pets` comporte une entrée **Renvoyer le familier**, qui range d'un clic celui qui vous suit. Elle reste visible mais grisée si aucun familier n'est invoqué.
+
+Les 21 familiers tiennent sur une seule page, et le comparateur au centre du menu bascule le tri entre **nom** et **rareté**, pour la durée de votre session.
+
+### Retirer un cosmétique
+
+Dans le menu des cosmétiques, l'entrée de retrait offre deux gestes : le **clic droit** déséquipe tout d'un coup, le **clic gauche** ouvre un écran qui montre ce que vous portez, famille par famille : auras, sillages, reliques, chapeaux, jouets et accessoires de dos.
+
+Chaque emblème y affiche le cosmétique réellement équipé : clic gauche pour l'enlever, clic droit pour parcourir le reste de la famille. Un raccourci **Panoplies** permet de tout remettre juste après.
+
+{% hint style="info" %}
+Les **signatures** n'apparaissent pas dans cet écran : elles se jouent, elles ne s'équipent pas, il n'y a donc rien à retirer.
+{% endhint %}
 
 Vos cosmétiques s'activent **dans tous les mondes du réseau**. Deux exceptions : le Practice les suspend pendant un match, pour ne pas fausser un duel.
 

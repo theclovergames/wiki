@@ -8,6 +8,22 @@ Le **Clover Bot** anime notre [Discord](https://dsc.clovergames.fr). Il gère vo
 
 Toutes ses fonctions passent par des **commandes slash** : tapez `/` dans n'importe quel salon pour les voir.
 
+## 👋 À votre arrivée, et à votre départ
+
+En rejoignant le Discord, vous recevez un **message privé de bienvenue**. Rien n'est publié dans un salon : personne d'autre n'est notifié de votre arrivée.
+
+Si vous quittez le serveur un jour, le bot vous envoie un **court sondage privé**, en un clic. Neuf raisons sont proposées, de « je n'ai plus le temps de jouer » à « la boutique ou le pay-to-win », suivies d'un champ libre facultatif.
+
+{% hint style="info" %}
+**Répondre est facultatif, et ce n'est pas une tentative de vous faire revenir.** Ces réponses servent à savoir ce qui ne va pas : un mode qui déçoit, un manque de joueurs aux bonnes heures, une modération mal vécue. C'est plus utile qu'un départ silencieux.
+{% endhint %}
+
+Les réponses sont lues par l'équipe. Un membre **banni ou expulsé ne reçoit pas ce sondage** : il n'a pas choisi de partir, et le compter fausserait la lecture.
+
+{% hint style="warning" %}
+Discord n'autorise un message privé que vers quelqu'un avec qui le bot partage un serveur. Au moment de votre départ, ce n'est plus le cas : le sondage ne vous parvient que si le message de bienvenue avait déjà ouvert la conversation. Si vos messages privés étaient fermés à votre arrivée, vous ne recevrez rien.
+{% endhint %}
+
 ## 📈 Niveaux et classement
 
 Vous gagnez de l'expérience en participant, de deux façons :
