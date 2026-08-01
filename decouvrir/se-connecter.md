@@ -12,8 +12,10 @@ description: Adresse du serveur, versions compatibles et première connexion.
 | Édition            | Minecraft **Java**      |
 | Versions acceptées | **1.21 et supérieures** |
 
-{% hint style="info" %}
-**Minecraft Bedrock (console, mobile, Windows)** : la compatibilité est prévue mais n'est pas encore certifiée. Nous annoncerons l'adresse et le port Bedrock sur le [Discord](https://dsc.clovergames.fr) dès que les tests seront validés. N'utilisez pas d'adresse trouvée ailleurs entre-temps.
+{% hint style="warning" %}
+**Minecraft Bedrock ne permet pas encore de nous rejoindre.** Console, mobile et l'application Windows ne peuvent pas se connecter aujourd'hui : l'édition **Java** est la seule acceptée.
+
+La compatibilité Bedrock est prévue, sans date annoncée. L'adresse et le port seront publiés sur le [Discord](https://dsc.clovergames.fr) le jour où elle ouvrira. Entre-temps, **aucune adresse Bedrock trouvée ailleurs ne vient de nous**.
 {% endhint %}
 
 ## ➕ Ajouter le serveur
