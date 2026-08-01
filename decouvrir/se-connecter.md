@@ -15,7 +15,7 @@ description: Adresse du serveur, versions compatibles et première connexion.
 {% hint style="warning" %}
 **Minecraft Bedrock ne permet pas encore de nous rejoindre.** Console, mobile et l'application Windows ne peuvent pas se connecter aujourd'hui : l'édition **Java** est la seule acceptée.
 
-La compatibilité Bedrock est prévue, sans date annoncée. L'adresse et le port seront publiés sur le [Discord](https://dsc.clovergames.fr) le jour où elle ouvrira. Entre-temps, **aucune adresse Bedrock trouvée ailleurs ne vient de nous**.
+La compatibilité Bedrock est prévue, sans date annoncée. L'adresse et le port seront publiés sur le [Discord](https://discord.gg/theclovergames) le jour où elle ouvrira. Entre-temps, **aucune adresse Bedrock trouvée ailleurs ne vient de nous**.
 {% endhint %}
 
 ## ➕ Ajouter le serveur
@@ -46,7 +46,7 @@ Les clients et mods **strictement esthétiques ou de confort** sont autorisés. 
 * Les macros automatisant le combat ou la récolte.
 * Toute modification permettant de voir à travers les blocs ou de repérer les joueurs.
 
-Le doute profite au serveur : si un mod vous semble limite, demandez avant de l'utiliser sur le [Discord](https://dsc.clovergames.fr).
+Le doute profite au serveur : si un mod vous semble limite, demandez avant de l'utiliser sur le [Discord](https://discord.gg/theclovergames).
 {% endtab %}
 {% endtabs %}
 
@@ -66,5 +66,5 @@ La liste complète est sur [Toutes les commandes](../reference/commandes.md).
 
 1. Vérifiez que votre version est bien **1.21+**.
 2. Vérifiez l'adresse : `play.clovergames.fr`, sans port ni espace.
-3. Consultez le canal d'annonces du [Discord](https://dsc.clovergames.fr) : une maintenance est peut-être en cours.
+3. Consultez le canal d'annonces du [Discord](https://discord.gg/theclovergames) : une maintenance est peut-être en cours.
 4. Si le problème persiste, ouvrez un ticket : [Support et signalements](../le-serveur/support-et-signalements.md).

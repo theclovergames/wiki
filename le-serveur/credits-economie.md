@@ -6,7 +6,7 @@ description: >-
 
 # Crédits : l'économie du réseau
 
-Clover Games utilise **une seule monnaie** : les **crédits**, symbole `⛃`.
+Clover Games utilise **une seule monnaie** : les **crédits**.
 
 {% hint style="info" %}
 Le [Coinflip](coinflip.md) fait exception : il utilise des **jetons** qui lui sont propres. Vos crédits ne peuvent jamais être misés ni perdus au Coinflip. Les jetons gagnés se convertissent en crédits, à raison de **100 jetons pour 1 crédit** et jamais dans l'autre sens.
@@ -17,7 +17,6 @@ Votre solde est **commun à tout le réseau** : les crédits gagnés dans un mod
 | Élément         | Valeur         |
 | --------------- | -------------- |
 | Nom             | Crédits        |
-| Symbole         | `⛃`            |
 | Solde de départ | 0 crédit       |
 | Portée          | Tout le réseau |
 

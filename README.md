@@ -31,7 +31,7 @@ description: Ce qu'est Clover Games, ce qui est jouable et par où commencer.
 | Site              | [clovergames.fr](https://clovergames.fr)           |
 | Boutique          | [clovergames.fr/shop](https://clovergames.fr/shop) |
 | Wiki              | [wiki.clovergames.fr](https://wiki.clovergames.fr) |
-| Discord           | [dsc.clovergames.fr](https://dsc.clovergames.fr)   |
+| Discord           | [discord.gg/theclovergames](https://discord.gg/theclovergames)   |
 
 {% hint style="info" %}
 Le Discord est notre canal principal : annonces, sessions de test, support et suivi du développement s'y passent. Si le lien court ne fonctionne pas, utilisez [discord.gg/BVVe2WqUvh](https://discord.gg/BVVe2WqUvh).

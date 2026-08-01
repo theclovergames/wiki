@@ -36,7 +36,7 @@ Vos votes s'accumulent définitivement et débloquent **21 paliers**, de 1 à 50
 
 | Sur l'ensemble des 500 votes | Total distribué |
 | --- | ---: |
-| Crédits | 1 465 ⛃ |
+| Crédits | 1 465 |
 | Points d'expérience | 2 750 XP |
 | Clefs de caisse *vote* | 10 |
 

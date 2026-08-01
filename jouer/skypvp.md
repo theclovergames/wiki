@@ -5,7 +5,7 @@ description: "Combat libre : kits, coffres partagés à piller, primes, contrats
 # SkyPvP : combat libre
 
 {% hint style="warning" %}
-**SkyPvP n'est pas encore ouvert.** Le mode est en cours de création, aux côtés de [BedWars](bedwars.md). Cette page décrit ce qui est en préparation ; certains réglages peuvent encore évoluer. L'ouverture sera annoncée sur le [Discord](https://dsc.clovergames.fr).
+**SkyPvP n'est pas encore ouvert.** Le mode est en cours de création, aux côtés de [BedWars](bedwars.md). Cette page décrit ce qui est en préparation ; certains réglages peuvent encore évoluer. L'ouverture sera annoncée sur le [Discord](https://discord.gg/theclovergames).
 {% endhint %}
 
 **SkyPvP** est un mode combat libre pour tous, persistant : pas de partie à rejoindre, pas de file d'attente. Vous équipez un kit, vous entrez en warzone, vous montez en niveau.

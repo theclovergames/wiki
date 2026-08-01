@@ -21,7 +21,7 @@ Le **[Coinflip](../le-serveur/coinflip.md)**, un duel à pile ou face entre joue
 
 ## 🔧 En développement
 
-Ces deux modes sont en cours de création. Leur page décrit ce qui est en préparation, et leur ouverture sera annoncée sur le [Discord](https://dsc.clovergames.fr).
+Ces deux modes sont en cours de création. Leur page décrit ce qui est en préparation, et leur ouverture sera annoncée sur le [Discord](https://discord.gg/theclovergames).
 
 | Mode | Ce qui se prépare |
 | --- | --- |
@@ -40,12 +40,12 @@ Ces modes sont au programme, sans date annoncée.
 | TheLab  |
 
 {% hint style="info" %}
-Nous préférons annoncer un mode comme _prévu_ plutôt que publier des règles pour un mode qui n'existe pas encore. Les dates sont communiquées sur le [Discord](https://dsc.clovergames.fr) quand elles sont tenables.
+Nous préférons annoncer un mode comme _prévu_ plutôt que publier des règles pour un mode qui n'existe pas encore. Les dates sont communiquées sur le [Discord](https://discord.gg/theclovergames) quand elles sont tenables.
 {% endhint %}
 
 ## 🎉 Événements
 
-Les événements sont des animations ponctuelles, annoncées à l'avance sur le [Discord](https://dsc.clovergames.fr).
+Les événements sont des animations ponctuelles, annoncées à l'avance sur le [Discord](https://discord.gg/theclovergames).
 
 | Événement        | État  |
 | ---------------- | ----- |
@@ -77,5 +77,5 @@ Ces systèmes vous suivent d'un mode à l'autre :
 
 ## 📣 Suivre l'avancement
 
-* **Discord**, [dsc.clovergames.fr](https://dsc.clovergames.fr) : annonces, nouveautés, événements.
+* **Discord**, [discord.gg/theclovergames](https://discord.gg/theclovergames) : annonces, nouveautés, événements.
 * **Site**, [clovergames.fr](https://clovergames.fr) : actualités, statut du serveur et classements.
