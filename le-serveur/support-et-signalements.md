@@ -4,7 +4,7 @@ description: Comment signaler un joueur ou un bug, contacter le staff et contest
 
 # Support et signalements
 
-Tout passe par le [Discord Clover Games](https://dsc.clovergames.fr). C'est le canal officiel de support : le staff n'assure pas d'assistance par message privé en jeu ni sur un autre réseau.
+Tout passe par le [Discord Clover Games](https://discord.gg/theclovergames). C'est le canal officiel de support : le staff n'assure pas d'assistance par message privé en jeu ni sur un autre réseau.
 
 Les tickets s'ouvrent d'un clic depuis le panneau de support, qui vous crée un salon privé avec l'équipe. Voir [Le bot Discord](bot-discord.md#tickets).
 
@@ -110,7 +110,7 @@ Chaque mouvement de crédits est enregistré dans un journal consultable par le 
 
 ## 📨 Contester une sanction
 
-1. Ouvrez un ticket sur le [Discord](https://dsc.clovergames.fr), jamais dans un canal public.
+1. Ouvrez un ticket sur le [Discord](https://discord.gg/theclovergames), jamais dans un canal public.
 2. Indiquez votre pseudo, la date de la sanction et le motif affiché.
 3. Expliquez factuellement pourquoi vous l'estimez injustifiée.
 4. Joignez tout élément utile.
@@ -126,7 +126,7 @@ Une sanction est réexaminée par un membre du staff **différent** de celui qui
 
 | Besoin | Où |
 | --- | --- |
-| Question générale | Canaux d'aide du [Discord](https://dsc.clovergames.fr) |
+| Question générale | Canaux d'aide du [Discord](https://discord.gg/theclovergames) |
 | Signalement, achat, sanction | Ticket sur le Discord |
 | Partenariat, création de contenu | Ticket sur le Discord, catégorie dédiée |
 

@@ -4,7 +4,7 @@ description: Niveaux, tickets, vocaux temporaires et synchronisation de votre co
 
 # Le bot Discord
 
-Le **Clover Bot** anime notre [Discord](https://dsc.clovergames.fr). Il gère votre progression, vos tickets, vos salons vocaux et le lien avec votre compte Minecraft.
+Le **Clover Bot** anime notre [Discord](https://discord.gg/theclovergames). Il gère votre progression, vos tickets, vos salons vocaux et le lien avec votre compte Minecraft.
 
 Toutes ses fonctions passent par des **commandes slash** : tapez `/` dans n'importe quel salon pour les voir.
 

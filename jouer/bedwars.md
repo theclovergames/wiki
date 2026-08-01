@@ -5,7 +5,7 @@ description: "Protégez votre lit, détruisez ceux des autres : quatre formats, 
 # BedWars : en cours de création
 
 {% hint style="warning" %}
-**BedWars n'est pas encore ouvert.** Le mode est en développement, aux côtés de [SkyPvP](skypvp.md). Cette page décrit ce qui est en préparation ; certains réglages peuvent encore évoluer. L'ouverture sera annoncée sur le [Discord](https://dsc.clovergames.fr).
+**BedWars n'est pas encore ouvert.** Le mode est en développement, aux côtés de [SkyPvP](skypvp.md). Cette page décrit ce qui est en préparation ; certains réglages peuvent encore évoluer. L'ouverture sera annoncée sur le [Discord](https://discord.gg/theclovergames).
 {% endhint %}
 
 Chaque équipe défend un lit. Tant qu'il est intact, ses joueurs réapparaissent. Une fois détruit, chaque mort est définitive. La dernière équipe debout gagne.

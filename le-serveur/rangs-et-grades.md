@@ -51,7 +51,7 @@ Ces grades ne s'achètent pas. Ils sont attribués par le staff.
 | **Ami** | Personnes de confiance proches du projet, à la discrétion de l'équipe |
 | **Partenaire** | Organisations et communautés partenaires de Clover Games |
 
-Vous êtes créateur de contenu, streamer ou représentez une communauté ? Ouvrez un ticket sur le [Discord](https://dsc.clovergames.fr) : les programmes créateurs et partenaires sont étudiés au cas par cas.
+Vous êtes créateur de contenu, streamer ou représentez une communauté ? Ouvrez un ticket sur le [Discord](https://discord.gg/theclovergames) : les programmes créateurs et partenaires sont étudiés au cas par cas.
 
 ## 🛡️ Grades du staff
 
@@ -76,7 +76,7 @@ Neuf grades, présentés ici du plus accessible au plus élevé. Chacun hérite 
 {% endhint %}
 
 {% hint style="info" %}
-Les recrutements sont annoncés sur le [Discord](https://dsc.clovergames.fr). Les candidatures spontanées par message privé ne sont pas examinées.
+Les recrutements sont annoncés sur le [Discord](https://discord.gg/theclovergames). Les candidatures spontanées par message privé ne sont pas examinées.
 {% endhint %}
 
 {% hint style="warning" %}

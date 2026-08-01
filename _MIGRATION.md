@@ -109,12 +109,12 @@ redirects:
 
 | Sujet | Wiki avant | Corrigé en | Source |
 | --- | --- | --- | --- |
-| Monnaie | Deux monnaies : « Pièces » et « Clovers » | **Une seule : Crédits `⛃`** | `modules/economy.md` |
+| Monnaie | Deux monnaies : « Pièces » et « Clovers » | **Une seule : Crédits** | `modules/economy.md` |
 | Prix des grades | Absent | 499 / 1 299 / 1 999 / 3 499 crédits | `modules/economy.md` |
 | Gratuité | « entièrement gratuit », « toutes les fonctionnalités accessibles gratuitement » | Formulation retirée ; boutique et grades payants documentés | `3. L'économie.md` |
 | Conversion en euros | Absent | Mention explicite : pas de conversion ni de remboursement en argent réel | `modules/economy.md` |
 | Bedrock | Crossplay annoncé, port 19132 | **Annoncé comme prévu, non certifié** | `1. Informations.md` |
-| Discord | `dsc.gg/clovergames` | `dsc.clovergames.fr` | `6. Communications.md` |
+| Discord | `dsc.gg/clovergames` | `discord.gg/theclovergames` | `6. Communications.md` |
 | Boutique / site | Jamais liés | Liés partout où c'est utile | `1. Informations.md` |
 | Sanctions | Deux barèmes concurrents | Un barème unique à 5 niveaux, valable réseau | consolidation |
 | Procédure de support | « contacter le support », sans indication | Page dédiée : signalement, bug, achat, contestation | manquait |
