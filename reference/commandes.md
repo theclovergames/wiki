@@ -17,7 +17,7 @@ Perdu ? `/help` en jeu donne l'aide contextuelle par catégories, et `/rules` ra
 | `/help` | `/aide` | Aide en jeu, par catégories |
 | `/rules` | | Rappel du règlement |
 | `/spawn` | | Retour au point de départ |
-| `/back` | `/retour` | Retour à votre position précédente, ou au lieu de votre mort |
+| `/back` | `/retour` | Retour à votre position précédente, ou au lieu de votre mort. Créatif et Survie uniquement |
 | `/afk` | | Vous signale comme absent |
 | `/discord` | | Lien vers le Discord |
 | `/site` | | Lien vers le site |
@@ -31,7 +31,9 @@ Perdu ? `/help` en jeu donne l'aide contextuelle par catégories, et `/rules` ra
 Le temps passé en **AFK ne rapporte aucun crédit** et suspend votre progression. Voir [Crédits](../le-serveur/credits-economie.md#gagner-des-credits).
 {% endhint %}
 
-`/back` retient vos morts et vos téléportations importantes. En revanche, cet historique **ne survit pas à un redémarrage du serveur**.
+`/back` n'est disponible que sur le **Créatif**, et le sera sur la **Survie** à son ouverture. Les modes de combat en sont exclus : revenir sur le lieu de sa mort y serait un avantage de jeu.
+
+La commande retient vos morts et vos téléportations importantes, mais cet historique **ne survit pas à un redémarrage du serveur**.
 
 `/report` fonctionne même si le joueur visé est **hors ligne**, et il est valable sur tout le réseau. Voir [Support et signalements](../le-serveur/support-et-signalements.md#depuis-le-jeu-avec-report).
 

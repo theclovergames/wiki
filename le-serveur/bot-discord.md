@@ -116,7 +116,3 @@ Par choix, le bot **ne lit pas le contenu de vos messages**. L'autorisation corr
 Concrètement, il n'existe **aucun journal des messages supprimés ou modifiés** sur ce serveur. Ce que vous écrivez n'est jamais archivé par le bot.
 
 Ce qui est journalisé, à des fins de modération : les arrivées et départs, les changements de pseudo et de rôles, les sanctions, les connexions vocales et les modifications de salons.
-
-## ⚙️ Commandes réservées à l'équipe
-
-`/config`, `/ticket setup`, `/giveaway start` et les sous-commandes d'administration sont réservées au staff. Elles n'apparaissent pas dans votre liste si vous n'y avez pas droit.
