@@ -132,7 +132,7 @@ L'événement en cours s'affiche dans une **barre en haut de l'écran**, dont la
 
 ## 🗓️ Saisons
 
-Une saison dure **30 jours**. La **saison 1 a commencé le 22 juillet 2026**.
+Une saison dure **30 jours**. La **saison 1 a commencé le 1er août 2026** et se termine le 30 août au soir.
 
 Chaque saison a son propre classement de kills. Vos statistiques all-time ne sont **jamais** remises à zéro par un changement de saison.
 

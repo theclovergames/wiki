@@ -9,7 +9,7 @@ description: Ce qui est jouable aujourd'hui sur Clover Games, et ce qui arrive.
 | Mode                        | Ce que c'est                                                                                                |
 | --------------------------- | ----------------------------------------------------------------------------------------------------------- |
 | **Lobby**                   | Votre point d'arrivée sur le réseau. C'est de là que vous rejoignez les modes.                              |
-| [**Practice**](practice.md) | Duels 1v1 et 2v2, 11 kits, classement ELO par saison, bots d'entraînement et replays.                       |
+| [**Practice**](practice.md) | Duels 1v1 et 2v2, un kit par style de combat, classement ELO par saison, bots d'entraînement et replays.                       |
 | [**PvPSoup**](pvpsoup.md)   | Combat libre pour tous, persistant. Soupes pour se soigner, 8 kits débloqués par votre niveau PvPSoup, primes et saisons. |
 | [**Créatif**](creatif.md)   | Construction libre sur parcelle de 150 × 150, en mode créatif, sans monstres ni PvP.                        |
 
