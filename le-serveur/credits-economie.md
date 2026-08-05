@@ -35,7 +35,7 @@ Votre solde est **commun à tout le réseau** : les crédits gagnés dans un mod
 | **Défis hebdomadaires**         | Jusqu'à 14 crédits par semaine                                                                          |
 | **Votes**                       | Jusqu'à 1 465 crédits sur les 500 premiers votes. Voir [Votes et récompenses](votes-et-recompenses.md) |
 | **Vote party**                  | 10 crédits pour les joueurs en ligne, tous les 20 votes collectifs                                      |
-| **Classement mensuel de votes** | 500 crédits au 1er, 250 crédits aux 2e et 3e                                                            |
+| **Classement mensuel de votes** | 100 crédits au 1er, 50 crédits aux 2e et 3e                                                            |
 | **Fin de saison Practice**      | 0 à 100 crédits selon votre palier. Voir [Practice](../jouer/practice.md#recompenses-de-saison)        |
 | **Coinflip**                    | 100 jetons pour 1 crédit, au maximum 10 crédits par jour. Voir [Coinflip](coinflip.md#convertir-vos-jetons-en-credits) |
 | **Événements**                  | Variable, annoncé à chaque événement                                                                    |
