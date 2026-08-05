@@ -85,6 +85,8 @@ Le nombre de homes dépend de votre grade : **1** par défaut, **3** avec VIP, *
 | `/party` | `/p` | Gère votre groupe, entre les serveurs |
 | `/visibility` | | Choisit qui vous voyez : tout le monde, vos amis et votre groupe, ou personne |
 
+Dans le lobby et aux abords du spawn, un **clic droit sur un joueur** ouvre son profil public, d'où vous pouvez aussi l'ajouter en ami ou l'inviter dans votre groupe. Voir [Votre profil public](../le-serveur/profil-public.md).
+
 ## 💰 Économie
 
 | Commande | Alias | Effet |

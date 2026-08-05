@@ -55,8 +55,12 @@ La liaison se fait par un **code généré en jeu**, sans mot de passe et sans p
 | `/lier` | En jeu | Affiche votre code, ou en génère un |
 | `/lier annuler` | En jeu | Invalide le code en cours |
 | `/lier code:XXXX` | Discord | Consomme le code et lie votre compte |
-| `/delier` | Discord | Retire la liaison |
+| `/delier` | Discord | Retire la liaison faite par code sur Discord |
 | `/sync moi` | Discord | Resynchronise votre pseudo et votre rôle **Synchronisé** |
+
+{% hint style="warning" %}
+**`/delier` ne retire que la liaison faite par code sur Discord.** Si votre compte Minecraft est associé depuis le **site**, ou si votre Discord est simplement rattaché à votre compte Clover Games, c'est le site qui détient la liaison : dissociez-la dans [vos paramètres](https://clovergames.fr/profile/settings). En jeu, `/lier` vous indique la bonne marche à suivre selon votre cas.
+{% endhint %}
 
 {% hint style="success" %}
 **Seul quelqu'un connecté en jeu sur ce compte peut voir le code.** C'est ce qui prouve que vous en êtes le propriétaire : personne ne peut lier votre compte Minecraft au sien.

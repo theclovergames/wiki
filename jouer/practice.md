@@ -4,7 +4,7 @@ description: Duels 1v1 et 2v2, kits, classement ELO, bots d'entraînement et rep
 
 # Practice : duels et classement
 
-**Practice** est le mode compétitif de Clover Games : des duels courts, onze kits différents, un classement ELO par saison, des bots pour s'entraîner et un système de replay pour revoir ses combats.
+**Practice** est le mode compétitif de Clover Games : des duels courts, un kit pour chaque style de combat, un classement ELO par saison, des bots pour s'entraîner et un système de replay pour revoir ses combats.
 
 Tapez `/practice` depuis le lobby pour commencer.
 
@@ -28,7 +28,7 @@ Un groupe de deux rejoint le 2v2 comme équipe déjà formée. Un groupe de quat
 
 ## 🎒 Les kits
 
-Onze kits sont disponibles :
+Les kits actuellement disponibles :
 
 | Kit | Particularité |
 | --- | --- |
@@ -46,6 +46,10 @@ Onze kits sont disponibles :
 
 {% hint style="info" %}
 `archer` et `axe` sont jouables en classé 1v1 et 2v2, mais **désactivés contre les bots** : l'IA ne reproduit pas encore fidèlement le duel d'arc ni la gestion du bouclier.
+{% endhint %}
+
+{% hint style="warning" %}
+**Ce tableau n'est pas figé.** De nouveaux kits sont ajoutés au fil des mises à jour, et chacun ouvre son propre classement. La liste qui fait foi est celle du menu `/practice` en jeu ; si un kit y apparaît sans figurer ici, signalez-le sur le Discord.
 {% endhint %}
 
 ### Détails à connaître
@@ -70,6 +74,8 @@ Vous ne pouvez pas perdre votre inventaire en jouant à Practice. Un instantané
 {% endhint %}
 
 Si aucune arène compatible n'est configurée pour le kit demandé, la file est refusée immédiatement avec un message clair.
+
+Pendant le match, le tableau latéral affiche le **nombre d'adversaires encore en vie sur le total engagé**, sous la forme `Adversaires : 2/3`. En 2v2 comme en 4v4, c'est l'information qui compte : combien il en reste à sortir.
 
 ## 🏆 Classement ELO
 

@@ -15,6 +15,7 @@
 * [Votes et récompenses](le-serveur/votes-et-recompenses.md)
 * [Le site web](le-serveur/le-site-web.md)
 * [Le bot Discord](le-serveur/bot-discord.md)
+* [Votre profil public](le-serveur/profil-public.md)
 
 ## Jouer
 
