@@ -23,8 +23,10 @@ Cliquer sur un site ferme votre inventaire et envoie l'adresse dans le chat : Mi
 | --- |
 | Liste-Serveurs.fr |
 | Serveur Minecraft Vote |
+| Serveur-Minecraft.com |
+| Top-Serveurs.net |
 
-Les deux sites sont accessibles depuis `/vote`. Chacun est comptabilisé séparément : voter sur les deux compte pour deux votes.
+Les quatre sites sont accessibles depuis `/vote`. Chacun est comptabilisé séparément : voter sur les quatre compte pour quatre votes.
 
 {% hint style="warning" %}
 Votez avec votre **pseudo exact**, majuscules comprises. Un pseudo mal orthographié envoie le vote dans le vide et la récompense est perdue.
@@ -61,9 +63,9 @@ Un classement des voteurs est tenu chaque mois et remis à zéro au changement d
 
 | Place | Récompense |
 | --- | ---: |
-| 1er | 500 crédits |
-| 2e | 250 crédits |
-| 3e | 250 crédits |
+| 1er | 100 crédits |
+| 2e | 50 crédits |
+| 3e | 50 crédits |
 
 Les récompenses sont versées dès le changement de mois, ou à votre prochaine connexion si vous êtes hors ligne.
 
