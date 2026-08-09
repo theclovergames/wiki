@@ -155,6 +155,8 @@ Un clic sur une statue ouvre le top 10, avec cinq onglets : **Kills**, **K/D**, 
 
 Un panneau `Top 10` est également affiché en jeu. Les classements se rafraîchissent toutes les cinq minutes.
 
+Deux tableaux muraux s'ajoutent au podium : **Top Morts** et **Top Temps de jeu**. Le premier se lit avec humour, le second récompense la simple présence.
+
 ## ⌨️ Commandes
 
 | Commande                         | Effet                                          |

@@ -111,6 +111,8 @@ Vous démarrez à 1 000 d'ELO, donc en **Argent**. Chaque kit et chaque format o
 
 Chaque victoire augmente votre série pour ce kit et ce format. Une défaite **ou une égalité** la remet à zéro. Votre série en cours et votre record sont conservés et visibles dans `/practice stats`.
 
+Le menu Statistiques affiche aussi votre **ratio victoires/défaites**, à deux décimales.
+
 {% hint style="warning" %}
 Les **duels privés, les matchs entre groupes et les combats contre bots ne sont jamais classés**. C'est volontaire : cela empêche de fabriquer de l'ELO entre amis.
 {% endhint %}

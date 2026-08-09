@@ -6,10 +6,6 @@ description: "Votre carte de visite en jeu : bio, réseaux et visibilité, consu
 
 Dans les zones sociales du réseau, un **clic droit sur un joueur** ouvre son profil public : sa bio, son grade, son niveau, son temps de jeu et les réseaux qu'il a choisi de partager.
 
-{% hint style="info" %}
-**Cette fonction arrive avec la prochaine mise à jour.** Elle est prête, mais pas encore active sur les serveurs. Son ouverture sera annoncée sur le [Discord](https://discord.gg/theclovergames).
-{% endhint %}
-
 ## 👀 Consulter un profil
 
 Approchez-vous d'un joueur et faites un **clic droit** sur lui. Quatre conditions doivent être réunies :

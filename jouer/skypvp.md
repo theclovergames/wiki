@@ -181,6 +181,8 @@ Trois statues forment le **podium** du top éliminations, avec la meilleure sér
 
 `/skypvp top [métrique] [page]` donne les mêmes classements en jeu.
 
+Deux tableaux muraux complètent le podium : **Top Morts** et **Top Temps de jeu**. Le premier se lit avec humour, le second récompense la simple présence.
+
 ## ⌨️ Commandes
 
 | Commande                        | Effet                                          |
