@@ -37,13 +37,11 @@ En attendant le départ, trois objets vous permettent de voter :
 - le **style de combat** : `1.8 classique` ou `1.21 moderne` ;
 - l'**état de la partie**.
 
+Le style voté ne s'applique qu'à votre partie : jouer en 1.8 ne demande ni serveur à part, ni version de client particulière.
+
 En cas d'égalité, le départage est aléatoire. La **fermeture du vote** est annoncée au son, en même temps que la carte et le style retenus.
 
 Une poudre rouge vous permet de **quitter la file** à tout moment.
-
-{% hint style="info" %}
-**Rien à installer ni à changer pour jouer en 1.8.** Pas de serveur à part, pas de version de client à rétrograder : le style voté ne s'applique qu'à votre partie. Deux parties de styles différents tournent en même temps sans se gêner.
-{% endhint %}
 
 ### Choisir sa couleur d'équipe
 
