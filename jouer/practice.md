@@ -2,7 +2,7 @@
 description: Duels 1v1 et 2v2, kits, classement ELO, bots d'entraînement et replays.
 ---
 
-# Practice : duels et classement
+# Practice
 
 **Practice** est le mode compétitif de Clover Games : des duels courts, un kit pour chaque style de combat, un classement ELO par saison, des bots pour s'entraîner et un système de replay pour revoir ses combats.
 

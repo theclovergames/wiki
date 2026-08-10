@@ -2,7 +2,7 @@
 description: "Combat libre et persistant : kits, safezone, primes, contrats et saisons."
 ---
 
-# PvPSoup : combat libre
+# PvPSoup
 
 **PvPSoup** est un mode combat libre pour tous, persistant : pas de partie à rejoindre, pas de file d'attente. Vous entrez dans la warzone, vous vous battez, vous montez en niveau et vous débloquez des kits.
 

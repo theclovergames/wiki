@@ -20,11 +20,11 @@
 ## Jouer
 
 * [Les modes de jeu](jouer/modes-de-jeu.md)
-* [Practice : duels et classement](jouer/practice.md)
-* [PvPSoup : combat libre](jouer/pvpsoup.md)
+* [Practice](jouer/practice.md)
+* [PvPSoup](jouer/pvpsoup.md)
 * [Créatif](jouer/creatif.md)
-* [SkyPvP : combat libre](jouer/skypvp.md)
-* [BedWars : en cours de création](jouer/bedwars.md)
+* [SkyPvP](jouer/skypvp.md)
+* [BedWars](jouer/bedwars.md)
 
 ## Référence
 
