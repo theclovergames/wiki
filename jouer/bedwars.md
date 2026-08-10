@@ -42,7 +42,7 @@ En cas d'égalité, le départage est aléatoire. La **fermeture du vote** est a
 Une poudre rouge vous permet de **quitter la file** à tout moment.
 
 {% hint style="info" %}
-Deux parties de styles différents peuvent tourner en même temps : le profil de combat est appliqué **par joueur**, pas par serveur.
+**Rien à installer ni à changer pour jouer en 1.8.** Pas de serveur à part, pas de version de client à rétrograder : le style voté ne s'applique qu'à votre partie. Deux parties de styles différents tournent en même temps sans se gêner.
 {% endhint %}
 
 ### Choisir sa couleur d'équipe
