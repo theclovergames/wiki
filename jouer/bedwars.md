@@ -12,16 +12,22 @@ Chaque équipe défend un lit. Tant qu'il est intact, ses joueurs réapparaissen
 
 ## 🎮 Quatre formats
 
-| Format | Équipes | Joueurs par équipe |
+Le format ne fixe qu'une chose : **le nombre de joueurs par équipe**. Le nombre d'équipes, lui, est celui des îles de la carte jouée.
+
+| Format | Joueurs par équipe | Sur une carte à 12 îles |
 | --- | :---: | :---: |
-| **Solo** | 8 | 1 |
-| **Duo** | 8 | 2 |
-| **Trio** | 4 | 3 |
-| **Quad** | 4 | 4 |
+| **Solo** | 1 | 12 équipes, 12 joueurs |
+| **Duo** | 2 | 12 équipes, 24 joueurs |
+| **Trio** | 3 | 12 équipes, 36 joueurs |
+| **Quad** | 4 | 12 équipes, 48 joueurs |
+
+{% hint style="info" %}
+Une carte plus petite accueille donc moins d'équipes, dans tous les formats. Les cartes sont regroupées par nombre d'îles avant le vote : vous ne voterez jamais entre deux cartes qui ne tiennent pas le même nombre d'équipes.
+{% endhint %}
 
 Le chef de groupe inscrit toute son équipe avec `/bw play <format>`. Un groupe trop nombreux pour la taille d'équipe est refusé.
 
-Le décompte démarre lorsque la file atteint **75 %** de sa capacité, et tombe à dix secondes une fois complète. Si des joueurs partent et que le seuil n'est plus atteint, il se suspend.
+Le décompte démarre lorsque la file atteint **75 %** de la capacité, soit 9 joueurs sur 12 en Solo, 18 sur 24 en Duo, 27 sur 36 en Trio et 36 sur 48 en Quad. Il tombe à dix secondes une fois la file complète, et se suspend si des départs repassent sous le seuil.
 
 ## 🗳️ Salle d'attente et votes
 
