@@ -17,6 +17,12 @@ Voter est **gratuit**, prend quelques secondes et aide le serveur à être visib
 Cliquer sur un site ferme votre inventaire et envoie l'adresse dans le chat : Minecraft ne permet pas à un menu d'ouvrir directement un site externe. Ce n'est pas un bug.
 {% endhint %}
 
+Vos votes sont aussi suivis sur le [Discord](bot-discord.md), qui annonce le classement du mois et attribue un rôle temporaire aux votants.
+
+{% hint style="success" %}
+**Un vote n'est jamais perdu parce que votre compte n'est pas encore lié.** Il est enregistré tel quel, et vous est crédité dès que vous liez votre compte Minecraft.
+{% endhint %}
+
 ### Sites de vote
 
 | Site |

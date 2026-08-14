@@ -76,7 +76,7 @@ Neuf grades, présentés ici du plus accessible au plus élevé. Chacun hérite 
 {% endhint %}
 
 {% hint style="info" %}
-Les recrutements sont annoncés sur le [Discord](https://discord.gg/theclovergames). Les candidatures spontanées par message privé ne sont pas examinées.
+Les recrutements sont annoncés sur le [Discord](https://discord.gg/theclovergames), où vous pouvez aussi postuler directement. Les candidatures spontanées par message privé ne sont pas examinées.
 {% endhint %}
 
 {% hint style="warning" %}

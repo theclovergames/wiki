@@ -1,5 +1,5 @@
 ---
-description: Niveaux, tickets, vocaux temporaires et synchronisation de votre compte Minecraft.
+description: Niveaux, parrainage, boutique, candidatures, tickets et liaison de votre compte Minecraft.
 ---
 
 # Le bot Discord
@@ -96,22 +96,96 @@ Les concours se lancent par l'équipe et se rejoignent d'un **clic sur un bouton
 
 Certains demandent un rôle ou un niveau minimum pour participer. Un concours en cours survit à un redémarrage du bot : votre participation n'est jamais perdue.
 
-## 🔗 Invitations
+## 📨 Parrainage
+
+Inviter quelqu'un rapporte **250 XP et 3 crédits**, plus des paliers à 5, 10, 25, 50 et 100 filleuls, jusqu'à 500 crédits.
 
 | Commande | Effet |
 | --- | --- |
-| `/invites voir` | Le nombre de membres que vous avez invités |
+| `/invites voir` | Vos invitations en attente, validées et refusées |
 | `/invites classement` | Le classement des inviteurs |
 
-{% hint style="info" %}
-Discord ne permet pas de savoir rétroactivement qui a invité qui **avant l'installation du bot**. Les totaux plus anciens sont donc repris en bloc comme historiques, et le détail nominatif ne commence qu'à partir de cette date.
+{% hint style="warning" %}
+**Rien n'est versé à l'arrivée.** Chaque invitation mûrit **sept jours**, puis n'est validée que si toutes ces conditions sont réunies :
+
+* votre filleul est **toujours sur le Discord** ;
+* son compte Discord avait **au moins 30 jours** quand il est arrivé ;
+* il a **lié son compte Minecraft**, ou atteint le niveau 3 ;
+* il n'était **jamais venu** auparavant ;
+* vous n'avez pas dépassé votre plafond de **30 invitations par mois**.
 {% endhint %}
+
+`/invites voir` indique le **motif exact** de chaque refus : inutile de deviner.
+
+{% hint style="info" %}
+Ces règles ne visent pas à compliquer les choses, mais à ne récompenser que les vraies arrivées. Sans elles, créer des comptes serait plus rentable que jouer, alors que 3 crédits valent déjà trois heures de jeu actif.
+{% endhint %}
+
+Discord ne permet pas de savoir rétroactivement qui a invité qui **avant l'installation du bot**. Les totaux plus anciens sont repris en bloc comme historiques, et le détail nominatif ne commence qu'à cette date.
+
+## 🪙 Boutique et crédits
+
+Vous pouvez consulter la boutique et acheter depuis Discord, avec les **crédits de votre compte de jeu**.
+
+| Commande | Effet |
+| --- | --- |
+| `/boutique voir` | Les articles payables en crédits |
+| `/boutique solde` | Votre solde de crédits |
+| `/boutique acheter <article>` | Achète l'article |
+
+{% hint style="info" %}
+Il n'existe **pas de monnaie Discord**. Le bot ne tient aucun compte : il interroge le site, qui débite, livre et trace l'achat exactement comme s'il avait été fait sur [clovergames.fr](https://clovergames.fr). Votre solde est le même partout. Voir [Crédits](credits-economie.md).
+{% endhint %}
+
+Un achat exige donc que votre compte Minecraft soit **lié**.
+
+## 💡 Suggestions
+
+`/suggestion` publie votre idée dans le salon dédié, où chacun vote 👍 ou 👎 d'un clic.
+
+L'équipe tranche ensuite, et **vous êtes prévenu en message privé** de la décision, quelle qu'elle soit.
+
+## 📝 Candidatures
+
+Le panneau de recrutement du Discord reprend les **six postes** ouverts sur le site. Chaque poste a son formulaire : deux questions communes, votre disponibilité et vos éventuelles sanctions, puis trois questions propres au poste.
+
+Votre pseudo Minecraft n'est pas demandé, il vient de votre liaison de compte.
+
+Une fois le formulaire envoyé, le bot ouvre **un salon privé** entre vous, l'équipe et lui. C'est là que l'échange se poursuit, jamais en message privé. À la décision, le verdict est publié dans le salon **et** doublé en message privé, puis le salon est archivé.
+
+{% hint style="info" %}
+Une candidature qui demande un **portfolio ou des captures** passe par la [page de recrutement du site](https://clovergames.fr/recruitment) : un formulaire Discord ne permet pas d'y joindre de fichiers.
+{% endhint %}
+
+## 🏅 Vos grades en jeu
+
+Votre rang sur le serveur Minecraft vous donne **automatiquement le rôle Discord correspondant**, dès que votre compte est lié.
+
+La lecture se fait dans un sens seulement : le bot n'attribue jamais de grade en jeu depuis Discord. Il ne touche pas non plus aux rôles que l'équipe vous a donnés à la main.
+
+## 🧑 Fiche joueur
+
+`/joueur` recoupe un compte Discord et un compte Minecraft : niveau, grades en jeu, dernier vote et nombre de sanctions.
+
+La réponse ne s'affiche **que pour vous**, jamais dans le salon.
 
 ## 📊 Statut des services
 
-`/statut` affiche l'état du **site web** et du **serveur Minecraft**, dans un message qui se met à jour tout seul. C'est le premier endroit à consulter si vous n'arrivez pas à vous connecter.
+`/statut` affiche l'état du **site web** et **un bloc par serveur du réseau** (Lobby, PvPSoup, SkyPvP, Practice, Créatif et BedWars), avec le nombre de joueurs et l'adresse de chacun. Le message se met à jour tout seul, et `/statut <serveur>` cible un serveur en particulier.
+
+C'est le premier endroit à consulter si vous n'arrivez pas à vous connecter : il distingue une panne générale d'un seul mode indisponible.
 
 Deux salons vocaux affichent en permanence le **nombre de joueurs Minecraft en ligne** et le **nombre de membres du Discord**. Ils se rafraîchissent toutes les 6 minutes, toujours à cause de la limite de renommage de Discord.
+
+## 🔨 Sanctions
+
+Les sanctions prononcées sur le Discord sont conservées dans un **historique unique**, levées comprises. Une exclusion temporaire se lève toute seule à l'échéance, même si le bot a redémarré entre-temps.
+
+{% hint style="warning" %}
+Quand votre compte Minecraft est lié, une sanction Discord peut être **répercutée sur les serveurs de jeu**. Le Discord et le serveur ne sont pas deux mondes séparés : le [Règlement](reglement.md) s'applique aux deux.
+{% endhint %}
+
+Pour contester, voir [Support et signalements](support-et-signalements.md#contester-une-sanction).
 
 ## 🔒 Ce que le bot ne fait pas
 

@@ -118,6 +118,10 @@ La page **Recrutement** liste les postes ouverts et les conditions pour postuler
 
 Les rôles et responsabilités de chaque grade du staff sont décrits sur [Rangs et grades](rangs-et-grades.md#grades-du-staff).
 
+Vous pouvez aussi postuler **depuis le Discord**, où le panneau de recrutement reprend les mêmes postes. Voir [Le bot Discord](bot-discord.md#candidatures).
+
 {% hint style="info" %}
-Les candidatures se font uniquement par la page de recrutement. Les demandes envoyées en message privé à un membre du staff ne sont pas examinées.
+Passez par le **site** dès que votre candidature demande un portfolio ou des captures : un formulaire Discord ne permet pas de joindre de fichiers.
+
+Dans les deux cas, une demande envoyée en message privé à un membre du staff n'est pas examinée.
 {% endhint %}

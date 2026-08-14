@@ -202,7 +202,7 @@ Tous les détails sont sur [Créatif](../jouer/creatif.md).
 ## ☁️ SkyPvP
 
 {% hint style="info" %}
-Mode **en cours de création**, pas encore accessible. Voir [SkyPvP](../jouer/skypvp.md).
+Mode **ouvert**, et encore en développement comme le reste du serveur. Voir [SkyPvP](../jouer/skypvp.md).
 {% endhint %}
 
 | Commande | Alias | Effet |
@@ -217,7 +217,7 @@ Mode **en cours de création**, pas encore accessible. Voir [SkyPvP](../jouer/sk
 ## 🛏️ BedWars
 
 {% hint style="info" %}
-Mode **en cours de création**, pas encore accessible. Voir [BedWars](../jouer/bedwars.md).
+Mode **ouvert**, et encore en développement comme le reste du serveur. Voir [BedWars](../jouer/bedwars.md).
 {% endhint %}
 
 | Commande | Effet |
