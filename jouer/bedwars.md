@@ -92,6 +92,27 @@ Votre tueur hérite de **la moitié de vos minerais** : fer, diamant et émeraud
 Tuer un joueur chargé de diamants vaut donc mieux que de le voir tomber dans le vide. Une mort **sans tueur**, dans le vide ou après une déconnexion, ne rend rien à personne.
 {% endhint %}
 
+### Le coffre d'équipe
+
+Posez un **coffre de l'End** sur votre îlot : il devient le coffre partagé de votre équipe, avec 27 cases.
+
+| Geste | Effet |
+| --- | --- |
+| **Clic droit** | Ouvre le coffre |
+| **Clic gauche** | Y range la pile que vous tenez, sans ouvrir la grille |
+
+Le clic gauche est le geste utile en pleine partie : déposer ses diamants en passant, sans s'arrêter devant une grille.
+
+{% hint style="warning" %}
+Le coffre d'une **équipe adverse refuse de s'ouvrir**, et son contenu ne survit pas à la fin de la partie. Ce n'est pas un rangement personnel : c'est une réserve commune, le temps d'un match.
+{% endhint %}
+
+### Les couleurs d'équipe
+
+Le **lit** de chaque équipe prend sa couleur au lancement, et la **laine achetée** est livrée à la couleur de la vôtre.
+
+Un pont ne dit donc plus seulement qu'il existe : il dit qui l'a tendu.
+
 ### Protection de la carte
 
 Seuls les **lits ennemis** et les **blocs posés pendant le match** peuvent être cassés. Les explosions, pistons, liquides et objets spéciaux ne modifient jamais la carte d'origine.
@@ -119,6 +140,8 @@ Le partage de proximité couvre **1,5 bloc** et exclut un allié inactif depuis 
 La boutique s'organise en deux marchands : le **Marchand d'objets** et les **améliorations**. La première page du marchand est votre **achat rapide personnalisé** ; les suivantes présentent le catalogue complet. Un achat refusé indique toujours sa raison exacte.
 
 Un même objet ne peut pas occuper deux emplacements de l'achat rapide.
+
+Ce que vous possédez déjà est **marqué d'une coche** plutôt que de vous afficher un prix : les épées, armures et paliers d'outils indiquent la raison exacte du refus, et l'icône se met à jour dès l'achat sans refermer la boutique.
 
 ### Trois objets à connaître
 
@@ -190,7 +213,9 @@ Chaque match est enregistré : blocs, lits, achats, améliorations, projectiles,
 
 `/bw replay` ouvre la bibliothèque. Vous disposez de la pause, des vitesses de 0,25× à 4×, de sauts de 10 et 30 secondes, d'une navigation par événement, du suivi d'un joueur et d'un filtre par équipe.
 
-Les joueurs y sont rejoués **avec leur skin d'origine**, et le tueur porte visiblement son coup à chaque élimination. L'ouverture d'un replay demande quelques secondes : une animation de chargement le signale dans la barre d'action.
+Les joueurs y sont rejoués **avec leur skin d'origine**, et chaque coup encaissé est rejoué, pas seulement l'élimination finale. La boussole du lecteur ouvre la liste des joueurs de la partie, pour en suivre un directement.
+
+L'ouverture d'un replay demande quelques secondes : une animation de chargement le signale dans la barre d'action.
 
 | Type | Conservation |
 | --- | --- |
