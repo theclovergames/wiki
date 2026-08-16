@@ -61,18 +61,18 @@ Neuf grades, présentés ici du plus accessible au plus élevé. Chacun hérite 
 
 | Grade | Mission |
 | --- | --- |
-| **Helper** | Accueil, aide aux joueurs et avertissements |
+| **Guide** | Accueil, aide aux joueurs et avertissements |
 | **Builder** | Cartes, arènes et constructions |
 | **Designer** | Identité visuelle et supports graphiques |
-| **Writer** | Rédaction des contenus et de la documentation |
-| **Mod** | Sanctions courantes : mute, expulsion, bannissement temporaire |
-| **Dev** | Diagnostic technique et sécurité |
-| **Manager** | Modération lourde, sanctions permanentes et portée réseau |
+| **Rédacteur** | Rédaction des contenus et de la documentation |
+| **Modérateur** | Sanctions courantes : mute, expulsion, bannissement temporaire |
+| **Développeur** | Diagnostic technique et sécurité |
+| **Responsable** | Modération lourde, sanctions permanentes et portée réseau |
 | **Admin** | Administration des modules du réseau |
-| **Owner** | Gouvernance du projet et sécurité |
+| **Gérant** | Gouvernance du projet et sécurité |
 
 {% hint style="info" %}
-**Builder, Designer et Writer sont des grades métier.** Ils reconnaissent une contribution, en construction, en graphisme ou en rédaction, et n'ajoutent aucun pouvoir de modération au-delà de celui d'un Helper.
+**Builder, Designer et Rédacteur sont des grades métier.** Ils reconnaissent une contribution, en construction, en graphisme ou en rédaction, et n'ajoutent aucun pouvoir de modération au-delà de celui d'un Guide.
 {% endhint %}
 
 {% hint style="info" %}
