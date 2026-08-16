@@ -170,7 +170,7 @@ Ce que vous possédez déjà est **marqué d'une coche** plutôt que de vous aff
 | **Seau d'eau** | L'eau se pose comme un bloc de partie : cassable, soufflée par une explosion, et vous pouvez la reprendre au seau |
 
 {% hint style="info" %}
-Vous ne pouvez pas **puiser dans l'eau de la carte**, seulement poser puis reprendre la vôtre. Même règle pour la lave et la neige poudreuse.
+Vous ne pouvez pas **puiser dans l'eau de la carte**, seulement poser puis reprendre la vôtre.
 {% endhint %}
 
 Les améliorations d'équipe **Protection** et **Tranchant** suivent votre équipement neuf : une épée achetée après coup en profite, et l'épée en bois rendue à la mort la conserve.
