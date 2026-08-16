@@ -177,13 +177,12 @@ Les améliorations d'équipe **Protection** et **Tranchant** suivent votre équi
 
 ### Les potions
 
-Quatre potions s'achètent en émeraudes. Leur couleur suffit à les reconnaître dans la barre d'objets, sans en lire le nom.
+Trois potions s'achètent en émeraudes. Leur couleur suffit à les reconnaître dans la barre d'objets, sans en lire le nom.
 
 | Potion | Prix | Effet |
 | --- | :---: | --- |
 | **Vitesse** | 1 émeraude | Vitesse II pendant 45 secondes |
 | **Saut** | 1 émeraude | Saut V pendant 45 secondes, et **plus de dégâts de chute** |
-| **Résistance au feu** | 1 émeraude | Immunité au feu et à la lave pendant 45 secondes |
 | **Invisibilité** | 2 émeraudes | 30 secondes |
 
 {% hint style="warning" %}
