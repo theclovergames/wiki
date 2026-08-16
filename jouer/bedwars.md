@@ -166,7 +166,7 @@ Ce que vous possédez déjà est **marqué d'une coche** plutôt que de vous aff
 | Objet | Comportement |
 | --- | --- |
 | **Épée** | Acheter une épée **remplace** celle que vous portez. Les lames de palier inférieur sont retirées, et acheter plus faible que ce que vous tenez est refusé avant tout prélèvement |
-| **TNT** | S'**amorce toute seule à la pose**, sans silex. Environ trois secondes de mèche |
+| **TNT** | S'**amorce toute seule à la pose**, sans briquet. Environ trois secondes de mèche |
 | **Seau d'eau** | L'eau se pose comme un bloc de partie : cassable, soufflée par une explosion, et vous pouvez la reprendre au seau |
 
 {% hint style="info" %}
