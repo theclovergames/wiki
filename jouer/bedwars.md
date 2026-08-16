@@ -84,6 +84,24 @@ Mourir affiche un **« TU ES MORT ! »** plein écran, avec le décompte des sec
 La protection payée par votre équipe est **reportée sur les pièces dégradées**. Une mort vous coûte un palier d'armure, jamais les améliorations achetées par vos coéquipiers.
 {% endhint %}
 
+### Récupération : annuler ces pertes
+
+L'amélioration d'équipe **Récupération** (4, puis 8, puis 12 diamants) retire une perte par palier :
+
+| Palier | Ce que l'équipe cesse de perdre |
+| :---: | --- |
+| **I** | L'armure ne recule plus |
+| **II** | Les outils non plus |
+| **III** | L'épée survit, et aucune épée en bois n'est rendue par-dessus |
+
+{% hint style="warning" %}
+**Les ressources et les consommables restent perdus à tous les paliers** : pommes d'or, TNT, perles, flèches, seau d'eau. Le tueur en hérite comme avant.
+
+C'est ce qui ramène une équipe retranchée aux générateurs. Une Récupération complète protège l'équipement, jamais les munitions.
+{% endhint %}
+
+Le palier est lu **au moment de la mort**, contrairement à Protection et Tranchant qui se posent sur l'équipement à l'achat. Améliorer pendant qu'un allié attend sa réapparition ne rattrape donc pas la mort en cours.
+
 ### Ce que rapporte une élimination
 
 Votre tueur hérite de **la moitié de vos minerais** : fer, diamant et émeraude. Si son inventaire est plein, le surplus tombe à ses pieds.
@@ -156,6 +174,23 @@ Vous ne pouvez pas **puiser dans l'eau de la carte**, seulement poser puis repre
 {% endhint %}
 
 Les améliorations d'équipe **Protection** et **Tranchant** suivent votre équipement neuf : une épée achetée après coup en profite, et l'épée en bois rendue à la mort la conserve.
+
+### Les potions
+
+Quatre potions s'achètent en émeraudes. Leur couleur suffit à les reconnaître dans la barre d'objets, sans en lire le nom.
+
+| Potion | Prix | Effet |
+| --- | :---: | --- |
+| **Vitesse** | 1 émeraude | Vitesse II pendant 45 secondes |
+| **Saut** | 1 émeraude | Saut V pendant 45 secondes, et **plus de dégâts de chute** |
+| **Résistance au feu** | 1 émeraude | Immunité au feu et à la lave pendant 45 secondes |
+| **Invisibilité** | 2 émeraudes | 30 secondes |
+
+{% hint style="warning" %}
+**L'invisibilité ne cache pas votre armure.** Une silhouette d'armure qui traverse un pont reste parfaitement lisible : la potion sert à passer inaperçu de loin ou à rompre un combat, pas à devenir introuvable.
+{% endhint %}
+
+La potion de saut annule les dégâts de chute pendant sa durée : c'est ce qui en fait autant un outil de déplacement qu'une échappatoire.
 
 ### Les objets exclusifs
 
