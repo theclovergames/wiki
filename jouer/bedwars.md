@@ -10,6 +10,10 @@ description: "Protégez votre lit, détruisez ceux des autres : quatre formats, 
 
 Chaque équipe défend un lit. Tant qu'il est intact, ses joueurs réapparaissent. Une fois détruit, chaque mort est définitive. La dernière équipe debout gagne.
 
+{% hint style="info" %}
+**Pour y accéder :** depuis le lobby, **clic droit sur la boussole** de votre barre, puis BedWars dans le sélecteur de serveurs. Les commandes `/bedwars` ci-dessous ne fonctionnent qu'une fois sur le mode.
+{% endhint %}
+
 ## 🎮 Quatre formats
 
 | Format | Équipes | Joueurs par équipe |
@@ -34,7 +38,7 @@ Le décompte démarre lorsque la file atteint **75 %** de sa capacité, et tombe
 En attendant le départ, trois objets vous permettent de voter :
 
 - la **carte** sur laquelle vous jouerez ;
-- le **style de combat** : `1.8 classique` ou `1.21 moderne` ;
+- le **style de combat** : `1.8 classique` ou `26.2 moderne` ;
 - l'**état de la partie**.
 
 Le style voté ne s'applique qu'à votre partie : jouer en 1.8 ne demande ni serveur à part, ni version de client particulière.

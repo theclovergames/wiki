@@ -8,6 +8,10 @@ description: "Combat libre et persistant : kits, safezone, primes, contrats et s
 
 Le combat utilise le profil **1.8** : enchaînements, timing de frappe et gestion des soupes.
 
+{% hint style="info" %}
+**Pour y accéder :** depuis le lobby, **clic droit sur la boussole** de votre barre, puis PvPSoup dans le sélecteur de serveurs. Les commandes `/pvpsoup` ci-dessous ne fonctionnent qu'une fois sur le mode.
+{% endhint %}
+
 ## 🗺️ Les deux zones
 
 | Zone         | Ce qui s'y passe                                             |

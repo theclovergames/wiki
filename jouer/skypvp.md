@@ -10,6 +10,10 @@ description: "Combat libre : kits, coffres partagés à piller, primes, contrats
 
 **SkyPvP** est un mode combat libre pour tous, persistant : pas de partie à rejoindre, pas de file d'attente. Vous équipez un kit, vous entrez en warzone, vous montez en niveau.
 
+{% hint style="info" %}
+**Pour y accéder :** depuis le lobby, **clic droit sur la boussole** de votre barre, puis SkyPvP dans le sélecteur de serveurs. Les commandes `/skypvp` ci-dessous ne fonctionnent qu'une fois sur le mode.
+{% endhint %}
+
 Le combat suit les règles **1.8** : pas de soupe, aucun effet passif de kit, et vos armes et armures **s'usent normalement**.
 
 {% hint style="info" %}
@@ -122,6 +126,22 @@ Impossible de déposer quoi que ce soit dans un coffre, de le casser, de le fair
 Contrairement à PvPSoup, les objets ont leur **durabilité vanilla**. Ils peuvent être jetés et ramassés, et **tout est lâché à votre mort**, avec les 5 minutes habituelles avant disparition.
 
 Dans le monde géré, sont bloqués : la pose et la destruction de blocs, le craft, la réparation et les conteneurs ordinaires.
+
+### Entretenir et améliorer son équipement
+
+La safezone met à votre disposition des **enclumes** et des **tables d'enchantement**.
+
+Puisque votre inventaire n'est jamais réinitialisé et que la durabilité compte, c'est là que se joue l'entretien de votre stuff : vous réparez ce qui est entamé et vous ajoutez des enchantements avec l'expérience que vous avez accumulée en warzone.
+
+{% hint style="success" %}
+**C'est la vraie décision du mode.** Continuer avec une armure entamée pour allonger votre série, ou rentrer réparer et laisser le terrain aux autres. Un kit de départ entretenu sur plusieurs sessions n'a plus grand-chose à voir avec celui qu'on vous a donné.
+{% endhint %}
+
+{% hint style="warning" %}
+Ces postes se trouvent **uniquement en safezone**, et vous ne pouvez poser aucun bloc en warzone : une armure qui lâche en plein combat ne se répare donc pas sur place, il faut rentrer.
+
+Bonne nouvelle en revanche : les enclumes de la safezone **ne s'usent jamais** et ne peuvent pas casser.
+{% endhint %}
 
 ### Chute et vide
 

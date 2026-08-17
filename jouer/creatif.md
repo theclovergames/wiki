@@ -8,6 +8,10 @@ Pas de combat, pas de classement, pas de chronomètre. Une parcelle, des blocs, 
 
 Le Créatif est le seul mode de Clover Games qui ne demande aucune compétence en PvP. Vous êtes en **mode créatif**, avec tous les blocs à disposition.
 
+{% hint style="info" %}
+**Pour y accéder :** depuis le lobby, **clic droit sur la boussole** de votre barre, puis Créatif dans le sélecteur de serveurs. Les commandes `/plot` ci-dessous ne fonctionnent qu'une fois sur le mode.
+{% endhint %}
+
 ## 🧱 Votre parcelle
 
 | | |
