@@ -59,12 +59,31 @@ Si vous possédez un grade, vous recevez une allocation mensuelle automatique : 
 | Grades VIP, Prestige, Légende, Divin | [Boutique](https://clovergames.fr/shop) |
 | Cosmétiques et effets visuels        | Boutique et menus en jeu                |
 | Familiers et gadgets                 | Menus en jeu                            |
+| Boosters d'XP                        | [Boutique](https://clovergames.fr/shop) |
 | Clefs de caisses                     | Récompenses de votes et de niveaux      |
 | Services de confort                  | Boutique                                |
 
 {% hint style="success" %}
 **Rien de ce qui s'achète ne donne d'avantage en combat.** C'est une règle de conception : les crédits achètent de l'apparence et du confort, jamais de la puissance.
 {% endhint %}
+
+### Boosters d'XP
+
+Un **booster** multiplie l'XP que vous gagnez, sur **tous les modes du réseau**, pendant une durée limitée.
+
+| Booster              | Multiplicateur | Durée      | Prix        |
+| -------------------- | -------------- | ---------- | ----------- |
+| Booster ×1,5 — 1 h   | ×1,5           | 1 heure    | 350 crédits |
+| Booster ×2 — 30 min  | ×2             | 30 minutes | 400 crédits |
+| Booster ×2 — 1 h     | ×2             | 1 heure    | 700 crédits |
+
+Un booster acheté **rejoint votre stock** sans démarrer : c'est vous qui choisissez le moment. Pour l'ouvrir, `/leveling booster`, l'entrée **Boosters d'XP** du menu boutique, ou l'objet du même nom dans la barre BedWars. Un clic sur un booster le lance.
+
+{% hint style="info" %}
+**Un seul booster tourne à la fois**, les autres attendent leur tour dans votre stock. La durée s'écoule en **temps réel** : elle continue si vous changez de serveur, et même si vous vous déconnectez. Vous êtes prévenu à l'expiration.
+{% endhint %}
+
+Le multiplicateur s'applique à votre **niveau réseau** comme aux **progressions propres à chaque mode** — celles qui débloquent les kits PvPSoup et SkyPvP. Un booster vous fait donc avancer plus vite, mais ne débloque rien d'inaccessible et ne rend aucun kit plus fort qu'un autre : la règle ci-dessus tient.
 
 ## 🔎 Consulter et transférer
 

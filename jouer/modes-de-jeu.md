@@ -64,7 +64,8 @@ Ces systèmes vous suivent d'un mode à l'autre :
 | Système                  | Ce que ça fait                                                                               |
 | ------------------------ | -------------------------------------------------------------------------------------------- |
 | **Crédits**              | Monnaie unique du réseau : [en savoir plus](../le-serveur/credits-economie.md)               |
-| **Niveaux**              | XP et récompenses de progression. Débloquent les kits PvPSoup.                               |
+| **Niveaux**              | XP et récompenses de progression. Débloquent les kits PvPSoup et SkyPvP.                     |
+| **Boosters d'XP**        | Multiplient l'XP gagnée partout, pendant une durée limitée : [en savoir plus](../le-serveur/credits-economie.md#boosters-dxp) |
 | **Défis**                | Objectifs quotidiens et hebdomadaires                                                        |
 | **Temps de jeu**         | Paliers et récompenses d'activité                                                            |
 | **Votes**                | Paliers, vote party et classements : [en savoir plus](../le-serveur/votes-et-recompenses.md) |

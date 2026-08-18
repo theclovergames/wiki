@@ -125,6 +125,7 @@ Tous les détails sont sur [Coinflip](../le-serveur/coinflip.md).
 | Commande | Alias | Effet |
 | --- | --- | --- |
 | `/leveling` | | Vos niveaux, votre XP et vos récompenses |
+| `/leveling booster` | | Votre stock de boosters d'XP, et leur activation |
 | `/challenges` | | Défis quotidiens et hebdomadaires |
 | `/playtime` | `/tempsdejeu` | Votre temps de jeu et vos paliers |
 | `/vote` | | Sites de vote, paliers et classement |

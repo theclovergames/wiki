@@ -128,6 +128,22 @@ Les **duels privés, les matchs entre groupes et les combats contre bots ne sont
 
 La récompense n'est versée qu'une fois, même en cas de coupure du serveur au mauvais moment.
 
+## 📈 L'XP des duels
+
+Chaque duel terminé rapporte de l'XP, versée à la fois sur la **progression Practice** et sur votre **niveau réseau**. Les duels privés et les matchs entre groupes en rapportent aussi, alors qu'ils ne comptent pas pour l'ELO.
+
+| Situation           |  XP |
+| ------------------- | --: |
+| Duel joué           |  20 |
+| Duel gagné          |  40 |
+| Duel contre un bot  |   0 |
+
+{% hint style="info" %}
+Le barème est celui de BedWars : 20 points de participation, 20 de plus pour la victoire. Un duel durant bien moins longtemps qu'une partie BedWars, l'XP à la minute y est nettement plus élevée.
+{% endhint %}
+
+Les **bots ne rapportent rien**, volontairement : ils se relancent à volonté et se gagnent sans adversaire réel.
+
 ## 🤖 Bots d'entraînement
 
 `/botfight <kit> [easy|normal|hard|expert]`

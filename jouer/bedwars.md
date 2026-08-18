@@ -45,6 +45,10 @@ Le style voté ne s'applique qu'à votre partie : jouer en 1.8 ne demande ni ser
 
 En cas d'égalité, le départage est aléatoire. La **fermeture du vote** est annoncée au son, en même temps que la carte et le style retenus.
 
+{% hint style="info" %}
+**Le vote de carte est pondéré.** Un joueur possédant un grade y pèse **deux voix**, un joueur sans grade une seule ; le compteur affiché continue de compter des personnes, pas des voix. Changer d'avis déplace bien vos deux voix. Le vote du **style de combat**, lui, reste à une voix pour tout le monde.
+{% endhint %}
+
 Une poudre rouge vous permet de **quitter la file** à tout moment.
 
 ### Choisir sa couleur d'équipe
