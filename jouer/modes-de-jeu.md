@@ -36,6 +36,8 @@ Ces modes sont au programme, sans date annoncée.
 | Murder  |
 | TheLab  |
 
+La **Survie** est le prochain grand chantier, et elle deviendra le mode central du réseau. Sa promesse tient en une phrase : _tout se régénère, sauf ce que vous avez bâti._ Le monde ressource, le nether et l'end repoussent en boucle ; le monde principal, lui, ne sera **jamais réinitialisé** — pas de saison, pas de remise à zéro, pas de nouvelle carte. Vous y trouverez des métiers, des donjons par paliers, des claims et une économie entre joueurs.
+
 {% hint style="info" %}
 Nous préférons annoncer un mode comme _prévu_ plutôt que publier des règles pour un mode qui n'existe pas encore. Les dates sont communiquées sur le [Discord](https://discord.gg/theclovergames) quand elles sont tenables.
 {% endhint %}
@@ -48,7 +50,7 @@ Les événements sont des animations ponctuelles, annoncées à l'avance sur le 
 | ---------------- | ----- |
 | Mineral Contest  | Prévu |
 | PvPSwap          | Prévu |
-| Chasse au coffre | Prévu |
+| Chasse au trésor | Prévu |
 | Fallen Kingdom   | Prévu |
 
 Chacun recevra sa page dès que son déroulé et ses récompenses seront arrêtés.
