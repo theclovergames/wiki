@@ -98,7 +98,7 @@ Certains demandent un rôle ou un niveau minimum pour participer. Un concours en
 
 ## 📨 Parrainage
 
-Inviter quelqu'un rapporte **250 XP et 3 crédits**, plus des paliers à 5, 10, 25, 50 et 100 filleuls, jusqu'à 500 crédits.
+Inviter quelqu'un rapporte **250 XP et 3 pièces**, plus des paliers à 5, 10, 25, 50 et 100 filleuls, jusqu'à 500 pièces.
 
 | Commande | Effet |
 | --- | --- |
@@ -118,23 +118,23 @@ Inviter quelqu'un rapporte **250 XP et 3 crédits**, plus des paliers à 5, 10, 
 `/invites voir` indique le **motif exact** de chaque refus : inutile de deviner.
 
 {% hint style="info" %}
-Ces règles ne visent pas à compliquer les choses, mais à ne récompenser que les vraies arrivées. Sans elles, créer des comptes serait plus rentable que jouer, alors que 3 crédits valent déjà trois heures de jeu actif.
+Ces règles ne visent pas à compliquer les choses, mais à ne récompenser que les vraies arrivées. Sans elles, créer des comptes serait plus rentable que jouer, alors que 3 pièces valent déjà trois heures de jeu actif.
 {% endhint %}
 
 Discord ne permet pas de savoir rétroactivement qui a invité qui **avant l'installation du bot**. Les totaux plus anciens sont repris en bloc comme historiques, et le détail nominatif ne commence qu'à cette date.
 
-## 🪙 Boutique et crédits
+## 🪙 Boutique et pièces
 
-Vous pouvez consulter la boutique et acheter depuis Discord, avec les **crédits de votre compte de jeu**.
+Vous pouvez consulter la boutique et acheter depuis Discord, avec les **pièces de votre compte de jeu**.
 
 | Commande | Effet |
 | --- | --- |
-| `/boutique voir` | Les articles payables en crédits |
-| `/boutique solde` | Votre solde de crédits |
+| `/boutique voir` | Les articles payables en pièces |
+| `/boutique solde` | Votre solde de pièces |
 | `/boutique acheter <article>` | Achète l'article |
 
 {% hint style="info" %}
-Il n'existe **pas de monnaie Discord**. Le bot ne tient aucun compte : il interroge le site, qui débite, livre et trace l'achat exactement comme s'il avait été fait sur [clovergames.fr](https://clovergames.fr). Votre solde est le même partout. Voir [Crédits](credits-economie.md).
+Il n'existe **pas de monnaie Discord**. Le bot ne tient aucun compte : il interroge le site, qui débite, livre et trace l'achat exactement comme s'il avait été fait sur [clovergames.fr](https://clovergames.fr). Votre solde est le même partout. Voir [Pièces](credits-economie.md).
 {% endhint %}
 
 Un achat exige donc que votre compte Minecraft soit **lié**.

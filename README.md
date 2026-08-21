@@ -17,7 +17,7 @@ description: Ce qu'est Clover Games, ce qui est jouable et par où commencer.
 | Rejoindre le serveur         | [Se connecter au serveur](decouvrir/se-connecter.md)             |
 | Connaître les règles         | [Règlement](le-serveur/reglement.md)                             |
 | Savoir ce qui est jouable    | [Les modes de jeu](jouer/modes-de-jeu.md)                        |
-| Comprendre les crédits       | [Crédits : l'économie du réseau](le-serveur/credits-economie.md) |
+| Comprendre les pièces        | [Pièces : l'économie du réseau](le-serveur/credits-economie.md) |
 | Trouver une commande         | [Toutes les commandes](reference/commandes.md)                   |
 | Gérer votre compte, vos stats | [Le site web](le-serveur/le-site-web.md)                        |
 | Comprendre le bot Discord    | [Le bot Discord](le-serveur/bot-discord.md)                      |
@@ -40,7 +40,7 @@ Le Discord est notre canal principal : annonces, sessions de test, support et su
 ## ✨ Ce que vous trouverez sur Clover Games
 
 * **Des mini-jeux compétitifs**, en solo ou en équipe, avec classement et progression.
-* **Une économie unique au réseau** : vos crédits vous suivent d'un mode à l'autre et sont consultables sur le site.
+* **Une économie unique au réseau** : vos pièces vous suivent d'un mode à l'autre et sont consultables sur le site.
 * **Une progression qui récompense le jeu** : niveaux, défis quotidiens, temps de jeu et votes.
 * **Des cosmétiques et familiers** qui n'apportent aucun avantage en combat.
 

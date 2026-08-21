@@ -16,7 +16,7 @@ description: Ce qui est jouable aujourd'hui sur Clover Games, et ce qui arrive.
 | [**Créatif**](creatif.md)   | Construction libre sur parcelle de 150 × 150, en mode créatif, sans monstres ni PvP.                        |
 
 {% hint style="success" %}
-Tout est accessible dès votre première connexion. Aucun mode ne demande d'achat pour être joué. Voir [Crédits](../le-serveur/credits-economie.md).
+Tout est accessible dès votre première connexion. Aucun mode ne demande d'achat pour être joué. Voir [Pièces](../le-serveur/credits-economie.md).
 {% endhint %}
 
 Le **[Coinflip](../le-serveur/coinflip.md)**, un duel à pile ou face entre joueurs, est également disponible partout sur le réseau.
@@ -36,7 +36,7 @@ Ces modes sont au programme, sans date annoncée.
 | Murder  |
 | TheLab  |
 
-La **Survie** est le prochain grand chantier, et elle deviendra le mode central du réseau. Sa promesse tient en une phrase : _tout se régénère, sauf ce que vous avez bâti._ Le monde ressource, le nether et l'end repoussent en boucle ; le monde principal, lui, ne sera **jamais réinitialisé** — pas de saison, pas de remise à zéro, pas de nouvelle carte. Vous y trouverez des métiers, des donjons par paliers, des claims et une économie entre joueurs.
+La **Survie** est le prochain grand chantier, et elle deviendra le mode central du réseau. Sa promesse tient en une phrase : _tout se régénère, sauf ce que vous avez bâti._ Le monde ressource, le nether et l'end repoussent en boucle ; le monde principal, lui, ne sera **jamais réinitialisé** : pas de saison, pas de remise à zéro, pas de nouvelle carte. Vous y trouverez des métiers, des donjons par paliers, des claims et une économie entre joueurs.
 
 {% hint style="info" %}
 Nous préférons annoncer un mode comme _prévu_ plutôt que publier des règles pour un mode qui n'existe pas encore. Les dates sont communiquées sur le [Discord](https://discord.gg/theclovergames) quand elles sont tenables.
@@ -65,7 +65,7 @@ Ces systèmes vous suivent d'un mode à l'autre :
 
 | Système                  | Ce que ça fait                                                                               |
 | ------------------------ | -------------------------------------------------------------------------------------------- |
-| **Crédits**              | Monnaie unique du réseau : [en savoir plus](../le-serveur/credits-economie.md)               |
+| **Pièces**               | Monnaie unique du réseau : [en savoir plus](../le-serveur/credits-economie.md)               |
 | **Niveaux**              | XP et récompenses de progression. Débloquent les kits PvPSoup et SkyPvP.                     |
 | **Boosters d'XP**        | Multiplient l'XP gagnée partout, pendant une durée limitée : [en savoir plus](../le-serveur/credits-economie.md#boosters-dxp) |
 | **Défis**                | Objectifs quotidiens et hebdomadaires                                                        |

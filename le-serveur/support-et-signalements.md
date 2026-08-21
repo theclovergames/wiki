@@ -89,16 +89,16 @@ Décrivez :
 Une faille de **sécurité** (accès à des données, contournement de permissions, plantage du serveur) ne doit jamais être publiée. Signalez-la en privé au staff via un ticket, sans la décrire dans un canal public.
 {% endhint %}
 
-## 🧾 Problème d'achat ou de crédits
+## 🧾 Problème d'achat ou de pièces
 
-Pour une commande non livrée, un débit incorrect ou un solde de crédits erroné, ouvrez un ticket avec :
+Pour une commande non livrée, un débit incorrect ou un solde de pièces erroné, ouvrez un ticket avec :
 
 - votre pseudo Minecraft ;
 - la date de l'achat et le montant ;
 - la référence de commande reçue par e-mail ;
 - une capture de la confirmation de paiement.
 
-Chaque mouvement de crédits est enregistré dans un journal consultable par le staff : une erreur de livraison peut donc être retrouvée et corrigée.
+Chaque mouvement de pièces est enregistré dans un journal consultable par le staff : une erreur de livraison peut donc être retrouvée et corrigée.
 
 ## 📦 Perte d'objet
 

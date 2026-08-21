@@ -6,14 +6,18 @@ description: Les grades joueur, communautaires et staff de Clover Games, et ce q
 
 ## 👑 Grades joueur
 
-Les grades joueur s'obtiennent sur la [boutique](https://clovergames.fr/shop) avec des crédits. Ils sont **permanents** et cumulatifs : chaque grade conserve les avantages du précédent.
+Les grades joueur s'obtiennent sur la [boutique](https://clovergames.fr/shop), en euros. Ils sont **permanents** et cumulatifs : chaque grade conserve les avantages du précédent.
 
-| Grade | Prix | Valeur de référence |
-| --- | ---: | ---: |
-| **VIP** | 499 crédits | 4,99 € |
-| **Prestige** | 1 299 crédits | 12,99 € |
-| **Légende** | 1 999 crédits | 19,99 € |
-| **Divin** | 3 499 crédits | 34,99 € |
+| Grade | Prix |
+| --- | ---: |
+| **VIP** | 4,99 € |
+| **Prestige** | 12,99 € |
+| **Légende** | 19,99 € |
+| **Divin** | 34,99 € |
+
+{% hint style="info" %}
+Un grade ne s'achète **pas** en pièces : c'est le seul endroit de la boutique où les pièces ne servent à rien. Elles achètent l'apparence et le confort, jamais le statut.
+{% endhint %}
 
 {% hint style="success" %}
 **Aucun grade ne procure d'avantage en combat.** Les grades touchent l'identité visuelle et le confort de jeu. Un joueur sans grade n'est jamais désavantagé dans un mode compétitif.
@@ -29,10 +33,9 @@ Les grades joueur s'obtiennent sur la [boutique](https://clovergames.fr/shop) av
 | `/feed` | ✘ | ✅ | ✅ | ✅ | ✅ |
 | `/nick` aléatoire | ✘ | ✘ | ✅ | ✅ | ✅ |
 | `/fly` dans les zones autorisées | ✘ | ✘ | ✘ | ✅ | ✅ |
-| Allocation mensuelle de crédits | ✘ | 25 | 65 | 100 | 175 |
 
-{% hint style="info" %}
-**L'allocation mensuelle** est un versement automatique de crédits, chaque mois, tant que vous possédez le grade. Elle représente environ 5 % du prix d'achat : c'est un complément à votre activité, pas un remboursement du grade.
+{% hint style="success" %}
+Ce que donne un grade est **visible ou pratique** : une identité, un glyphe, des raccourcis de confort. Jamais de la richesse ni de la puissance.
 {% endhint %}
 
 ### Avant d'acheter
@@ -40,7 +43,7 @@ Les grades joueur s'obtiennent sur la [boutique](https://clovergames.fr/shop) av
 - Le catalogue complet et à jour de chaque offre se trouve sur [clovergames.fr/shop](https://clovergames.fr/shop).
 - Un grade est lié à votre compte Minecraft. Vérifiez votre pseudo avant de valider.
 - `/fly` n'est pas disponible dans les modes compétitifs : il serait un avantage.
-- En cas de problème de livraison, ouvrez un ticket. Voir [Support et signalements](support-et-signalements.md#probleme-dachat-ou-de-credits).
+- En cas de problème de livraison, ouvrez un ticket. Voir [Support et signalements](support-et-signalements.md#probleme-dachat-ou-de-pieces).
 
 ## 🤝 Grades communautaires
 

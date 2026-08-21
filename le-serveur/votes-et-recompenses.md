@@ -4,7 +4,7 @@ description: Voter pour Clover Games, réclamer vos paliers et suivre le classem
 
 # Votes et récompenses
 
-Voter est **gratuit**, prend quelques secondes et aide le serveur à être visible. C'est aussi la source de crédits la plus rentable pour un joueur régulier.
+Voter est **gratuit**, prend quelques secondes et aide le serveur à être visible. C'est aussi la source de pièces la plus rentable pour un joueur régulier.
 
 ## 🗳️ Comment voter
 
@@ -44,11 +44,11 @@ Vos votes s'accumulent définitivement et débloquent **21 paliers**, de 1 à 50
 
 | Sur l'ensemble des 500 votes | Total distribué |
 | --- | ---: |
-| Crédits | 1 465 |
+| Pièces | 1 465 |
 | Points d'expérience | 2 750 XP |
 | Clefs de caisse *vote* | 10 |
 
-Les paliers ne contiennent ni objet physique ni avantage de jeu : uniquement des crédits, de l'XP et des clefs cosmétiques.
+Les paliers ne contiennent ni objet physique ni avantage de jeu : uniquement des pièces, de l'XP et des clefs cosmétiques.
 
 {% hint style="info" %}
 Les paliers ne sont **pas automatiques** : ils doivent être réclamés dans `/vote rewards`. Un palier atteint reste réclamable indéfiniment, vous ne perdez rien en tardant.
@@ -59,7 +59,7 @@ Les paliers ne sont **pas automatiques** : ils doivent être réclamés dans `/v
 Les votes de **tous les joueurs** alimentent un compteur collectif.
 
 - Tous les **20 votes** cumulés, une *vote party* se déclenche.
-- Chaque joueur **connecté à ce moment-là** reçoit 10 crédits.
+- Chaque joueur **connecté à ce moment-là** reçoit 10 pièces.
 
 La progression est visible dans `/vote`. Il n'est pas nécessaire d'avoir voté soi-même pour en profiter, mais il faut être en ligne.
 
@@ -69,9 +69,9 @@ Un classement des voteurs est tenu chaque mois et remis à zéro au changement d
 
 | Place | Récompense |
 | --- | ---: |
-| 1er | 100 crédits |
-| 2e | 50 crédits |
-| 3e | 50 crédits |
+| 1er | 100 pièces |
+| 2e | 50 pièces |
+| 3e | 50 pièces |
 
 Les récompenses sont versées dès le changement de mois, ou à votre prochaine connexion si vous êtes hors ligne.
 

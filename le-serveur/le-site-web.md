@@ -108,9 +108,9 @@ La boutique est organisée par catégories. Vous ajoutez au panier, puis payez d
 
 Votre **historique de commandes** est consultable à tout moment depuis votre profil : c'est là qu'il faut regarder en premier si un achat n'a pas été livré.
 
-Vos **crédits sont synchronisés** entre le site et le jeu. Un achat effectué sur le site est répercuté en jeu automatiquement, sans avoir à vous reconnecter. Voir [Crédits](credits-economie.md).
+Vos **pièces sont synchronisées** entre le site et le jeu. Un achat effectué sur le site est répercuté en jeu automatiquement, sans avoir à vous reconnecter. Voir [Pièces](credits-economie.md).
 
-En cas de problème de livraison ou de solde, ouvrez un ticket : voir [Support et signalements](support-et-signalements.md#probleme-dachat-ou-de-credits).
+En cas de problème de livraison ou de solde, ouvrez un ticket : voir [Support et signalements](support-et-signalements.md#probleme-dachat-ou-de-pieces).
 
 ## 🤝 Rejoindre l'équipe
 

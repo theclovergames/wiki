@@ -1,57 +1,17 @@
 ---
-description: "Le duel à pile ou face : jetons de jeu, mises et tirage vérifiable."
+description: "Le duel à pile ou face : mises en pièces et tirage vérifiable."
 ---
 
 # Coinflip
 
 Le **Coinflip** est un duel à pile ou face entre deux joueurs. Vous publiez une annonce avec une mise, quelqu'un l'accepte, et le tirage désigne le gagnant.
 
-{% hint style="success" %}
-**Vos crédits ne sont jamais misés.** Le Coinflip utilise une monnaie qui lui est propre, les **jetons**, impossible à acheter. Votre solde de crédits, vos achats et votre progression ne peuvent pas être perdus au Coinflip.
-{% endhint %}
-
-## 🎫 Les jetons
-
-| | |
-| --- | --- |
-| **Recharge quotidienne** | 25 jetons par jour |
-| **Plafond de recharge** | 100 jetons |
-| **S'achètent** | Non, jamais |
-| **Se convertissent en crédits** | Oui, à 100 jetons pour 1 crédit |
-| **S'obtiennent avec des crédits** | Non, jamais |
-
-`/coinflip claim` réclame votre recharge du jour.
-
-{% hint style="info" %}
-Le **plafond de 100** limite seulement la recharge : si votre portefeuille contient déjà 100 jetons ou plus, la recharge quotidienne n'est pas disponible. En revanche, vos **gains peuvent dépasser ce plafond** sans limite, c'est en gagnant que l'on constitue une réserve.
-{% endhint %}
-
-## 💱 Convertir vos jetons en crédits
-
-Vos jetons finissent par valoir quelque chose, mais **peu**, et **dans un seul sens**.
-
-```
-/coinflip echange <jetons>
-```
-
-| Règle | Valeur |
-| --- | --- |
-| **Taux** | 100 jetons = 1 crédit |
-| **Échange minimum** | 500 jetons, soit 5 crédits |
-| **Multiples** | Le montant doit être un multiple de 100 |
-| **Plafond quotidien** | 10 crédits par jour |
-| **Sens inverse** | Impossible : un crédit ne redevient jamais un jeton |
-
-Le taux prolonge l'échelle de la boutique : **100 jetons = 1 crédit = 0,01 €**. Autrement dit, une mise maximale de 100 jetons représente **un centime** de valeur boutique.
-
 {% hint style="warning" %}
-**On ne peut pas mettre d'argent dans le Coinflip.** Les jetons ne s'achètent pas, et les crédits ne se reconvertissent pas en jetons. Le seul moyen d'obtenir des jetons est la recharge quotidienne, puis de gagner ceux des autres.
+**On mise de vraies pièces.** Le Coinflip utilise la monnaie du réseau, celle que vous gagnez en jouant. Ce que vous misez, vous pouvez le perdre. Des garde-fous existent (mise plafonnée, limite de perte quotidienne), mais le risque est réel : ne misez que ce que vous acceptez de perdre.
 {% endhint %}
 
-Concrètement, il faut beaucoup de duels pour peser sur la boutique : un grade VIP à 499 crédits représente **49 900 jetons**. Le Coinflip est un jeu qui finit par rapporter un peu, pas un raccourci vers la boutique. Une heure de jeu vous rapporte déjà 1 crédit, sans risque.
-
 {% hint style="info" %}
-Le **plafond de 10 crédits par jour** existe parce qu'un très bon joueur récupère les jetons de tous les autres. Il borne ce qu'un seul compte peut convertir, même après une grosse série de victoires. Vos jetons ne sont pas perdus pour autant : ils restent dans votre portefeuille et vous les convertirez les jours suivants.
+**Votre progression, elle, n'est jamais en jeu.** L'XP, vos niveaux, vos kits et vos achats déjà livrés ne peuvent pas être misés ni perdus au Coinflip. Seules les pièces circulent.
 {% endhint %}
 
 ## 🪙 Jouer un duel
@@ -62,16 +22,31 @@ Le **plafond de 10 crédits par jour** existe parce qu'un très bon joueur récu
 
 | Règle | Valeur |
 | --- | --- |
-| **Mise minimale** | 10 jetons |
-| **Mise maximale** | 100 jetons |
+| **Mise minimale** | 1 pièce |
+| **Mise maximale** | 10 pièces, soit dix centimes de valeur boutique |
+| **Perte maximale par jour** | 20 pièces |
 | **Annonces ouvertes** | 1 seule à la fois par joueur |
 | **Expiration d'une annonce** | 30 minutes, avec remboursement automatique |
 | **Prélèvement sur le pot** | 5 % |
 
 Les deux mises sont **bloquées** dès que le duel est accepté : personne ne peut se désister avant le tirage.
 
+{% hint style="info" %}
+La **limite de perte quotidienne** arrête les frais quand la journée tourne mal. Une fois atteinte, vous ne pouvez plus miser jusqu'au lendemain, même si votre solde le permettrait. Elle n'existe pas pour vous priver d'un jeu, mais pour qu'une mauvaise série ne coûte pas une semaine de jeu.
+{% endhint %}
+
 {% hint style="warning" %}
-Les 5 % prélevés sur le pot sont **détruits**, pas redistribués. Un duel ne crée donc jamais de jetons : à l'échelle du serveur, l'économie des jetons ne peut que diminuer. C'est ce qui empêche le Coinflip de devenir une source infinie de ressources.
+Les 5 % prélevés sur le pot sont **détruits**, pas redistribués. Un duel ne crée donc jamais de pièces : à l'échelle du serveur, le Coinflip retire plus de pièces qu'il n'en met en circulation. C'est ce qui l'empêche de devenir une source infinie de richesse.
+{% endhint %}
+
+## 🚫 Les enjeux restent minuscules, volontairement
+
+Les pièces s'achètent en boutique, mais les plafonds du Coinflip sont fixés pour que ça ne change rien : une mise maximale de **10 pièces** représente **dix centimes** de valeur boutique, et la perte maximale d'une journée, vingt centimes.
+
+Arriver avec un gros solde acheté ne sert donc à rien : on ne mise pas plus que les autres, on ne gagne pas plus vite, et une série de victoires ne rapproche d'aucun grade. Le Coinflip est un jeu d'appoint entre joueurs, pas un moyen de s'enrichir, ni d'y perdre quoi que ce soit d'important.
+
+{% hint style="danger" %}
+**Si vous jouez au Coinflip pour vous refaire, arrêtez.** Les 5 % prélevés font que, sur la durée, l'ensemble des joueurs y perd toujours. Une heure de jeu normal rapporte davantage, sans risque.
 {% endhint %}
 
 ## 🔍 Un tirage vérifiable
@@ -105,18 +80,16 @@ Quelques précisions :
 | Commande | Effet |
 | --- | --- |
 | `/coinflip` | Ouvre le menu des annonces |
-| `/coinflip claim` | Réclame la recharge quotidienne de jetons |
 | `/coinflip create <mise> <face\|pile>` | Publie une annonce |
 | `/coinflip accept <id>` | Accepte l'annonce d'un autre joueur |
 | `/coinflip cancel` | Annule votre annonce et récupère votre mise |
-| `/coinflip echange <jetons>` | Convertit vos jetons en crédits |
 | `/coinflip list` | Liste les annonces ouvertes |
-| `/coinflip stats` | Votre portefeuille, vos statistiques et la valeur de vos jetons |
+| `/coinflip stats` | Vos statistiques et votre bilan de gains et de pertes |
 | `/coinflip verifier <id>` | Vérifie le tirage d'un duel passé |
 
 ## 💡 Bon à savoir
 
-- Vos jetons ne se transforment **ni en XP ni en objets** : la seule sortie est la conversion en crédits, au taux ci-dessus.
 - Une annonce oubliée vous est remboursée au bout de 30 minutes : vous ne perdez rien à en créer une puis à vous déconnecter.
 - Vous ne pouvez avoir qu'une annonce ouverte à la fois, pour éviter de bloquer plusieurs mises en même temps.
-- Si une conversion échoue, vos jetons vous sont rendus et le plafond du jour n'est pas entamé.
+- `/coinflip stats` affiche votre bilan réel, gains **et** pertes. Regardez-le de temps en temps : c'est le meilleur rappel de ce que le jeu vous coûte ou vous rapporte.
+- Le Coinflip ne donne ni XP, ni objet, ni avantage en combat. Il ne déplace que des pièces d'un joueur à un autre.

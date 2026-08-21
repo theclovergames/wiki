@@ -37,7 +37,7 @@ Les parcelles sont séparées par des routes et bordées d'un mur. Le mur change
 | `/plot delete` | Supprime votre parcelle et tout ce qu'elle contient |
 
 {% hint style="success" %}
-**Réclamer une parcelle est gratuit.** Elle ne coûte aucun crédit, et vous pouvez en posséder **jusqu'à cinq**.
+**Réclamer une parcelle est gratuit.** Elle ne coûte aucune pièce, et vous pouvez en posséder **jusqu'à cinq**.
 {% endhint %}
 
 Une fois vos cinq parcelles occupées, il faut en libérer une avec `/plot delete` pour en réclamer une nouvelle. Pensez-y avant de lancer un gros projet : mieux vaut réserver une parcelle à vos essais plutôt que d'effacer une construction terminée.
@@ -83,7 +83,7 @@ Vous tombez sur une construction problématique ? Ne la signalez pas dans le cha
 
 ## 💡 Bon à savoir
 
-* Vos **crédits, votre niveau et vos cosmétiques** vous suivent sur le Créatif comme partout ailleurs sur le réseau.
+* Vos **pièces, votre niveau et vos cosmétiques** vous suivent sur le Créatif comme partout ailleurs sur le réseau.
 * Le mode créatif du Créatif **ne déborde pas** : les objets que vous y créez restent dans ce monde.
 * `/plot help` liste l'ensemble des commandes disponibles en jeu, y compris celles qui ne figurent pas ici.
 

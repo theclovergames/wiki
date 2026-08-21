@@ -170,7 +170,7 @@ Comme en PvPSoup, une série d'éliminations place une **prime** sur votre tête
 
 ## 📋 Contrats
 
-Cinq contrats, récompensés en **crédits**. Voir [Crédits](../le-serveur/credits-economie.md).
+Cinq contrats, récompensés en **pièces**. Voir [Pièces](../le-serveur/credits-economie.md).
 
 | Rythme                | Objectifs                                 |
 | --------------------- | ----------------------------------------- |

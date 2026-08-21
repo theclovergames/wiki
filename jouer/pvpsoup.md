@@ -114,12 +114,12 @@ Sa valeur : `20 + 5 × (série − 5)` XP, **plafonnée à 75 XP**. Elle revient
 
 ## 📋 Contrats
 
-Cinq contrats sont disponibles : **trois quotidiens et deux hebdomadaires**. Ils récompensent directement en **crédits**. Voir [Crédits](../le-serveur/credits-economie.md).
+Cinq contrats sont disponibles : **trois quotidiens et deux hebdomadaires**. Ils récompensent directement en **pièces**. Voir [Pièces](../le-serveur/credits-economie.md).
 
 `/pvpsoup contracts` pour les consulter.
 
 {% hint style="info" %}
-Il n'existe **aucune monnaie propre à PvPSoup**. Tout passe par les crédits du réseau.
+Il n'existe **aucune monnaie propre à PvPSoup**. Tout passe par les pièces du réseau.
 {% endhint %}
 
 ## 🎉 Événements automatiques
@@ -140,15 +140,15 @@ Une saison dure **30 jours**. La **saison 1 a commencé le 1er août 2026** et s
 
 Chaque saison a son propre classement de kills. Vos statistiques all-time ne sont **jamais** remises à zéro par un changement de saison.
 
-À la clôture, les **10 premiers** reçoivent des crédits.
+À la clôture, les **10 premiers** reçoivent des pièces.
 
 | Commande                | Effet                                                                |
 | ----------------------- | -------------------------------------------------------------------- |
-| `/pvpsoup season`       | Période en cours, top 10, vos statistiques et vos crédits en attente |
-| `/pvpsoup season claim` | Réclame vos crédits de fin de saison                                 |
+| `/pvpsoup season`       | Période en cours, top 10, vos statistiques et vos pièces en attente |
+| `/pvpsoup season claim` | Réclame vos pièces de fin de saison                                 |
 
 {% hint style="info" %}
-Les crédits de saison ne sont jamais versés deux fois, même si le serveur redémarre au mauvais moment.
+Les pièces de saison ne sont jamais versées deux fois, même si le serveur redémarre au mauvais moment.
 {% endhint %}
 
 ## 🏆 Classements

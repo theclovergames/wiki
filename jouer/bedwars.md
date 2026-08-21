@@ -281,7 +281,8 @@ Votre profil BedWars est **public par défaut**. `/bw privacy` en masque les dé
 | `/bw stats` | Vos statistiques |
 | `/bw season` | Saison en cours et récompenses |
 | `/bw history` | Vos matchs passés |
-| `/bw replay` | Bibliothèque de replays |
+| `/bw replay` | Vos replays BedWars uniquement |
+| `/replays` | Toutes vos parties, BedWars et Practice réunis |
 | `/bw cosmetics` | Vos cosmétiques |
 | `/bw privacy` | Visibilité de votre profil |
 

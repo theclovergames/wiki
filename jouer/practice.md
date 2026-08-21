@@ -98,12 +98,12 @@ Votre palier découle directement de votre ELO, et détermine votre récompense 
 | Palier | ELO minimum | Récompense de saison |
 | --- | ---: | ---: |
 | **Bronze** | 0 | — |
-| **Argent** | 900 | 10 crédits |
-| **Or** | 1 100 | 20 crédits |
-| **Platine** | 1 300 | 35 crédits |
-| **Diamant** | 1 500 | 50 crédits |
-| **Maître** | 1 700 | 75 crédits |
-| **Grand Maître** | 1 900 | 100 crédits |
+| **Argent** | 900 | 10 pièces |
+| **Or** | 1 100 | 20 pièces |
+| **Platine** | 1 300 | 35 pièces |
+| **Diamant** | 1 500 | 50 pièces |
+| **Maître** | 1 700 | 75 pièces |
+| **Grand Maître** | 1 900 | 100 pièces |
 
 {% hint style="info" %}
 Vous démarrez à 1 000 d'ELO, donc en **Argent**. Chaque kit et chaque format ont leur palier propre : vous pouvez être Diamant en `nodebuff` 1v1 et Or en `sumo` 2v2.
@@ -121,7 +121,7 @@ Les **duels privés, les matchs entre groupes et les combats contre bots ne sont
 
 ### Récompenses de saison
 
-À la fin d'une saison, votre **meilleure cote** vous rapporte les crédits de votre palier. Voir le tableau ci-dessus. Deux conditions :
+À la fin d'une saison, votre **meilleure cote** vous rapporte les pièces de votre palier. Voir le tableau ci-dessus. Deux conditions :
 
 - avoir joué au moins **25 matchs** ;
 - avoir remporté au moins **10 victoires**.
@@ -164,7 +164,8 @@ Chaque match peut être revu. Le replay rejoue positions, équipements, animatio
 
 | Commande | Effet |
 | --- | --- |
-| `/replay list` | Bibliothèque de vos replays |
+| `/replays` | Toutes vos parties, Practice et BedWars réunis |
+| `/replay list` | Vos replays Practice uniquement |
 | `/replay watch <id>` | Lance un replay |
 | `/replay pause` | Met en pause |
 | `/replay speed <0.25–4>` | Change la vitesse de lecture |

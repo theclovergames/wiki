@@ -1,81 +1,106 @@
 ---
 description: >-
-  Les crédits, la monnaie unique de Clover Games : comment les gagner et les
+  Les pièces, la monnaie unique de Clover Games : comment les gagner et les
   dépenser.
 ---
 
-# Crédits : l'économie du réseau
+# Pièces : l'économie du réseau
 
-Clover Games utilise **une seule monnaie** : les **crédits**.
+Clover Games utilise **une seule monnaie** : les **pièces**.
 
-{% hint style="info" %}
-Le [Coinflip](coinflip.md) fait exception : il utilise des **jetons** qui lui sont propres. Vos crédits ne peuvent jamais être misés ni perdus au Coinflip. Les jetons gagnés se convertissent en crédits, à raison de **100 jetons pour 1 crédit** et jamais dans l'autre sens.
-{% endhint %}
-
-Votre solde est **commun à tout le réseau** : les crédits gagnés dans un mode sont utilisables dans tous les autres, et consultables sur le [site](https://clovergames.fr) comme en jeu.
+Votre solde est **commun à tout le réseau** : les pièces gagnées dans un mode sont utilisables dans tous les autres, et consultables sur le [site](https://clovergames.fr) comme en jeu.
 
 | Élément         | Valeur         |
 | --------------- | -------------- |
-| Nom             | Crédits        |
-| Solde de départ | 0 crédit       |
+| Nom             | Pièces         |
+| Solde de départ | 0 pièce        |
 | Portée          | Tout le réseau |
 
 {% hint style="info" %}
-**Référence de tarification : 100 crédits = 1,00 €.** Cette équivalence sert uniquement à fixer et comparer les prix de la boutique. Elle ne constitue **pas** une promesse de conversion ni de remboursement en argent réel : les crédits ne peuvent pas être échangés contre de l'argent.
+**Repère de valeur : 100 pièces valent 1,00 €** dans la boutique. C'est ce qui permet de comparer les prix entre eux ; ce n'est ni une promesse de conversion, ni un remboursement possible en argent réel.
 {% endhint %}
 
-## 📥 Gagner des crédits
+{% hint style="success" %}
+**Rien de ce qui s'obtient avec des pièces ne donne d'avantage en combat.** C'est une règle de conception : aucun kit de PvPSoup ou de SkyPvP ne s'achète, l'ELO du Practice ne s'achète pas, et aucun objet de partie BedWars n'est en vente. Les pièces achètent de l'apparence, du confort et du contenu.
+{% endhint %}
 
-### En jouant
+## 📥 Gagner des pièces
 
 | Source                          | Gain                                                                                                    |
 | ------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| **Temps de jeu actif**          | 1 crédit toutes les 60 minutes (temps AFK exclu)                                                        |
-| **Défis quotidiens**            | Jusqu'à 3 crédits par jour                                                                              |
-| **Défis hebdomadaires**         | Jusqu'à 14 crédits par semaine                                                                          |
-| **Votes**                       | Jusqu'à 1 465 crédits sur les 500 premiers votes. Voir [Votes et récompenses](votes-et-recompenses.md) |
-| **Vote party**                  | 10 crédits pour les joueurs en ligne, tous les 20 votes collectifs                                      |
-| **Classement mensuel de votes** | 100 crédits au 1er, 50 crédits aux 2e et 3e                                                            |
-| **Fin de saison Practice**      | 0 à 100 crédits selon votre palier. Voir [Practice](../jouer/practice.md#recompenses-de-saison)        |
-| **Coinflip**                    | 100 jetons pour 1 crédit, au maximum 10 crédits par jour. Voir [Coinflip](coinflip.md#convertir-vos-jetons-en-credits) |
+| **Temps de jeu actif**          | 1 pièce toutes les 60 minutes (temps AFK exclu)                                                         |
+| **Défis quotidiens**            | Jusqu'à 3 pièces par jour                                                                               |
+| **Défis hebdomadaires**         | Jusqu'à 14 pièces par semaine                                                                           |
+| **Votes**                       | Voir [Votes et récompenses](votes-et-recompenses.md)                                                    |
+| **Vote party**                  | Pour les joueurs en ligne, tous les 20 votes collectifs                                                 |
+| **Classement mensuel de votes** | Récompense les trois premiers                                                                           |
+| **Fin de saison Practice**      | Selon votre palier. Voir [Practice](../jouer/practice.md#recompenses-de-saison)                         |
+| **Métiers et donjons**          | En Survie, une fois le mode ouvert                                                                      |
 | **Événements**                  | Variable, annoncé à chaque événement                                                                    |
 
 {% hint style="warning" %}
-Le temps **AFK ne compte pas**. Rester connecté sans jouer ne génère aucun crédit.
+Le temps **AFK ne compte pas**. Rester connecté sans jouer ne rapporte aucune pièce.
 {% endhint %}
 
-### En achetant
+Le [Coinflip](coinflip.md) ne crée pas de pièces : il en déplace d'un joueur à l'autre, et en détruit 5 % à chaque duel.
 
-Des crédits peuvent être achetés sur la [boutique](https://clovergames.fr/shop). C'est ce qui finance l'hébergement et le développement du réseau.
+## 🛒 Dépenser des pièces
 
-### Allocation des grades
+| Dépense                       | Où                                      |
+| ----------------------------- | --------------------------------------- |
+| Cosmétiques et effets visuels | Boutique et menus en jeu                |
+| Familiers et gadgets          | Menus en jeu                            |
+| Boosters d'XP                 | [Boutique](https://clovergames.fr/shop) |
+| Clefs de caisses              | Récompenses de votes et de niveaux      |
+| Services de confort           | Boutique                                |
+| Contenu Survie                | Métiers, donjons, étals de comptoir     |
 
-Si vous possédez un grade, vous recevez une allocation mensuelle automatique : 25 crédits (VIP), 65 (Prestige), 100 (Légende), 175 (Divin). Voir [Rangs et grades](rangs-et-grades.md).
+{% hint style="warning" %}
+**Une exception, en Survie.** Les joueurs s'y vendent librement leurs productions dans les comptoirs : des pièces permettent donc d'acheter du matériel à un autre joueur, au prix qu'il fixe. La progression, elle, ne s'achète pas : un métier se monte, un palier de donjon se valide, un titre se gagne.
+{% endhint %}
 
-## 🛒 Dépenser des crédits
+### La boutique en jeu
 
-| Dépense                              | Où                                      |
-| ------------------------------------ | --------------------------------------- |
-| Grades VIP, Prestige, Légende, Divin | [Boutique](https://clovergames.fr/shop) |
-| Cosmétiques et effets visuels        | Boutique et menus en jeu                |
-| Familiers et gadgets                 | Menus en jeu                            |
-| Boosters d'XP                        | [Boutique](https://clovergames.fr/shop) |
-| Clefs de caisses                     | Récompenses de votes et de niveaux      |
-| Services de confort                  | Boutique                                |
+`/shop` ouvre la **caisse unique du réseau**. Ce qui se vendait auparavant dans le menu d'un mode se vend désormais ici, depuis n'importe quel serveur.
+
+Le hub sépare quatre rayons payés en pièces (grades, boosters, clés, cosmétiques) et quatre compléments, dont les packs de pièces et le site.
+
+{% hint style="info" %}
+Deux rayons de cosmétiques, et la distinction compte : **Cosmétiques de mode** regroupe ce qui se déclenche pendant une partie (victoire, élimination, lit, marchand BedWars), **Cosmétiques du réseau** la collection que vous portez partout.
+{% endhint %}
+
+Chaque article annonce son prix **et sa valeur en euros**, puis son état : achetable, déjà possédé, ou **le montant qu'il vous manque**. Le dialogue de confirmation affiche votre solde **avant et après** l'achat.
 
 {% hint style="success" %}
-**Rien de ce qui s'achète ne donne d'avantage en combat.** C'est une règle de conception : les crédits achètent de l'apparence et du confort, jamais de la puissance.
+**Vous pouvez acheter un cosmétique de mode sans être sur le mode.** Un article rattaché à un serveur est payé où que vous soyez, puis livré par ce serveur **dans la minute**, que vous y soyez connecté ou non.
+{% endhint %}
+
+Côté BedWars, `/bw cosmetics` devient une **armoire** : il équipe ce que vous possédez et renvoie le reste vers la boutique. Ce que vous aviez déjà acheté dans l'ancien menu reste acquis, et ne vous sera jamais revendu.
+
+## 💶 Acheter des pièces
+
+Des **packs de pièces** sont disponibles sur la [boutique](https://clovergames.fr/shop). C'est ce qui finance l'hébergement et le développement du réseau.
+
+| Pack | Prix |
+| --- | ---: |
+| 500 pièces | 4,99 € |
+| 1 050 pièces | 9,99 € |
+| 2 200 pièces | 19,99 € |
+| 5 750 pièces | 49,99 € |
+
+Les packs les plus gros contiennent un bonus : de 100 pièces par euro pour le plus petit, jusqu'à 115 pour le plus grand.
+
+{% hint style="success" %}
+**Acheter ne rend jamais plus fort.** Un pack donne accès à des apparences, des familiers et du confort, à rien qui se joue. Un joueur qui n'achète jamais rien reste à égalité stricte dans tous les modes compétitifs, et il obtient le même catalogue en jouant.
+{% endhint %}
+
+{% hint style="info" %}
+**Un grade ne rapporte aucune pièce.** Il ne donne ni versement mensuel ni revenu d'aucune sorte : ce qu'il apporte est visible et pratique, jamais économique.
 {% endhint %}
 
 ### Boosters d'XP
 
-Un **booster** multiplie l'XP que vous gagnez, sur **tous les modes du réseau**, pendant une durée limitée.
-
-| Booster              | Multiplicateur | Durée      | Prix        |
-| -------------------- | -------------- | ---------- | ----------- |
-| Booster ×1,5 — 1 h   | ×1,5           | 1 heure    | 350 crédits |
-| Booster ×2 — 30 min  | ×2             | 30 minutes | 400 crédits |
-| Booster ×2 — 1 h     | ×2             | 1 heure    | 700 crédits |
+Un **booster** multiplie l'XP que vous gagnez, sur **tous les modes du réseau**, pendant une durée limitée : ×1,5 ou ×2, pour 30 minutes ou une heure.
 
 Un booster acheté **rejoint votre stock** sans démarrer : c'est vous qui choisissez le moment. Pour l'ouvrir, `/leveling booster`, l'entrée **Boosters d'XP** du menu boutique, ou l'objet du même nom dans la barre BedWars. Un clic sur un booster le lance.
 
@@ -83,7 +108,7 @@ Un booster acheté **rejoint votre stock** sans démarrer : c'est vous qui chois
 **Un seul booster tourne à la fois**, les autres attendent leur tour dans votre stock. La durée s'écoule en **temps réel** : elle continue si vous changez de serveur, et même si vous vous déconnectez. Vous êtes prévenu à l'expiration.
 {% endhint %}
 
-Le multiplicateur s'applique à votre **niveau réseau** comme aux **progressions propres à chaque mode** — celles qui débloquent les kits PvPSoup et SkyPvP. Un booster vous fait donc avancer plus vite, mais ne débloque rien d'inaccessible et ne rend aucun kit plus fort qu'un autre : la règle ci-dessus tient.
+Le multiplicateur s'applique à votre **niveau réseau** comme aux **progressions propres à chaque mode**, celles qui débloquent les kits PvPSoup et SkyPvP. Un booster vous fait donc avancer plus vite, mais ne débloque rien d'inaccessible et ne rend aucun kit plus fort qu'un autre : la règle ci-dessus tient.
 
 ## 🔎 Consulter et transférer
 
@@ -91,15 +116,19 @@ Le multiplicateur s'applique à votre **niveau réseau** comme aux **progression
 | ------------------------- | -------------------------------------------- |
 | `/balance`                | Affiche votre solde : alias `/bal`, `/money` |
 | `/balance <joueur>`       | Affiche le solde d'un autre joueur           |
-| `/pay <joueur> <montant>` | Transfère des crédits à un joueur            |
+| `/pay <joueur> <montant>` | Transfère des pièces à un joueur             |
 
 {% hint style="danger" %}
-Un transfert avec `/pay` est **immédiat et définitif**. Vérifiez le pseudo et le montant avant de valider : le staff ne rembourse pas une erreur de saisie, et « prêter » des crédits à un inconnu revient à les perdre.
+Un transfert avec `/pay` est **immédiat et définitif**. Vérifiez le pseudo et le montant avant de valider : le staff ne rembourse pas une erreur de saisie, et « prêter » des pièces à un inconnu revient à les perdre.
+{% endhint %}
+
+{% hint style="warning" %}
+**Vendre ou acheter des pièces entre joueurs contre de l'argent réel est interdit**, et sanctionné comme tel. Le seul endroit où des pièces s'achètent est la [boutique officielle](https://clovergames.fr/shop) : un joueur qui vous en propose de la main à la main enfreint le règlement, et vous exposez votre compte en acceptant.
 {% endhint %}
 
 ## 🧾 Traçabilité
 
-Chaque mouvement de crédits est enregistré dans un journal permanent avec son origine, sa référence et sa date.
+Chaque mouvement de pièces est enregistré dans un journal permanent avec son origine, sa référence et sa date.
 
 Concrètement :
 
@@ -108,4 +137,4 @@ Concrètement :
 * une erreur de livraison peut être retrouvée et corrigée par le staff sur ticket ;
 * une correction ne supprime jamais la transaction d'origine : elle ajoute une écriture compensatoire.
 
-Pour toute anomalie de solde, voir [Support et signalements](support-et-signalements.md#probleme-dachat-ou-de-credits).
+Pour toute anomalie de solde, voir [Support et signalements](support-et-signalements.md#probleme-dachat-ou-de-pieces).

@@ -10,7 +10,7 @@
 * [Règlement](le-serveur/reglement.md)
 * [Support et signalements](le-serveur/support-et-signalements.md)
 * [Rangs et grades](le-serveur/rangs-et-grades.md)
-* [Crédits : l'économie du réseau](le-serveur/credits-economie.md)
+* [Pièces : l'économie du réseau](le-serveur/credits-economie.md)
 * [Coinflip](le-serveur/coinflip.md)
 * [Votes et récompenses](le-serveur/votes-et-recompenses.md)
 * [Le site web](le-serveur/le-site-web.md)

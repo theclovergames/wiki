@@ -26,9 +26,10 @@ Perdu ? `/help` en jeu donne l'aide contextuelle par catégories, et `/rules` ra
 | `/lier annuler` | | Invalide le code en cours |
 | `/report <joueur> <raison>` | `/signaler` | Signale un joueur au staff |
 | `/clovermenu` | | Ouvre les menus Clover |
+| `/replays` | | Vos parties enregistrées, tous modes confondus |
 
 {% hint style="warning" %}
-Le temps passé en **AFK ne rapporte aucun crédit** et suspend votre progression. Voir [Crédits](../le-serveur/credits-economie.md#gagner-des-credits).
+Le temps passé en **AFK ne rapporte aucune pièce** et suspend votre progression. Voir [Pièces](../le-serveur/credits-economie.md#gagner-des-pieces).
 {% endhint %}
 
 `/back` n'est disponible que sur le **Créatif**, et le sera sur la **Survie** à son ouverture. Les modes de combat en sont exclus : revenir sur le lieu de sa mort y serait un avantage de jeu.
@@ -91,9 +92,9 @@ Dans le lobby et aux abords du spawn, un **clic droit sur un joueur** ouvre son 
 
 | Commande | Alias | Effet |
 | --- | --- | --- |
-| `/balance` | `/bal`, `/money` | Votre solde de crédits |
+| `/balance` | `/bal`, `/money` | Votre solde de pièces |
 | `/balance <joueur>` | | Solde d'un autre joueur |
-| `/pay <joueur> <montant>` | | Transfère des crédits |
+| `/pay <joueur> <montant>` | | Transfère des pièces |
 | `/shop` | | Ouvre la boutique en jeu |
 
 {% hint style="danger" %}
@@ -102,21 +103,19 @@ Dans le lobby et aux abords du spawn, un **clic droit sur un joueur** ouvre son 
 
 ## 🪙 Coinflip
 
-Le Coinflip se mise en **jetons**, jamais en crédits.
+Le Coinflip se mise en **pièces**, celles que vous gagnez en jouant.
 
 | Commande | Effet |
 | --- | --- |
 | `/coinflip` | Menu des annonces |
-| `/coinflip claim` | Recharge quotidienne de 25 jetons |
 | `/coinflip create <mise> <face\|pile>` | Publie une annonce |
 | `/coinflip accept <id>` | Accepte une annonce |
 | `/coinflip cancel` | Annule votre annonce |
-| `/coinflip echange <jetons>` | Convertit vos jetons en crédits |
 | `/coinflip list` | Annonces ouvertes |
 | `/coinflip stats` | Portefeuille et statistiques |
 | `/coinflip verifier <id>` | Vérifie le tirage d'un duel passé |
 
-`/coinflip echange` convertit à raison de **100 jetons pour 1 crédit**, par multiples de 100, à partir de 500 jetons et dans la limite de 10 crédits par jour. L'inverse est impossible : un crédit ne redevient jamais un jeton.
+La mise va de **1 à 10 pièces**, avec une perte maximale de 20 pièces par jour. 5 % du pot sont détruits à chaque duel : le Coinflip ne crée jamais de pièces.
 
 Tous les détails sont sur [Coinflip](../le-serveur/coinflip.md).
 
@@ -131,6 +130,18 @@ Tous les détails sont sur [Coinflip](../le-serveur/coinflip.md).
 | `/vote` | | Sites de vote, paliers et classement |
 | `/vote rewards` | | Réclame vos paliers de vote |
 | `/vote top [alltime]` | | Classement mensuel ou général |
+
+## 🎬 Replays
+
+`/replays` réunit **toutes vos parties enregistrées**, BedWars comme Practice, dans une seule bibliothèque. Elle s'ouvre depuis n'importe quel serveur du réseau, lobby compris.
+
+Deux autres chemins y mènent : la carte **Mes replays** de votre menu Profil, et le raccourci du même nom dans la barre du lobby.
+
+{% hint style="info" %}
+**Lancer un replay vous emmène sur le serveur qui l'a enregistré.** Rejouer une partie reconstruit son arène, et seul ce serveur en détient le plan. L'écran vous annonce la destination **avant** le clic, et la lecture s'ouvre à votre arrivée.
+{% endhint %}
+
+Les parties enregistrées avant la mise en service de cette bibliothèque n'ont pas de serveur d'origine connu : elles s'ouvrent sur un serveur par défaut.
 
 ## 🎨 Personnalisation
 
