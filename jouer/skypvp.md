@@ -133,6 +133,8 @@ La safezone met à votre disposition des **enclumes** et des **tables d'enchante
 
 Puisque votre inventaire n'est jamais réinitialisé et que la durabilité compte, c'est là que se joue l'entretien de votre stuff : vous réparez ce qui est entamé et vous ajoutez des enchantements avec l'expérience que vous avez accumulée en warzone.
 
+Inutile d'apporter du lapis-lazuli : chaque table en fournit **64**, renouvelés après chaque enchantement. Ce lapis reste dans la table, ne peut pas être récupéré et disparaît quand vous la fermez. Les offres d'enchantement et leur coût en niveaux d'expérience restent ceux de Minecraft.
+
 {% hint style="success" %}
 **C'est la vraie décision du mode.** Continuer avec une armure entamée pour allonger votre série, ou rentrer réparer et laisser le terrain aux autres. Un kit de départ entretenu sur plusieurs sessions n'a plus grand-chose à voir avec celui qu'on vous a donné.
 {% endhint %}

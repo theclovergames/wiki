@@ -1,6 +1,6 @@
 # Plan de migration du wiki Clover Games
 
-Document de travail interne : **ne pas publier sur le wiki**.
+> **Archive interne, non destinée au wiki public.** Ce plan décrit la migration initiale de 2026. Ses chiffres, chemins et étapes sont historiques : le sommaire actuel est dans [SUMMARY.md](SUMMARY.md), et les pages de ce dossier font foi pour leur contenu. Ne pas utiliser ce plan comme liste de tâches ou preuve d'un déploiement.
 
 ## 1. Ce qui change
 

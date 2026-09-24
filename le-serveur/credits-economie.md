@@ -77,6 +77,23 @@ Chaque article annonce son prix **et sa valeur en euros**, puis son état : ache
 
 Côté BedWars, `/bw cosmetics` devient une **armoire** : il équipe ce que vous possédez et renvoie le reste vers la boutique. Ce que vous aviez déjà acheté dans l'ancien menu reste acquis, et ne vous sera jamais revendu.
 
+### La boutique fidélité
+
+L'entrée **Boutique fidélité** du hub (ou `/tempsdejeu boutique`) propose des offres payées en pièces, mais réservées aux joueurs réguliers. Chacune demande **à la fois** un temps de jeu réseau et un nombre de votes cumulés, et son nombre d'achats est limité.
+
+| Offre | Temps de jeu | Votes | Prix | Achats max. |
+| --- | ---: | ---: | ---: | ---: |
+| 1 clé de fidélité | 10 h | 5 | 500 pièces | 5 |
+| 3 clés de fidélité | 50 h | 20 | 1 400 pièces | 3 |
+| Jouet Canon à confettis | 100 h | 30 | 1 500 pièces | 1 |
+| Sillage Poussière d'émeraude | 250 h | 60 | 1 500 pièces | 1 |
+| Signature Danse du trèfle | 500 h | 100 | 2 500 pièces | 1 |
+| Aura Halo Clover | 750 h | 150 | 2 500 pièces | 1 |
+
+{% hint style="info" %}
+Les offres encore verrouillées restent visibles, avec votre progression sur chaque condition. Les deux seuils sont revérifiés au moment de payer.
+{% endhint %}
+
 ## 💶 Acheter des pièces
 
 Des **packs de pièces** sont disponibles sur la [boutique](https://clovergames.fr/shop). C'est ce qui finance l'hébergement et le développement du réseau.

@@ -127,6 +127,7 @@ Tous les détails sont sur [Coinflip](../le-serveur/coinflip.md).
 | `/leveling booster` | | Votre stock de boosters d'XP, et leur activation |
 | `/challenges` | | Défis quotidiens et hebdomadaires |
 | `/playtime` | `/tempsdejeu` | Votre temps de jeu et vos paliers |
+| `/tempsdejeu boutique` | `/playtime shop` | Boutique fidélité : offres débloquées par le temps de jeu et les votes |
 | `/vote` | | Sites de vote, paliers et classement |
 | `/vote rewards` | | Réclame vos paliers de vote |
 | `/vote top [alltime]` | | Classement mensuel ou général |
@@ -237,8 +238,8 @@ Mode **ouvert**, et encore en développement comme le reste du serveur. Voir [Be
 | `/bedwars` ou `/bw` | Hub du mode |
 | `/bw play <solo\|duo\|trio\|quad>` | Rejoint une file |
 | `/bw leave` · `/bw rejoin` | Quitte ou revient dans un match |
-| `/bw stats` · `/bw history` | Statistiques et matchs passés |
-| `/bw season` | Saison et récompenses |
+| `/bw stats` · `/bw history` | Statistiques et 100 dernières parties |
+| `/bw season` | Saison, Top 100 et récompenses |
 | `/bw replay` | Bibliothèque de replays |
 | `/bw cosmetics` · `/bw privacy` | Cosmétiques et visibilité du profil |
 
@@ -261,6 +262,7 @@ Mode **ouvert**, et encore en développement comme le reste du serveur. Voir [Be
 | `/replay watch <id>` | Lance un replay |
 | `/replay pause` · `/replay stop` | Contrôle la lecture |
 | `/replay speed <0.25–4>` | Vitesse de lecture |
+| `/replay seek <secondes>` | Avance ou recule dans le combat |
 
 Tous les détails sont sur [Practice](../jouer/practice.md).
 

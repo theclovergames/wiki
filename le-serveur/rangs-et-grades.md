@@ -51,12 +51,12 @@ Ces grades ne s'achètent pas. Ils sont attribués par le staff.
 
 | Grade | À qui |
 | --- | --- |
-| **Influenceur** | Créateurs de contenu qui parlent du serveur, quelle que soit la plateforme |
+| **Média** | Créateurs de contenu qui parlent du serveur, quelle que soit la plateforme |
 | **Ami** | Personnes de confiance proches du projet, à la discrétion de l'équipe |
 | **Partenaire** | Organisations et communautés partenaires de Clover Games |
 
 {% hint style="info" %}
-**Un seul grade pour tous les créateurs.** YouTube, Twitch, TikTok ou ailleurs : c'est le même grade Influenceur. La plateforme sur laquelle vous publiez ne change rien à la reconnaissance.
+**Un seul grade pour tous les créateurs.** YouTube, Twitch, TikTok ou ailleurs : c'est le même grade Média. La plateforme sur laquelle vous publiez ne change rien à la reconnaissance.
 {% endhint %}
 
 Vous créez du contenu ou vous représentez une communauté ? Ouvrez un ticket sur le [Discord](https://discord.gg/theclovergames) : les programmes créateurs et partenaires sont étudiés au cas par cas.

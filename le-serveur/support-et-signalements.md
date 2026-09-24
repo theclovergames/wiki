@@ -73,6 +73,18 @@ Les verdicts **abusifs** sont comptabilisés, et l'équipe dispose des statistiq
 - répéter le même `/report` en espérant accélérer le traitement ;
 - signaler un joueur parce qu'il est simplement meilleur que vous.
 
+## 🧊 Contrôle par un membre du staff
+
+Pour vérifier un signalement, un membre du staff peut vous **geler** le temps d'un contrôle. Un titre **CONTRÔLE STAFF** s'affiche, et un bouclier bleu et blanc vous entoure.
+
+Pendant le gel, vous ne pouvez ni vous déplacer, ni être téléporté, ni utiliser votre inventaire, ni poser ou casser de blocs, et vous ne subissez aucun dégât. Les commandes sont bloquées, sauf les messages privés (`/msg`, `/r`), `/help` et `/report`. Le chat reste ouvert : suivez les instructions du membre du staff et répondez-lui.
+
+{% hint style="warning" %}
+**Ne vous déconnectez pas pendant un contrôle.** La déconnexion est signalée à l'équipe et consignée. Elle n'entraîne pas de sanction automatique, mais elle sera prise en compte dans la décision.
+{% endhint %}
+
+Le staff peut aussi observer discrètement une partie en cours, en Practice comme en BedWars, sans y participer. Un contrôle n'est pas une accusation : si tout est en ordre, vous êtes simplement libéré.
+
 ## 🐞 Signaler un bug
 
 Un bug signalé de bonne foi n'est jamais sanctionné. **En revanche, l'exploiter l'est**. Voir le [Règlement](reglement.md#7-bugs-et-failles).

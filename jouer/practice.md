@@ -169,7 +169,17 @@ Chaque match peut être revu. Le replay rejoue positions, équipements, animatio
 | `/replay watch <id>` | Lance un replay |
 | `/replay pause` | Met en pause |
 | `/replay speed <0.25–4>` | Change la vitesse de lecture |
+| `/replay seek <secondes>` | Avance ou recule dans le combat : `/replay seek -10` recule de 10 secondes |
 | `/replay stop` | Arrête et vous ramène à votre position |
+
+Pendant la lecture, vous volez librement autour du combat, sans pouvoir prendre de dégâts, et votre barre d'objets sert de télécommande :
+
+- **Pause / Reprendre** ;
+- **Reculer** et **Avancer** de 10 secondes, ou de 30 secondes en restant accroupi ;
+- **Ralentir** et **Accélérer**, de ×0,25 à ×4 ;
+- **Quitter le replay**.
+
+Votre inventaire est mis de côté à l'ouverture et vous est rendu à la fin.
 
 | Type de match | Conservation |
 | --- | --- |

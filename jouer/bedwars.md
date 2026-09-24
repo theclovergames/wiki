@@ -233,6 +233,8 @@ Seule l'**entrée** dans le rayon compte, et une recharge de **30 secondes** sui
 - le **son d'élimination**, joué à vous seul à chaque kill crédité ;
 - le **message d'élimination**, qui remplace l'annonce générique par votre propre formule, avec le nom du tueur et de la victime aux couleurs de leurs équipes, et une variante réservée au kill final.
 
+`/bw cosmetics` équipe ce que vous possédez ; les cosmétiques BedWars payants s'achètent dans `/shop`, rayon **Cosmétiques de mode**, depuis n'importe quel serveur. Voir [la boutique en jeu](../le-serveur/credits-economie.md#la-boutique-en-jeu).
+
 Comme partout sur le réseau, ces cosmétiques ne changent **rien** à la puissance de jeu.
 
 ## 🏆 Saisons et progression
@@ -242,6 +244,10 @@ Une saison dure **huit semaines**.
 Votre **niveau de matchmaking est caché** et séparé par format ; votre **ligue affichée** est commune à tous les formats. Vos statistiques permanentes cumulent toutes les saisons, mais les points affichés ne concernent que la saison en cours.
 
 À la rotation : le Top 10 est figé, les récompenses sont distribuées, les points repartent de zéro et votre niveau de matchmaking conserve la moitié de son écart à la moyenne. `/bw season` pour réclamer.
+
+`/bw season` affiche le **Top 100** de la saison en cours, par pages de 21 joueurs, avec votre propre rang, votre ligue et votre progression en tête du menu.
+
+`/bw history` liste vos **100 dernières parties terminées**, avec votre bilan sur ces parties. Les matchs interrompus ou incomplets n'y figurent pas.
 
 Les **étoiles BedWars** sont permanentes, avec un prestige visuel tous les 100 niveaux.
 
@@ -279,8 +285,8 @@ Votre profil BedWars est **public par défaut**. `/bw privacy` en masque les dé
 | `/bw leave` | Quitte la file ou la partie |
 | `/bw rejoin` | Revient dans un match en cours après déconnexion |
 | `/bw stats` | Vos statistiques |
-| `/bw season` | Saison en cours et récompenses |
-| `/bw history` | Vos matchs passés |
+| `/bw season` | Saison en cours, Top 100 et récompenses |
+| `/bw history` | Vos 100 dernières parties terminées |
 | `/bw replay` | Vos replays BedWars uniquement |
 | `/replays` | Toutes vos parties, BedWars et Practice réunis |
 | `/bw cosmetics` | Vos cosmétiques |
@@ -289,4 +295,4 @@ Votre profil BedWars est **public par défaut**. `/bw privacy` en masque les dé
 ## 💡 Bon à savoir
 
 - Un joueur éliminé reçoit un **sélecteur d'allié**, une **revanche rapide** et un retour au lobby.
-- Un joueur extérieur au match **ne peut pas entrer comme spectateur** : les accès en direct sont réservés aux éliminés.
+- Un joueur extérieur au match **ne peut pas entrer comme spectateur** : les accès en direct sont réservés aux éliminés. Seul le staff peut observer une partie en cours, en spectateur et sans y participer.
