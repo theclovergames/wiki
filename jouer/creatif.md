@@ -1,5 +1,5 @@
 ---
-description: Construction libre sur parcelle, en créatif, sans PvP ni classement.
+description: Construction libre sur parcelle, en créatif, sans PvP ni classement, et pêche au spawn.
 ---
 
 # Créatif
@@ -68,6 +68,44 @@ Ne donnez `/plot trust` qu'à des personnes en qui vous avez réellement confian
 * Les **œufs d'apparition** et la **reproduction** d'animaux sont désactivés.
 * La **fusion de parcelles** n'est pas activée : votre terrain garde sa taille.
 * Vous pouvez changer le **biome** de votre parcelle avec `/plot setbiome <biome>`.
+
+## 🎣 La pêche au spawn
+
+En attendant de construire, ou entre deux sessions, vous pouvez pêcher au bord de l'eau du **spawn du Créatif**. On n'y pêche pas de poissons : chaque prise réussie rapporte une récompense.
+
+### Obtenir la canne
+
+**Yann**, le pêcheur du spawn, vous prête sa canne. Elle ne sert qu'au spawn :
+
+* elle ne se jette pas, ne se range pas dans un coffre et ne s'use pas ;
+* elle retourne chez Yann si vous vous éloignez de plus de **40 blocs** de l'endroit où il vous l'a prêtée, ou s'il n'y a plus d'eau à moins de **10 blocs** de vous ;
+* elle vous est aussi reprise quand vous quittez le spawn, vous déconnectez ou mourez.
+
+Gardez un emplacement libre dans votre inventaire pour la recevoir.
+
+### Ferrer la prise
+
+1. Lancez la canne dans l'eau et attendez.
+2. Quand **« Ça mord ! »** s'affiche, une barre apparaît au-dessus de votre barre d'objets, avec un curseur qui la parcourt.
+3. **Cliquez** (gauche ou droit) quand le curseur est dans la **zone verte**. Vous avez 3 secondes par clic.
+4. Un clic hors de la zone verte ou un temps écoulé, et la prise file.
+
+Plus la prise est rare, plus il faut réussir de clics, plus la zone verte est étroite et plus le curseur va vite.
+
+### Ce que l'on peut pêcher
+
+| Rareté | Chance | Clics à réussir | Récompenses possibles |
+| --- | ---: | :---: | --- |
+| Commune | 70 % | 1 | 2 à 6 pièces, ou 5 à 12 XP |
+| Rare | 22 % | 2 | 10 à 25 pièces, 20 à 40 XP, ou une clé commune |
+| Épique | 7 % | 3 | 40 à 80 pièces, une clé rare, ou le familier **Axolotl** |
+| Légendaire | 1 % | 3 | 150 à 300 pièces, ou une clé légendaire |
+
+Si vous possédez déjà l'Axolotl, vous recevez **100 pièces** à la place. Une prise légendaire est annoncée à tout le serveur.
+
+{% hint style="info" %}
+L'XP gagnée à la pêche compte pour votre **niveau réseau**, et les clés ouvrent les caisses de cosmétiques. La pêche n'est pas encore disponible sur le lobby principal.
+{% endhint %}
 
 ## 📜 Règles
 

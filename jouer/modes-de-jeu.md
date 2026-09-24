@@ -13,7 +13,7 @@ description: Ce qui est jouable aujourd'hui sur Clover Games, et ce qui arrive.
 | [**PvPSoup**](pvpsoup.md)   | Combat libre pour tous, persistant. Soupes pour se soigner, 8 kits débloqués par votre niveau PvPSoup, primes et saisons. |
 | [**SkyPvP**](skypvp.md)     | Combat libre, sans soupe. Vos armes s'usent, et des coffres partagés sont à piller sur la carte.            |
 | [**BedWars**](bedwars.md)   | Quatre formats du Solo au Quad, votes de carte et de style de combat, saisons de huit semaines et replays.  |
-| [**Créatif**](creatif.md)   | Construction libre sur parcelle de 150 × 150, en mode créatif, sans monstres ni PvP.                        |
+| [**Créatif**](creatif.md)   | Construction libre sur parcelle de 150 × 150, en mode créatif, sans monstres ni PvP, et pêche récompensée au spawn. |
 
 {% hint style="success" %}
 Tout est accessible dès votre première connexion. Aucun mode ne demande d'achat pour être joué. Voir [Pièces](../le-serveur/credits-economie.md).
