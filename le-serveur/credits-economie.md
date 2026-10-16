@@ -21,7 +21,7 @@ Votre solde est **commun à tout le réseau** : les pièces gagnées dans un mod
 {% endhint %}
 
 {% hint style="success" %}
-**Rien de ce qui s'obtient avec des pièces ne donne d'avantage en combat.** C'est une règle de conception : aucun kit de PvPSoup ou de SkyPvP ne s'achète, l'ELO du Practice ne s'achète pas, et aucun objet de partie BedWars n'est en vente. Les pièces achètent de l'apparence, du confort et du contenu.
+**Rien de ce qui s'obtient avec des pièces ne donne d'avantage en combat.** C'est une règle de conception : aucun kit de PvPSoup ou de SkyPvP ne s'achète, le prestige du Practice et du BedWars ne s'achète pas, et aucun objet de partie BedWars n'est en vente. Les pièces achètent de l'apparence, du confort et du contenu.
 {% endhint %}
 
 ## 📥 Gagner des pièces
@@ -35,6 +35,7 @@ Votre solde est **commun à tout le réseau** : les pièces gagnées dans un mod
 | **Vote party**                  | Pour les joueurs en ligne, tous les 20 votes collectifs                                                 |
 | **Classement mensuel de votes** | Récompense les trois premiers                                                                           |
 | **Fin de saison Practice**      | Selon votre palier. Voir [Practice](../jouer/practice.md#recompenses-de-saison)                         |
+| **Fin de saison BedWars**       | Selon votre prestige et votre place au Top 10. Voir [BedWars](../jouer/bedwars.md#fin-de-saison)          |
 | **Métiers et donjons**          | En Survie, une fois le mode ouvert                                                                      |
 | **Événements**                  | Variable, annoncé à chaque événement                                                                    |
 

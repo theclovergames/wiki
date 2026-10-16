@@ -241,18 +241,43 @@ Comme partout sur le réseau, ces cosmétiques ne changent **rien** à la puissa
 
 Une saison dure **huit semaines**.
 
-Votre **niveau de matchmaking est caché** et séparé par format ; votre **ligue affichée** est commune à tous les formats. Vos statistiques permanentes cumulent toutes les saisons, mais les points affichés ne concernent que la saison en cours.
+### Le prestige compétitif
 
-À la rotation : le Top 10 est figé, les récompenses sont distribuées, les points repartent de zéro et votre niveau de matchmaking conserve la moitié de son écart à la moyenne. `/bw season` pour réclamer.
+Vous avez **un seul prestige**, commun aux quatre formats : une partie en Solo ou en Quad fait évoluer le même score. Les files restent les mêmes, il n'y a ni file classée ni file non classée à choisir.
 
-`/bw season` affiche le **Top 100** de la saison en cours, par pages de 21 joueurs, avec votre propre rang, votre ligue et votre progression en tête du menu.
+| Élément | Valeur |
+| --- | --- |
+| Score de départ | 1 000 points |
+| Placement | 10 parties, communes à tous les formats |
+| Ce qui compte | **La victoire de votre équipe** et le niveau moyen des équipes en face |
+| Ce qui ne compte pas | Kills, éliminations finales et lits détruits : ils font progresser vos étoiles et vos statistiques, pas votre prestige |
+
+L'équipe gagnante prend des points, les autres peuvent en perdre. Plus les équipes battues étaient fortes, plus la victoire rapporte. Dans une partie à huit équipes de même niveau, pendant le placement, chaque gagnant reçoit environ **35 points** et chaque perdant en cède environ **5**. Les variations se réduisent après le placement, puis encore à partir de 1 800 points. Le score ne descend jamais sous zéro.
+
+| Prestige | Points minimum | Récompense de saison |
+| --- | ---: | ---: |
+| **Bronze** | 0 | — |
+| **Argent** | 900 | 10 pièces |
+| **Or** | 1 100 | 25 pièces |
+| **Platine** | 1 300 | 50 pièces |
+| **Diamant** | 1 500 | 75 pièces |
+| **Maître** | 1 700 | 100 pièces |
+| **Grand Maître** | 1 900 | 150 pièces |
+
+Les paliers sont les mêmes qu'en [Practice](practice.md#prestige-competitif), mais les deux prestiges restent séparés. Pendant le placement, votre rang s'affiche **« Placement 4/10 »** et vous n'entrez pas encore au classement. Le score et sa variation sont annoncés dans le chat à la fin de chaque partie qui compte.
+
+### Fin de saison
+
+À la rotation, le Top 10 est figé et chaque joueur placé reçoit les pièces de son palier final, voir le tableau ci-dessus. Le podium s'y ajoute : **250 pièces** pour le premier, **175** pour le deuxième, **125** pour le troisième et **75** de la 4ᵉ à la 10ᵉ place, avec un cosmétique de champion pour tout le Top 10. Seuls les joueurs ayant terminé leur placement y ont droit. Votre score conserve ensuite la moitié de son écart à 1 000, et le placement recommence. `/bw season` pour réclamer.
+
+`/bw season` affiche le **Top 100** de la saison en cours, par pages de 21 joueurs, avec votre propre rang, votre prestige et votre progression en tête du menu.
 
 `/bw history` liste vos **100 dernières parties terminées**, avec votre bilan sur ces parties. Les matchs interrompus ou incomplets n'y figurent pas.
 
-Les **étoiles BedWars** sont permanentes, avec un prestige visuel tous les 100 niveaux.
+Les **étoiles BedWars** sont permanentes, avec un prestige visuel tous les 100 niveaux. Elles ne dépendent pas du prestige compétitif.
 
 {% hint style="warning" %}
-Deux situations conservent vos statistiques mais **ne rapportent ni points ni récompenses** : un match de moins de cinq minutes, et une quatrième rencontre contre les mêmes adversaires dans la même heure. C'est la protection contre les matchs arrangés.
+Deux situations conservent vos statistiques mais **ne modifient pas le prestige et n'avancent pas le placement** : un match de moins de cinq minutes, et une quatrième rencontre contre les mêmes adversaires dans la même heure, tous formats confondus. C'est la protection contre les matchs arrangés.
 {% endhint %}
 
 ## 🎬 Replays

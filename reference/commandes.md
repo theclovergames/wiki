@@ -251,7 +251,7 @@ Mode **ouvert**, et encore en développement comme le reste du serveur. Voir [Be
 | `/practice join <ranked\|unranked> <1v1\|2v2> <kit>` | Rejoint une file |
 | `/practice leave` | Quitte la file ou abandonne |
 | `/practice stats [joueur] [kit] [format]` | Statistiques |
-| `/practice top <kit> <format>` | Classement d'un kit |
+| `/practice top` | Top 10 du prestige, tous kits confondus |
 | `/practice history` | Vos 63 derniers combats |
 | `/practice effect [set <id>]` | Effets de victoire |
 | `/duel <joueur> <kit>` | Défie un joueur, invitation cliquable valable 30 s |

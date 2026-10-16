@@ -1,10 +1,10 @@
 ---
-description: Duels 1v1 et 2v2, kits, classement ELO, bots d'entraînement et replays.
+description: Duels 1v1 et 2v2, kits, prestige compétitif commun, bots d'entraînement et replays.
 ---
 
 # Practice
 
-**Practice** est le mode compétitif de Clover Games : des duels courts, un kit pour chaque style de combat, un classement ELO par saison, des bots pour s'entraîner et un système de replay pour revoir ses combats.
+**Practice** est le mode compétitif de Clover Games : des duels courts, un kit pour chaque style de combat, un prestige compétitif commun à tous les kits, des bots pour s'entraîner et un système de replay pour revoir ses combats.
 
 {% hint style="info" %}
 **Pour y accéder :** depuis le lobby, **clic droit sur la boussole** de votre barre, puis Practice dans le sélecteur de serveurs. Les commandes `/practice` ci-dessous ne fonctionnent qu'une fois sur le mode.
@@ -16,13 +16,13 @@ Tapez `/practice` pour ouvrir le menu. Vous choisissez d'affronter **un joueur**
 
 | Format | Description |
 | --- | --- |
-| **1v1 classé** | Duel seul contre seul, compte pour votre ELO |
-| **2v2 classé** | En équipe de deux, ELO séparé du 1v1 |
-| **1v1 / 2v2 non classé** | Mêmes règles, sans effet sur l'ELO |
+| **1v1 classé** | Duel seul contre seul, compte pour votre prestige |
+| **2v2 classé** | En équipe de deux, compte pour le **même** prestige que le 1v1 |
+| **1v1 / 2v2 non classé** | Mêmes règles, sans effet sur le prestige |
 | **Duel privé** | Vous défiez un joueur précis avec `/duel` : jusqu'à 4v4 entre groupes |
 | **Combat contre bot** | Entraînement avec `/botfight`, quatre difficultés |
 
-En file classée, la fenêtre de recherche d'adversaire s'élargit progressivement et évite de vous remettre face au même joueur en boucle.
+En file classée, la fenêtre de recherche d'adversaire s'élargit progressivement : au bout de 15 secondes, vous pouvez tomber sur n'importe quel niveau. Les deux adversaires jouent toujours le même kit et le même format.
 
 {% hint style="info" %}
 Un groupe de deux rejoint le 2v2 comme équipe déjà formée. Un groupe de quatre qui choisit le 2v2 non classé est réparti automatiquement en deux équipes de deux, sans passer par la file publique. Dans un groupe de 2 à 8 joueurs, le chef peut lancer `/team split <kit>` pour créer deux camps équilibrés.
@@ -51,7 +51,7 @@ Les kits actuellement disponibles :
 {% endhint %}
 
 {% hint style="warning" %}
-**Ce tableau n'est pas figé.** De nouveaux kits sont ajoutés au fil des mises à jour, et chacun ouvre son propre classement. La liste qui fait foi est celle du menu `/practice` en jeu ; si un kit y apparaît sans figurer ici, signalez-le sur le Discord.
+**Ce tableau n'est pas figé.** De nouveaux kits sont ajoutés au fil des mises à jour ; ils comptent tous pour le même prestige. La liste qui fait foi est celle du menu `/practice` en jeu ; si un kit y apparaît sans figurer ici, signalez-le sur le Discord.
 {% endhint %}
 
 ### Détails à connaître
@@ -79,23 +79,27 @@ Si aucune arène compatible n'est configurée pour le kit demandé, la file est 
 
 Pendant le match, le tableau latéral affiche le **nombre d'adversaires encore en vie sur le total engagé**, sous la forme `Adversaires : 2/3`. En 2v2 comme en 4v4, c'est l'information qui compte : combien il en reste à sortir.
 
-## 🏆 Classement ELO
+## 🏆 Prestige compétitif
 
-Chaque combinaison **kit + format** possède son propre ELO.
+Vous avez **un seul prestige**, commun à tous les kits et aux deux formats classés. Gagner en `nodebuff` 1v1 ou en `sumo` 2v2 fait monter le même score : changer de kit ne vous fait jamais repartir de zéro.
 
 | Élément | Valeur |
 | --- | --- |
-| ELO de départ | 1 000 |
-| Matchs de placement | 10 (variations plus fortes) |
-| Après placement | Variations moyennes, puis réduites à haut niveau |
+| Score de départ | 1 000 points |
+| Matchs de placement | 10, communs à tous les kits et formats (variations plus fortes) |
+| Après placement | Variations moyennes, puis réduites à partir de 1 800 points |
 | Durée d'une saison | 1 mois |
 | Remise à zéro | Partielle : la moitié de votre écart à 1 000 est conservée |
 
+Les points gagnés ou perdus dépendent du résultat et du niveau de l'adversaire : battre plus fort que soi rapporte davantage, perdre contre plus faible coûte davantage. À niveau égal, après le placement, une victoire rapporte environ **12 points** et une défaite en retire autant. En 2v2, c'est la moyenne de l'équipe adverse qui compte, et il n'y a aucun bonus de points par rapport au 1v1.
+
+Pendant vos dix premiers matchs classés, votre rang s'affiche **« En placement — 4/10 »** et vous n'apparaissez pas encore au classement public. À la fin de chaque match classé, les points avant et après sont annoncés dans le chat.
+
 ### Paliers
 
-Votre palier découle directement de votre ELO, et détermine votre récompense de fin de saison.
+Votre palier découle directement de vos points : il monte et redescend avec eux, et détermine votre récompense de fin de saison.
 
-| Palier | ELO minimum | Récompense de saison |
+| Prestige | Points minimum | Récompense de saison |
 | --- | ---: | ---: |
 | **Bronze** | 0 | — |
 | **Argent** | 900 | 10 pièces |
@@ -106,8 +110,16 @@ Votre palier découle directement de votre ELO, et détermine votre récompense 
 | **Grand Maître** | 1 900 | 100 pièces |
 
 {% hint style="info" %}
-Vous démarrez à 1 000 d'ELO, donc en **Argent**. Chaque kit et chaque format ont leur palier propre : vous pouvez être Diamant en `nodebuff` 1v1 et Or en `sumo` 2v2.
+Vous démarrez à 1 000 points, donc en **Prestige Argent** une fois vos placements terminés. Le même prestige s'affiche partout : menus, tableau latéral, `/practice stats` et classement.
 {% endhint %}
+
+### Adversaires déjà rencontrés
+
+Après **trois matchs classés contre les mêmes adversaires en une heure**, vous pouvez continuer à vous affronter, mais les matchs suivants **ne modifient plus le prestige** de personne. Vous en êtes prévenus avant le départ, puis rappelés au résultat.
+
+- Changer de kit, de format, de camp ou de partenaire ne remet pas ce compteur à zéro.
+- En 2v2, il suffit qu'une paire d'adversaires ait atteint la limite pour que tout le match soit sans effet sur le prestige.
+- Ces matchs restent comptés dans vos statistiques et vos replays, mais pas dans vos placements ni dans les conditions de récompense de saison.
 
 ### Séries
 
@@ -116,21 +128,21 @@ Chaque victoire augmente votre série pour ce kit et ce format. Une défaite **o
 Le menu Statistiques affiche aussi votre **ratio victoires/défaites**, à deux décimales.
 
 {% hint style="warning" %}
-Les **duels privés, les matchs entre groupes et les combats contre bots ne sont jamais classés**. C'est volontaire : cela empêche de fabriquer de l'ELO entre amis.
+Les **duels privés, les revanches amicales, les matchs entre groupes et les combats contre bots ne sont jamais classés**. C'est volontaire : cela empêche de fabriquer du prestige entre amis. Un match annulé avant son départ ne compte pas non plus ; un abandon ou une déconnexion en plein match, en revanche, compte comme une défaite.
 {% endhint %}
 
 ### Récompenses de saison
 
-À la fin d'une saison, votre **meilleure cote** vous rapporte les pièces de votre palier. Voir le tableau ci-dessus. Deux conditions :
+À la fin d'une saison, le **meilleur score** que vous avez atteint vous rapporte les pièces du palier correspondant. Voir le tableau ci-dessus. Deux conditions :
 
-- avoir joué au moins **25 matchs** ;
-- avoir remporté au moins **10 victoires**.
+- avoir joué au moins **25 matchs classés** ayant compté pour le prestige ;
+- avoir remporté au moins **10 de ces matchs**.
 
 La récompense n'est versée qu'une fois, même en cas de coupure du serveur au mauvais moment.
 
 ## 📈 L'XP des duels
 
-Chaque duel terminé rapporte de l'XP, versée à la fois sur la **progression Practice** et sur votre **niveau réseau**. Les duels privés et les matchs entre groupes en rapportent aussi, alors qu'ils ne comptent pas pour l'ELO.
+Chaque duel terminé rapporte de l'XP, versée à la fois sur la **progression Practice** et sur votre **niveau réseau**. Les duels privés et les matchs entre groupes en rapportent aussi, alors qu'ils ne comptent pas pour le prestige. Une défaite classée vous fait perdre des points de prestige, jamais de l'XP.
 
 | Situation           |  XP |
 | ------------------- | --: |
@@ -235,7 +247,7 @@ Votre choix est conservé d'une session à l'autre. Ces effets sont purement dé
 | `/practice join <ranked\|unranked> <1v1\|2v2> <kit>` | Rejoint une file directement |
 | `/practice leave` | Quitte la file ou abandonne le match |
 | `/practice stats [joueur] [kit] [format]` | Statistiques détaillées |
-| `/practice top <kit> <format>` | Classement d'un kit |
+| `/practice top` | Top 10 du prestige, tous kits et formats confondus |
 | `/practice history` | Vos 63 derniers combats |
 | `/practice effect [set <id>]` | Gère vos effets de victoire |
 | `/duel <joueur> <kit>` | Défie un joueur. Il reçoit une invitation **cliquable** dans le chat et dispose de **30 secondes** |
