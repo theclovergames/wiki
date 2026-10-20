@@ -51,8 +51,8 @@ Le [Coinflip](coinflip.md) ne crée pas de pièces : il en déplace d'un joueur 
 | ----------------------------- | --------------------------------------- |
 | Cosmétiques et effets visuels | Boutique et menus en jeu                |
 | Familiers et gadgets          | Menus en jeu                            |
-| Boosters d'XP                 | [Boutique](https://clovergames.fr/shop) |
-| Clefs de caisses              | Récompenses de votes et de niveaux      |
+| Boosters d'XP                 | `/shop`, rayon **Boosters d'XP**, ou la [boutique](https://clovergames.fr/shop) |
+| Clés de caisse                | `/shop`, rayon **Clés de caisses**      |
 | Services de confort           | Boutique                                |
 | Contenu Survie                | Métiers, donjons, étals de comptoir     |
 
@@ -77,6 +77,28 @@ Chaque article annonce son prix **et sa valeur en euros**, puis son état : ache
 {% endhint %}
 
 Côté BedWars, `/bw cosmetics` devient une **armoire** : il équipe ce que vous possédez et renvoie le reste vers la boutique. Ce que vous aviez déjà acheté dans l'ancien menu reste acquis, et ne vous sera jamais revendu.
+
+### Les clés de caisse
+
+Le rayon **Clés de caisses** vend les cinq clés du réseau. Vous choisissez la quantité, de 1 à 64, au moment de confirmer l'achat.
+
+| Clé | Prix | Cosmétiques surtout tirés | Bonus possibles |
+| --- | ---: | --- | --- |
+| **Commune** | 350 pièces | Communs | 10 à 40 pièces |
+| **Peu commune** | 700 pièces | Communs et peu communs | 30 à 90 pièces, clé commune |
+| **De vote** | 750 pièces | Toutes raretés, surtout communs | 50 à 250 pièces, 250 à 1 000 XP réseau, clé de vote |
+| **Rare** | 1 500 pièces | Rares | 80 à 220 pièces, clé peu commune |
+| **Légendaire** | 3 000 pièces | Rares et légendaires | 250 à 600 pièces, clé rare |
+
+Chaque clé ouvre sa propre caisse, et le tirage rapporte soit un cosmétique, soit l'un des bonus ci-dessus. Les familiers comptent parmi les cosmétiques : chaque caisse peut vous donner un familier qui vous manque.
+
+{% hint style="success" %}
+**Jamais de doublon.** Un cosmétique que vous possédez déjà ne peut plus sortir d'une caisse.
+{% endhint %}
+
+`/gadget crates` ouvre vos caisses et affiche les **chances exactes** de chacune. Une caisse posée dans le monde s'ouvre aussi d'un **clic droit**, si vous avez une clé de cette caisse ; un **clic gauche** ouvre le menu des caisses et leurs chances.
+
+Les clés se gagnent aussi en jeu : en montant de niveau, en réclamant vos [paliers de vote](votes-et-recompenses.md) et vos paliers de temps de jeu, et à la [pêche](../jouer/creatif.md).
 
 ### La boutique fidélité
 
@@ -126,7 +148,7 @@ Un booster acheté **rejoint votre stock** sans démarrer : c'est vous qui chois
 **Un seul booster tourne à la fois**, les autres attendent leur tour dans votre stock. La durée s'écoule en **temps réel** : elle continue si vous changez de serveur, et même si vous vous déconnectez. Vous êtes prévenu à l'expiration.
 {% endhint %}
 
-Le multiplicateur s'applique à votre **niveau réseau** comme aux **progressions propres à chaque mode**, celles qui débloquent les kits PvPSoup et SkyPvP. Un booster vous fait donc avancer plus vite, mais ne débloque rien d'inaccessible et ne rend aucun kit plus fort qu'un autre : la règle ci-dessus tient.
+Le multiplicateur s'applique à votre **niveau réseau** comme aux **progressions propres à chaque mode**, dont celle qui débloque les kits PvPSoup. Les kits SkyPvP, eux, se débloquent aux éliminations : un booster ne les rapproche pas. Un booster vous fait donc avancer plus vite, mais ne débloque rien d'inaccessible et ne rend aucun kit plus fort qu'un autre : la règle ci-dessus tient.
 
 ## 🔎 Consulter et transférer
 

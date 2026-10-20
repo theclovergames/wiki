@@ -150,6 +150,7 @@ Les parties enregistrées avant la mise en service de cette bibliothèque n'ont 
 | --- | --- |
 | `/pets` | Vos familiers |
 | `/gadget` | Vos cosmétiques et gadgets |
+| `/gadget crates` | Vos caisses, vos clés et les chances de chaque caisse |
 | `/gadget unequip <famille\|all>` | Retire un cosmétique, ou tous |
 | `/gadget favorite <id>` | Ajoute un cosmétique à vos favoris |
 | `/gadget loadout <list\|save\|apply\|delete> <1-3> [nom]` | Vos trois panoplies enregistrées |
