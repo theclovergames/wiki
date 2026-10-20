@@ -6,29 +6,52 @@ description: Adresse du serveur, versions compatibles et première connexion.
 
 ## 🌐 Adresse et version
 
-| Élément            | Valeur                  |
-| ------------------ | ----------------------- |
-| Adresse            | `play.clovergames.fr`   |
-| Édition            | Minecraft **Java**      |
-| Version acceptée   | **26.3**                |
+| Élément  | Java                  | Bedrock               |
+| -------- | --------------------- | --------------------- |
+| Adresse  | `play.clovergames.fr` | `play.clovergames.fr` |
+| Port     | Aucun à saisir        | `19132`               |
+| Version  | **26.3** uniquement   | La plus récente       |
 
 {% hint style="info" %}
-**Le réseau tourne en Minecraft 26.3.** C'est la seule version acceptée : les profils plus anciens, `1.21` comprise, ne peuvent plus se connecter. Sélectionnez `26.3` dans votre lanceur avant de rejoindre.
+**Le réseau tourne en Minecraft 26.3.** C'est la seule version Java acceptée : les profils plus anciens, `1.21` comprise, ne peuvent plus se connecter. Sélectionnez `26.3` dans votre lanceur avant de rejoindre.
 {% endhint %}
 
-{% hint style="warning" %}
-**Minecraft Bedrock ne permet pas encore de nous rejoindre.** Console, mobile et l'application Windows ne peuvent pas se connecter aujourd'hui : l'édition **Java** est la seule acceptée.
-
-La compatibilité Bedrock est prévue, sans date annoncée. L'adresse et le port seront publiés sur le [Discord](https://discord.gg/theclovergames) le jour où elle ouvrira. Entre-temps, **aucune adresse Bedrock trouvée ailleurs ne vient de nous**.
+{% hint style="success" %}
+**Minecraft Bedrock peut nous rejoindre.** Java et Bedrock jouent sur le même réseau, ensemble, dans tous les modes. Gardez simplement votre jeu Bedrock à jour.
 {% endhint %}
 
 ## ➕ Ajouter le serveur
 
+{% tabs %}
+{% tab title="Java" %}
 1. Lancez Minecraft Java en version **26.3**.
 2. Ouvrez **Multijoueur**, puis **Ajouter un serveur**.
 3. Nom du serveur : `Clover Games`.
 4. Adresse du serveur : `play.clovergames.fr`.
 5. Validez, puis rejoignez le serveur.
+{% endtab %}
+
+{% tab title="Bedrock" %}
+1. Lancez Minecraft Bedrock, à jour.
+2. Ouvrez **Jouer**, puis l'onglet **Serveurs**, et **Ajouter un serveur**.
+3. Nom du serveur : `Clover Games`.
+4. Adresse du serveur : `play.clovergames.fr`, port : `19132`.
+5. Enregistrez, puis rejoignez le serveur.
+
+Sur Xbox, PlayStation et Switch, le jeu ne propose pas d'ajouter un serveur externe. Demandez de l'aide sur le [Discord](https://discord.gg/theclovergames).
+{% endtab %}
+{% endtabs %}
+
+## 🔗 Un seul compte pour Java et Bedrock
+
+Sans liaison, votre compte Bedrock est un compte à part : votre pseudo porte un préfixe, et votre progression n'est pas celle de votre compte Java.
+
+Pour jouer avec le même compte sur les deux éditions :
+
+1. liez votre compte **Java** au [site](../le-serveur/le-site-web.md#lier-votre-compte-minecraft), avec `/lier` tapé depuis Java ;
+2. connectez-vous au site avec votre **compte Microsoft**, celui que vous utilisez sur Bedrock.
+
+Vous rejoignez ensuite le serveur depuis Bedrock avec votre compte Java : même pseudo, mêmes pièces, même progression.
 
 ## 🧩 Mods et clients autorisés
 
@@ -68,7 +91,7 @@ La liste complète est sur [Toutes les commandes](../reference/commandes.md).
 
 ## 🛠️ En cas de problème de connexion
 
-1. Vérifiez que votre version est bien **26.3**.
-2. Vérifiez l'adresse : `play.clovergames.fr`, sans port ni espace.
+1. Java : vérifiez que votre version est bien **26.3**. Bedrock : mettez le jeu à jour.
+2. Vérifiez l'adresse : `play.clovergames.fr`, sans espace. Aucun port en Java, `19132` en Bedrock.
 3. Consultez le canal d'annonces du [Discord](https://discord.gg/theclovergames) : une maintenance est peut-être en cours.
 4. Si le problème persiste, ouvrez un ticket : [Support et signalements](../le-serveur/support-et-signalements.md).
