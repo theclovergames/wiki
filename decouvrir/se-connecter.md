@@ -10,10 +10,10 @@ description: Adresse du serveur, versions compatibles et première connexion.
 | ------------------ | ----------------------- |
 | Adresse            | `play.clovergames.fr`   |
 | Édition            | Minecraft **Java**      |
-| Version acceptée   | **26.2**                |
+| Version acceptée   | **26.3**                |
 
 {% hint style="info" %}
-**Le réseau tourne en Minecraft 26.2.** C'est la seule version acceptée : les profils plus anciens, `1.21` comprise, ne peuvent plus se connecter. Sélectionnez `26.2` dans votre lanceur avant de rejoindre.
+**Le réseau tourne en Minecraft 26.3.** C'est la seule version acceptée : les profils plus anciens, `1.21` comprise, ne peuvent plus se connecter. Sélectionnez `26.3` dans votre lanceur avant de rejoindre.
 {% endhint %}
 
 {% hint style="warning" %}
@@ -24,7 +24,7 @@ La compatibilité Bedrock est prévue, sans date annoncée. L'adresse et le port
 
 ## ➕ Ajouter le serveur
 
-1. Lancez Minecraft Java en version **26.2**.
+1. Lancez Minecraft Java en version **26.3**.
 2. Ouvrez **Multijoueur**, puis **Ajouter un serveur**.
 3. Nom du serveur : `Clover Games`.
 4. Adresse du serveur : `play.clovergames.fr`.
@@ -68,7 +68,7 @@ La liste complète est sur [Toutes les commandes](../reference/commandes.md).
 
 ## 🛠️ En cas de problème de connexion
 
-1. Vérifiez que votre version est bien **26.2**.
+1. Vérifiez que votre version est bien **26.3**.
 2. Vérifiez l'adresse : `play.clovergames.fr`, sans port ni espace.
 3. Consultez le canal d'annonces du [Discord](https://discord.gg/theclovergames) : une maintenance est peut-être en cours.
 4. Si le problème persiste, ouvrez un ticket : [Support et signalements](../le-serveur/support-et-signalements.md).
